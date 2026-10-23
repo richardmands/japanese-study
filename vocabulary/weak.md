@@ -1,0 +1,478 @@
+# Vocabulary: weak spots
+
+Japanese words from the Core 2k/6k deck, in frequency order. Format: word（reading）— meaning · part of speech. Forgotten 3 or more times, or currently relearning. Most-forgotten first.
+
+472 items.
+
+- 実行（じっこう） — practice, execution · verbal noun · forgotten 17×
+- 出場（しゅつじょう） — participation · verbal noun · forgotten 13×
+- 向上（こうじょう） — improvement · verbal noun · forgotten 11×
+- 完成（かんせい） — completion, finish · verbal noun · forgotten 10×
+- 交渉（こうしょう） — negotiation, bargaining · verbal noun · forgotten 10×
+- 経過（けいか） — progression, lapse · verbal noun · forgotten 10×
+- 間接（かんせつ） — indirect · noun · forgotten 10×
+- 一応（いちおう） — tentatively · adverb · forgotten 10×
+- 確立（かくりつ） — establishment · verbal noun · forgotten 10×
+- 自習（じしゅう） — self-study, self-teaching · verbal noun · forgotten 9×
+- 成功（せいこう） — success · verbal noun · forgotten 9×
+- 候補（こうほ） — candidacy, candidate · noun · forgotten 9×
+- 国交（こっこう） — diplomatic relations, national friendship · noun · forgotten 9×
+- 作用（さよう） — action, effect · verbal noun · forgotten 9×
+- 商人（しょうにん） — merchant, trader · noun · forgotten 9×
+- 実習（じっしゅう） — practice, training · verbal noun · forgotten 9×
+- 生産（せいさん） — production · verbal noun · forgotten 8×
+- 実際（じっさい） — truth, actual state · adverb · forgotten 8×
+- 上昇（じょうしょう） — ascension, rising · verbal noun · forgotten 8×
+- 与える（あたえる） — give · verb · forgotten 8×
+- 消費（しょうひ） — consumption, spending · verbal noun · forgotten 8×
+- 申請（しんせい） — application, petition · verbal noun · forgotten 8×
+- 打ち込む（うちこむ） — devote oneself · verb · forgotten 8×
+- 正式（せいしき） — formal, regular · adjectival noun · forgotten 8×
+- 八日（ようか） — eight days, 8th of the month · noun · forgotten 7×
+- 予習（よしゅう） — preparation, previewing (a lesson) · verbal noun · forgotten 7×
+- 発生（はっせい） — occurrence, happening · verbal noun · forgotten 7×
+- 設計（せっけい） — design, plan · verbal noun · forgotten 7×
+- 公開（こうかい） — opening (to the public) · verbal noun · forgotten 7×
+- 正確（せいかく） — accurate, precise · adjectival noun · forgotten 7×
+- 政権（せいけん） — political power · noun · forgotten 7×
+- 休憩（きゅうけい） — rest, repose · verbal noun · forgotten 7×
+- 後方（こうほう） — back, rear · noun · forgotten 7×
+- 生じる（しょうじる） — happen, cause · verb · forgotten 7×
+- 生かす（いかす） — take advantage of, make use of · verb · forgotten 7×
+- 強制（きょうせい） — compulsion, force · verbal noun · forgotten 7×
+- 個性（こせい） — individuality · noun · forgotten 7×
+- 経費（けいひ） — expense · noun · forgotten 7×
+- 支持（しじ） — support, maintenance · verbal noun · forgotten 7×
+- 支出（ししゅつ） — expenditure, disbursement · verbal noun · forgotten 7×
+- 収支（しゅうし） — earnings and expenses · noun · forgotten 7×
+- 指定（してい） — designation, appointment · verbal noun · forgotten 7×
+- 減少（げんしょう） — decrease, reduction · verbal noun · forgotten 7×
+- 欠く（かく） — lack · verb · forgotten 7×
+- 移転（いてん） — transfer, change of address · verbal noun · forgotten 7×
+- 気楽（きらく） — easygoing, comfortable · adjectival noun · forgotten 7×
+- 行楽（こうらく） — excursion, outing · noun · forgotten 7×
+- 企画（きかく） — plan, project · verbal noun · forgotten 7×
+- 禁酒（きんしゅ） — abstention from alcohol · verbal noun · forgotten 7×
+- 意向（いこう） — intention, inclination · noun · forgotten 7×
+- 原則（げんそく） — principle, general rule · noun · forgotten 7×
+- 原理（げんり） — principle, theory · noun · forgotten 7×
+- 資産（しさん） — property, assets · noun · forgotten 7×
+- 障害（しょうがい） — obstacle, disorder · noun · forgotten 7×
+- 継続（けいぞく） — continuation, succession · verbal noun · forgotten 7×
+- 帰省（きせい） — homecoming · verbal noun · forgotten 7×
+- 四日（よっか） — four days, 4th of the month · noun · forgotten 6×
+- 国会（こっかい） — National Diet, parliament · noun · forgotten 6×
+- 情報（じょうほう） — information · noun · forgotten 6×
+- 企業（きぎょう） — corporation, business · noun · forgotten 6×
+- 強化（きょうか） — strengthening · verbal noun · forgotten 6×
+- 用意（ようい） — prepare, ready oneself · verbal noun · forgotten 6×
+- 提供（ていきょう） — offer, provide · verbal noun · forgotten 6×
+- 加工（かこう） — processing, manufacturing · verbal noun · forgotten 6×
+- 故障（こしょう） — malfunction, fault, breakdown · verbal noun · forgotten 6×
+- 主張（しゅちょう） — insistence, assertion · verbal noun · forgotten 6×
+- 見解（けんかい） — opinion, view · noun · forgotten 6×
+- 消火（しょうか） — fire fighting · verbal noun · forgotten 6×
+- 商社（しょうしゃ） — trading firm · noun · forgotten 6×
+- 手段（しゅだん） — means, way · noun · forgotten 6×
+- 高価（こうか） — high-priced · adjectival noun · forgotten 6×
+- 青春（せいしゅん） — youth · noun · forgotten 6×
+- 思わず（おもわず） — unintentionally, unconsciously · adverb · forgotten 6×
+- 決心（けっしん） — determination, resolve · verbal noun · forgotten 6×
+- 市場（しじょう） — market, exchange · noun · forgotten 6×
+- 重役（じゅうやく） — executive · noun · forgotten 6×
+- 教わる（おそわる） — be taught, learn · verb · forgotten 6×
+- 制御（せいぎょ） — control, command · verbal noun · forgotten 6×
+- 性質（せいしつ） — nature, property · noun · forgotten 6×
+- 決勝（けっしょう） — final, final game · noun · forgotten 6×
+- 支える（ささえる） — support, maintain · verb · forgotten 6×
+- 支社（ししゃ） — branch office · noun · forgotten 6×
+- 限界（げんかい） — boundary, limit · noun · forgotten 6×
+- 次回（じかい） — next time · noun · forgotten 6×
+- 運用（うんよう） — operation, management · verbal noun · forgotten 6×
+- 始終（しじゅう） — from beginning to end, at all times · adverb · forgotten 6×
+- 区画（くかく） — division, section · noun · forgotten 6×
+- 人種（じんしゅ） — race · noun · forgotten 6×
+- 種目（しゅもく） — item, event · noun · forgotten 6×
+- 効力（こうりょく） — effect, validity · noun · forgotten 6×
+- 信用（しんよう） — trust, credit · verbal noun · forgotten 6×
+- 協議（きょうぎ） — conference, deliberation · verbal noun · forgotten 6×
+- 応じる（おうじる） — answer, comply with · verb · forgotten 6×
+- 応用（おうよう） — application · verbal noun · forgotten 6×
+- 意欲（いよく） — volition, motivation · noun · forgotten 6×
+- 確保（かくほ） — securement · verbal noun · forgotten 6×
+- 機長（きちょう） — airplane captain · noun · forgotten 6×
+- 勝敗（しょうはい） — victory or defeat · noun · forgotten 6×
+- 正当（せいとう） — just, legal · adjectival noun · forgotten 6×
+- 外相（がいしょう） — Minister of Foreign Affairs · noun · forgotten 6×
+- 進行（しんこう） — advancement · verbal noun · forgotten 6×
+- 公害（こうがい） — environmental pollution · noun · forgotten 6×
+- 削減（さくげん） — curtailment, reduction · verbal noun · forgotten 6×
+- 健全（けんぜん） — healthy, sound · adjective · forgotten 6×
+- 医療（いりょう） — medical service, healthcare · noun · forgotten 6×
+- 焦点（しょうてん） — focus, focal point · noun · forgotten 6×
+- 方々（ほうぼう） — everyone, all people · noun · forgotten 6×
+- いずれ — eventually, sometime · adverb · forgotten 5×
+- 事情（じじょう） — circumstances, conditions · noun · forgotten 5×
+- 押さえる（おさえる） — hold down · verb · forgotten 5×
+- 製造（せいぞう） — production, manufacture · verbal noun · forgotten 5×
+- 時期（じき） — time, season · noun · forgotten 5×
+- そろそろ — soon, quietly · adverb · forgotten 5×
+- 通過（つうか） — passing, passage · verbal noun · forgotten 5×
+- 表現（ひょうげん） — expression · verbal noun · forgotten 5×
+- 機械（きかい） — machine · noun · forgotten 5×
+- 基本（きほん） — basis, foundation · noun · forgotten 5×
+- 施設（しせつ） — facilities, institution · noun · forgotten 5×
+- 採用（さいよう） — employment · verbal noun · forgotten 5×
+- ぐらぐら — wobble · adverb · forgotten 5×
+- からから — thirsty, dry · adjective · forgotten 5×
+- 外出（がいしゅつ） — outing · verbal noun · forgotten 5×
+- 外交（がいこう） — diplomacy, foreign relations · noun · forgotten 5×
+- 世間（せけん） — world, the public · noun · forgotten 5×
+- 私費（しひ） — private expense · noun · forgotten 5×
+- 人格（じんかく） — character, personality · noun · forgotten 5×
+- 夏季（かき） — summer, summer season · noun · forgotten 5×
+- 出荷（しゅっか） — shipping, dispatch · verbal noun · forgotten 5×
+- 書物（しょもつ） — book, volume · noun · forgotten 5×
+- 引用（いんよう） — quotation, citation · verbal noun · forgotten 5×
+- 学習（がくしゅう） — study, learning · verbal noun · forgotten 5×
+- 業界（ぎょうかい） — industry, business world · noun · forgotten 5×
+- 利く（きく） — work, function · verb · forgotten 5×
+- 収入（しゅうにゅう） — income, earnings · noun · forgotten 5×
+- 求人（きゅうじん） — recruiting · verbal noun · forgotten 5×
+- 支度（したく） — arrangement, preparation · verbal noun · forgotten 5×
+- 急用（きゅうよう） — urgent business · noun · forgotten 5×
+- 一切（いっさい） — not at all, not one bit · adverb · forgotten 5×
+- 安定（あんてい） — stability, composure · verbal noun · forgotten 5×
+- 定める（さだめる） — fix, determine · verb · forgotten 5×
+- 始発（しはつ） — first departure · noun · forgotten 5×
+- 接近（せっきん） — approach, proximity · verbal noun · forgotten 5×
+- 以降（いこう） — hereafter · noun · forgotten 5×
+- 依頼（いらい） — request, commission · verbal noun · forgotten 5×
+- 主体（しゅたい） — agent, main constituent · noun · forgotten 5×
+- 生死（せいし） — life and death · noun · forgotten 5×
+- 確定（かくてい） — decision, confirmation · verbal noun · forgotten 5×
+- 効率（こうりつ） — efficiency · noun · forgotten 5×
+- 結成（けっせい） — organization, formation · verbal noun · forgotten 5×
+- 賛成（さんせい） — approval, agreement · verbal noun · forgotten 5×
+- 正義（せいぎ） — justice, righteousness · noun · forgotten 5×
+- 真相（しんそう） — the truth · noun · forgotten 5×
+- 関わる（かかわる） — involve, concern · verb · forgotten 5×
+- 空想（くうそう） — fantasy, daydreams · verbal noun · forgotten 5×
+- 修正（しゅうせい） — correction, revision · verbal noun · forgotten 5×
+- 項目（こうもく） — item, clause · noun · forgotten 5×
+- 吸収（きゅうしゅう） — absorption, merger · verbal noun · forgotten 5×
+- 緊急（きんきゅう） — urgent, pressing · adjectival noun · forgotten 5×
+- 紳士（しんし） — gentleman · noun · forgotten 5×
+- 耳鼻科（じびか） — otorhinology, ENT · noun · forgotten 5×
+- 用心（ようじん） — care, caution · verbal noun · forgotten 5×
+- 九日（ここのか） — nine days, 9th of the month · noun · forgotten 4×
+- 石（いし） — stone, small rock · noun · forgotten 4×
+- かつて — once, formerly · adverb · forgotten 4×
+- 会長（かいちょう） — president, chairperson · noun · forgotten 4×
+- 帰国（きこく） — return to one's country · verbal noun · forgotten 4×
+- 用いる（もちいる） — use, make use of · verb · forgotten 4×
+- 報告（ほうこく） — report · verbal noun · forgotten 4×
+- 知らせる（しらせる） — let know, inform · verb · forgotten 4×
+- 見物（けんぶつ） — sightseeing, visit · verbal noun · forgotten 4×
+- 教会（きょうかい） — church · noun · forgotten 4×
+- 計画（けいかく） — plan, project · verbal noun · forgotten 4×
+- 業者（ぎょうしゃ） — businessman · noun · forgotten 4×
+- 結合（けつごう） — combination, joining · verbal noun · forgotten 4×
+- 正直（しょうじき） — honest, upright · adjectival noun · forgotten 4×
+- 提案（ていあん） — proposition, proposal · verbal noun · forgotten 4×
+- 政策（せいさく） — policy, political measures · noun · forgotten 4×
+- 通勤（つうきん） — commuting, commutation · verbal noun · forgotten 4×
+- 成績（せいせき） — results, record · noun · forgotten 4×
+- 競争（きょうそう） — competition · verbal noun · forgotten 4×
+- 落とす（おとす） — drop, omit · verb · forgotten 4×
+- 構成（こうせい） — organization · verbal noun · forgotten 4×
+- 祝日（しゅくじつ） — holiday, festival day · noun · forgotten 4×
+- こぼれる — spill, overflow · verb · forgotten 4×
+- 掃く（はく） — sweep, brush · verb · forgotten 4×
+- 週休（しゅうきゅう） — weekend · noun · forgotten 4×
+- 海上（かいじょう） — maritime · noun · forgotten 4×
+- 高度（こうど） — high degree · adjectival noun · forgotten 4×
+- 出国（しゅっこく） — departure, emigration · verbal noun · forgotten 4×
+- 商売（しょうばい） — trade, business · verbal noun · forgotten 4×
+- 初夏（しょか） — early summer · noun · forgotten 4×
+- 秋分（しゅうぶん） — autumnal equinox · noun · forgotten 4×
+- 高温（こうおん） — high temperature · noun · forgotten 4×
+- あえて — boldly · adverb · forgotten 4×
+- 広告（こうこく） — public notice, advertisement · verbal noun · forgotten 4×
+- 心理（しんり） — mental state, psychology · noun · forgotten 4×
+- 知らず知らず（しらずしらず） — unawares, without knowing it · adverb · forgotten 4×
+- 気軽（きがる） — lighthearted, easy · adjectival noun · forgotten 4×
+- 活用（かつよう） — utilization, conjugation · verbal noun · forgotten 4×
+- 活字（かつじ） — printed type · noun · forgotten 4×
+- 強力（きょうりょく） — powerful · adjectival noun · forgotten 4×
+- 強引（ごういん） — overbearing, coercive · adjective · forgotten 4×
+- 当てる（あてる） — guess, hit the jackpot · verb · forgotten 4×
+- 金利（きんり） — interest, interest rate · noun · forgotten 4×
+- 支配（しはい） — control, management · verbal noun · forgotten 4×
+- 借金（しゃっきん） — borrowing money, debt · verbal noun · forgotten 4×
+- 思い込む（おもいこむ） — assume, believe · verb · forgotten 4×
+- 後期（こうき） — latter period · noun · forgotten 4×
+- 期日（きじつ） — date, due date · noun · forgotten 4×
+- 今更（いまさら） — now, too late · adverb · forgotten 4×
+- 欠ける（かける） — be chipped, be missing · verb · forgotten 4×
+- 現実（げんじつ） — actuality, reality · noun · forgotten 4×
+- 映る（うつる） — be reflected, appear · verb · forgotten 4×
+- 接する（せっする） — come in contact, adjoin · verb · forgotten 4×
+- 合同（ごうどう） — combination, joint · verbal noun · forgotten 4×
+- 一同（いちどう） — everybody, all · noun · forgotten 4×
+- 親類（しんるい） — relatives, kin · noun · forgotten 4×
+- 歳末（さいまつ） — year end · noun · forgotten 4×
+- 次第（しだい） — as soon as · noun · forgotten 4×
+- 信頼（しんらい） — reliance, confidence · verbal noun · forgotten 4×
+- 主要（しゅよう） — main, principal · adjectival noun · forgotten 4×
+- 主役（しゅやく） — leading part, starring role · noun · forgotten 4×
+- 議会（ぎかい） — assembly, council · noun · forgotten 4×
+- 議題（ぎだい） — topic for discussion, agenda · noun · forgotten 4×
+- 証券（しょうけん） — bill, bond · noun · forgotten 4×
+- 確実（かくじつ） — certain, secure · adjective · forgotten 4×
+- 確信（かくしん） — firm belief, conviction · verbal noun · forgotten 4×
+- 確率（かくりつ） — probability, rate · noun · forgotten 4×
+- 水準（すいじゅん） — level, standard · noun · forgotten 4×
+- 準急（じゅんきゅう） — local express · noun · forgotten 4×
+- 公共（こうきょう） — public society, community · noun · forgotten 4×
+- 完全（かんぜん） — perfect, complete · adjectival noun · forgotten 4×
+- 成長（せいちょう） — growth · verbal noun · forgotten 4×
+- 成果（せいか） — result, fruit · noun · forgotten 4×
+- 合成（ごうせい） — composition, synthesis · verbal noun · forgotten 4×
+- 正解（せいかい） — right answer, correct solution · verbal noun · forgotten 4×
+- 正常（せいじょう） — normality, normalcy · adjectival noun · forgotten 4×
+- 現状（げんじょう） — present condition · noun · forgotten 4×
+- 改正（かいせい） — revision, amendment · verbal noun · forgotten 4×
+- 改良（かいりょう） — improvement, reform · verbal noun · forgotten 4×
+- 改造（かいぞう） — remodeling, reorganization · verbal noun · forgotten 4×
+- 改めて（あらためて） — once again · adverb · forgotten 4×
+- 進出（しんしゅつ） — advancement · verbal noun · forgotten 4×
+- 業績（ぎょうせき） — achievement, performance · noun · forgotten 4×
+- 月給（げっきゅう） — monthly salary · noun · forgotten 4×
+- 感想（かんそう） — thought, impression · noun · forgotten 4×
+- 交流（こうりゅう） — interaction, contact · verbal noun · forgotten 4×
+- 快晴（かいせい） — fair and clear weather · noun · forgotten 4×
+- 観察（かんさつ） — observation, supervision · verbal noun · forgotten 4×
+- 観光（かんこう） — sightseeing · noun · forgotten 4×
+- 衛星（えいせい） — satellite, moon · noun · forgotten 4×
+- さぞ — no doubt, must · adverb · forgotten 4×
+- 距離（きょり） — distance, interval · noun · forgotten 4×
+- 寝室（しんしつ） — bedroom · noun · forgotten 4×
+- 詳細（しょうさい） — details, particulars · adjectival noun · forgotten 4×
+- 誤解（ごかい） — misunderstanding · verbal noun · forgotten 4×
+- せっかち — impatient · adjectival noun · forgotten 4×
+- 大蔵省（おおくらしょう） — Ministry of Finance · noun · forgotten 4×
+- うちわ — round paper fan · noun · forgotten 4×
+- 苦情（くじょう） — complaint, grievance · noun · forgotten 4×
+- 幸福（こうふく） — happiness, good fortune · adjectival noun · forgotten 4×
+- 観賞（かんしょう） — ornamental · verbal noun · forgotten 4×
+- 校庭（こうてい） — schoolyard, campus · noun · forgotten 4×
+- 仮定（かてい） — assumption, supposition · verbal noun · forgotten 4×
+- 微か（かすか） — faint, dim · adjective · forgotten 4×
+- 柔軟（じゅうなん） — pliable, flexible · adjective · forgotten 4×
+- 暴れる（あばれる） — act violently, rage about · verb · forgotten 4×
+- 偶数（ぐうすう） — even number · noun · forgotten 4×
+- 憲法（けんぽう） — constitution, constitutional law · noun · forgotten 4×
+- 卑しい（いやしい） — mean, greedy · adjective · forgotten 4×
+- 合唱（がっしょう） — chorus · verbal noun · forgotten 4×
+- 霜（しも） — frost · noun · forgotten 4×
+- 頑丈（がんじょう） — solid, strong · adjectival noun · forgotten 4×
+- 郊外（こうがい） — suburbs, outskirts · noun · forgotten 4×
+- 日ごろ（ひごろ） — routinely, daily · adverb · forgotten 4×
+- 日の入り（ひのいり） — sunset · noun · forgotten 4×
+- 九つ（ここのつ） — nine (things) · noun · forgotten 3×
+- 十日（とおか） — ten days, 10th of the month · noun · forgotten 3×
+- 今年（ことし） — this year · noun · forgotten 3×
+- 閉じる（とじる） — close · verb · forgotten 3×
+- 掛ける（かける） — hang, put on · verb · forgotten 3×
+- 大分（だいぶ） — very, greatly · adverb · forgotten 3×
+- 下がる（さがる） — come down, hang down, fall · verb · forgotten 3×
+- 方向（ほうこう） — direction, course · noun · forgotten 3×
+- 向こう（むこう） — the other side, the other party, opponent · noun · forgotten 3×
+- 作文（さくぶん） — composition, essay · noun · forgotten 3×
+- 価格（かかく） — price, cost · noun · forgotten 3×
+- 合格（ごうかく） — passing an examination, eligibility · verbal noun · forgotten 3×
+- なかなか — not at all, hardly · adverb · forgotten 3×
+- 通学（つうがく） — attending school, going to school · verbal noun · forgotten 3×
+- 技術（ぎじゅつ） — skill, technology · noun · forgotten 3×
+- 要求（ようきゅう） — requirement, demand · verbal noun · forgotten 3×
+- 期待（きたい） — expectation, anticipation · verbal noun · forgotten 3×
+- 期間（きかん） — term, period · noun · forgotten 3×
+- 決定（けってい） — decision, settlement · verbal noun · forgotten 3×
+- 一定（いってい） — constant, standard · verbal noun · forgotten 3×
+- 現在（げんざい） — the present, present time · noun · forgotten 3×
+- きっと — surely, certainly · adverb · forgotten 3×
+- 二十歳（はたち） — 20 years old · noun · forgotten 3×
+- 存在（そんざい） — existence, being · verbal noun · forgotten 3×
+- 確か（たしか） — for sure, for certain · adjectival noun · forgotten 3×
+- 設ける（もうける） — set up, establish · verb · forgotten 3×
+- 首相（しゅしょう） — prime minister · noun · forgotten 3×
+- 改革（かいかく） — reform · verbal noun · forgotten 3×
+- 事件（じけん） — affair, case · noun · forgotten 3×
+- 評価（ひょうか） — evaluation, appraisal · verbal noun · forgotten 3×
+- 対象（たいしょう） — target, object · noun · forgotten 3×
+- 修理（しゅうり） — repair, mending · verbal noun · forgotten 3×
+- ぶらぶら — wander aimlessly, hang about · adverb · forgotten 3×
+- 建設（けんせつ） — construction, building · verbal noun · forgotten 3×
+- 構造（こうぞう） — construction, structure · noun · forgotten 3×
+- 訪れる（おとずれる） — visit, call on · verb · forgotten 3×
+- 輸出（ゆしゅつ） — export · verbal noun · forgotten 3×
+- 検討（けんとう） — consideration, inspection · verbal noun · forgotten 3×
+- 貼る（はる） — stick, paste · verb · forgotten 3×
+- 誘う（さそう） — invite, ask out · verb · forgotten 3×
+- 国籍（こくせき） — nationality, citizenship · noun · forgotten 3×
+- 普及（ふきゅう） — diffusion, spread · verbal noun · forgotten 3×
+- がらがら — empty · adjective · forgotten 3×
+- 教授（きょうじゅ） — professor · noun · forgotten 3×
+- 姿勢（しせい） — posture, attitude · noun · forgotten 3×
+- 方針（ほうしん） — course, policy · noun · forgotten 3×
+- 西暦（せいれき） — Christian Era, A.D. · noun · forgotten 3×
+- ぬるい — tepid, lukewarm · adjective · forgotten 3×
+- 先日（せんじつ） — the other day, a few days ago · noun · forgotten 3×
+- 今に（いまに） — before long, someday · adverb · forgotten 3×
+- 四方（しほう） — all directions, far and wide · noun · forgotten 3×
+- すっかり — all, completely · adverb · forgotten 3×
+- 上達（じょうたつ） — progress, proficiency · verbal noun · forgotten 3×
+- 明ける（あける） — to dawn · verb · forgotten 3×
+- 昨晩（さくばん） — last night, last evening · noun · forgotten 3×
+- 下書き（したがき） — draft · verbal noun · forgotten 3×
+- 合わせる（あわせる） — adjust, match · verb · forgotten 3×
+- 行事（ぎょうじ） — event, function · noun · forgotten 3×
+- 下車（げしゃ） — get off, stopover · verbal noun · forgotten 3×
+- いよいよ — finally, any moment · adverb · forgotten 3×
+- 空き地（あきち） — unoccupied ground, vacant lot · noun · forgotten 3×
+- 行き止まり（いきどまり） — dead end · noun · forgotten 3×
+- 国家（こっか） — state, country · noun · forgotten 3×
+- 会費（かいひ） — fee, membership fee · noun · forgotten 3×
+- しばしば — often, frequently · adverb · forgotten 3×
+- 格好（かっこう） — shape, appearance · verbal noun · forgotten 3×
+- 悪用（あくよう） — abuse, misuse · noun · forgotten 3×
+- 各地（かくち） — every place, various parts · noun · forgotten 3×
+- 市場（いちば） — market, marketplace · noun · forgotten 3×
+- 作物（さくもつ） — crop · noun · forgotten 3×
+- 食物（しょくもつ） — food · noun · forgotten 3×
+- いかにも — indeed, as if · adverb · forgotten 3×
+- 重大（じゅうだい） — important, serious · adjective · forgotten 3×
+- いきなり — all of a sudden, without warning · adverb · forgotten 3×
+- 打ち消し（うちけし） — negation, denial · noun · forgotten 3×
+- 生み出す（うみだす） — generate, produce · verb · forgotten 3×
+- 出産（しゅっさん） — birth, delivery · verbal noun · forgotten 3×
+- 教員（きょういん） — teacher, teaching staff · noun · forgotten 3×
+- 個々（ここ） — individually, one at a time · noun · forgotten 3×
+- 勝手（かって） — selfish, self-centered · adjective · forgotten 3×
+- 規制（きせい） — regulation, control · verbal noun · forgotten 3×
+- 済む（すむ） — be settled, complete · verb · forgotten 3×
+- 事業（じぎょう） — business, achievement · noun · forgotten 3×
+- 芸術（げいじゅつ） — art, arts and crafts · noun · forgotten 3×
+- 製品（せいひん） — manufactured goods · noun · forgotten 3×
+- 製作（せいさく） — manufacture, production · verbal noun · forgotten 3×
+- 時差（じさ） — time difference · noun · forgotten 3×
+- 期限（きげん） — time limit, term · noun · forgotten 3×
+- 代わる代わる（かわるがわる） — by turns, alternately · adverb · forgotten 3×
+- 規定（きてい） — regulation, provision · verbal noun · forgotten 3×
+- 欠点（けってん） — weak point, defect · noun · forgotten 3×
+- 運送（うんそう） — shipping, transportation · verbal noun · forgotten 3×
+- 遅らす（おくらす） — delay, put off · verb · forgotten 3×
+- 現地（げんち） — actual site, in the field · noun · forgotten 3×
+- 去る（さる） — go away, leave · verb · forgotten 3×
+- 形式（けいしき） — form, model · noun · forgotten 3×
+- 各種（かくしゅ） — each kind, various · noun · forgotten 3×
+- 作曲（さっきょく） — composition · verbal noun · forgotten 3×
+- 共通（きょうつう） — commonality · verbal noun · forgotten 3×
+- 共同（きょうどう） — joint, commonality · verbal noun · forgotten 3×
+- 下宿（げしゅく） — lodging, boarding house · verbal noun · forgotten 3×
+- 海洋（かいよう） — ocean, sea · noun · forgotten 3×
+- 休息（きゅうそく） — rest, break · verbal noun · forgotten 3×
+- 効き目（ききめ） — effect, efficacy · noun · forgotten 3×
+- 各自（かくじ） — each one, every individual · noun · forgotten 3×
+- 経由（けいゆ） — via, through · verbal noun · forgotten 3×
+- 主食（しゅしょく） — staple food · noun · forgotten 3×
+- 議論（ぎろん） — argument, discussion · verbal noun · forgotten 3×
+- 違反（いはん） — violation, breach · verbal noun · forgotten 3×
+- 区別（くべつ） — distinction, classification · verbal noun · forgotten 3×
+- 証明（しょうめい） — proof, evidence · verbal noun · forgotten 3×
+- 生存（せいぞん） — existence, survival · verbal noun · forgotten 3×
+- 合意（ごうい） — mutual agreement · verbal noun · forgotten 3×
+- 決意（けつい） — resolution, determination · verbal noun · forgotten 3×
+- おっしゃる — say · verb · forgotten 3×
+- 設備（せつび） — equipment, facilities · verbal noun · forgotten 3×
+- 解説（かいせつ） — explanation, commentary · verbal noun · forgotten 3×
+- 公式（こうしき） — formal, official · adjectival noun · forgotten 3×
+- 交際（こうさい） — association, friendship · verbal noun · forgotten 3×
+- 成立（せいりつ） — formation · verbal noun · forgotten 3×
+- 形成（けいせい） — formation · verbal noun · forgotten 3×
+- 失業（しつぎょう） — unemployment, loss of job · verbal noun · forgotten 3×
+- 資源（しげん） — resources · noun · forgotten 3×
+- 正午（しょうご） — noon, noontime · noun · forgotten 3×
+- 常識（じょうしき） — common sense, common knowledge · noun · forgotten 3×
+- 好調（こうちょう） — favorable condition · adjectival noun · forgotten 3×
+- 関心（かんしん） — concern, interest · noun · forgotten 3×
+- 税関（ぜいかん） — custom house, customs · noun · forgotten 3×
+- 気候（きこう） — climate · noun · forgotten 3×
+- 補う（おぎなう） — supplement, replenish · verb · forgotten 3×
+- 改まる（あらたまる） — be renewed, change · verb · forgotten 3×
+- 革命（かくめい） — revolution · noun · forgotten 3×
+- 行進（こうしん） — march, parade · verbal noun · forgotten 3×
+- 従う（したがう） — follow, obey · verb · forgotten 3×
+- 集合（しゅうごう） — gathering, assembly · verbal noun · forgotten 3×
+- 就任（しゅうにん） — inauguration, appointment · verbal noun · forgotten 3×
+- いつのまにか — before it is noticed · adverb · forgotten 3×
+- 実感（じっかん） — true sense, realization · verbal noun · forgotten 3×
+- 思想（しそう） — thought, conception · noun · forgotten 3×
+- 気象（きしょう） — weather condition · noun · forgotten 3×
+- 交替（こうたい） — alternation, shift · verbal noun · forgotten 3×
+- 助手（じょしゅ） — assistant, helper · noun · forgotten 3×
+- 崩す（くずす） — destroy, break · verb · forgotten 3×
+- 快い（こころよい） — pleasant, agreeable · adjective · forgotten 3×
+- 指摘（してき） — identification, pointing out · verbal noun · forgotten 3×
+- 境界（きょうかい） — boundary, border · noun · forgotten 3×
+- 主観（しゅかん） — subjectivity, subject · noun · forgotten 3×
+- 神経（しんけい） — sensitivity, nerves · noun · forgotten 3×
+- 消極的（しょうきょくてき） — negative, passive · adjective · forgotten 3×
+- 渋滞（じゅうたい） — delay, traffic jam · verbal noun · forgotten 3×
+- 起源（きげん） — origin, beginning · noun · forgotten 3×
+- 積極的（せっきょくてき） — positive, active · adjective · forgotten 3×
+- 誤り（あやまり） — error, mistake · noun · forgotten 3×
+- 省略（しょうりゃく） — omission, abbreviation · verbal noun · forgotten 3×
+- 概念（がいねん） — general idea, concept · noun · forgotten 3×
+- 信念（しんねん） — belief, conviction · noun · forgotten 3×
+- 逆さま（さかさま） — upside-down, reverse · adjectival noun · forgotten 3×
+- くだらない — worthless, trifling · adjective · forgotten 3×
+- 既に（すでに） — already, previously · adverb · forgotten 3×
+- 深刻（しんこく） — serious, grave · adjective · forgotten 3×
+- 困難（こんなん） — difficulty, hardship · verbal noun · forgotten 3×
+- 幸運（こううん） — good fortune, good luck · adjectival noun · forgotten 3×
+- 慎重（しんちょう） — prudence, discretion · adjectival noun · forgotten 3×
+- 裁判（さいばん） — trial, judgment · verbal noun · forgotten 3×
+- 行為（こうい） — act, conduct · noun · forgotten 3×
+- 吸い込む（すいこむ） — inhale, suck in · verb · forgotten 3×
+- 近視（きんし） — nearsightedness, shortsightedness · noun · forgotten 3×
+- 主催（しゅさい） — sponsorship, promotion · verbal noun · forgotten 3×
+- 急激（きゅうげき） — sudden, abrupt · adjectival noun · forgotten 3×
+- 興奮（こうふん） — excitement, agitation · verbal noun · forgotten 3×
+- 拡張（かくちょう） — expansion, extension · verbal noun · forgotten 3×
+- せっかく — with much trouble, specially · adverb · forgotten 3×
+- あきれる — be stunned in disappointment or disbelief · verb · forgotten 3×
+- 澄む（すむ） — clear, become clear · verb · forgotten 3×
+- うがい — gargling · verbal noun · forgotten 3×
+- 自己（じこ） — oneself, self · noun · forgotten 3×
+- 上旬（じょうじゅん） — beginning of the month · noun · forgotten 3×
+- がさがさ — rustle · adverb · forgotten 3×
+- 拝む（おがむ） — bow in veneration, worship · verb · forgotten 3×
+- 括弧（かっこ） — parentheses, brackets · verbal noun · forgotten 3×
+- 輝く（かがやく） — shine brilliantly, glitter · verb · forgotten 3×
+- 抑える（おさえる） — suppress, bring under control · verb · forgotten 3×
+- 信仰（しんこう） — faith, religious belief · verbal noun · forgotten 3×
+- 偏る（かたよる） — be one-sided, deviate · verb · forgotten 3×
+- 勘定（かんじょう） — check, tab · verbal noun · forgotten 3×
+- 児童（じどう） — child, juvenile · noun · forgotten 3×
+- 親善（しんぜん） — goodwill, friendly relations · noun · forgotten 3×
+- 絞る（しぼる） — wring out, squeeze · verb · forgotten 3×
+- 囲碁（いご） — game of "go" · noun · forgotten 3×
+- ぜいたく — luxury, extravagance · verbal noun · forgotten 3×
+- 地上（ちじょう） — above ground · noun · forgotten 3×
+- 図る（はかる） — strive for, attempt · verb · forgotten 3×
+- ともかく — at least, at any rate · adverb · forgotten 3×
+- 無茶（むちゃ） — reckless, excessive · adjectival noun · forgotten 3×
+- 知人（ちじん） — acquaintance, friend · noun · forgotten 3×
+- 年収（ねんしゅう） — annual income · noun · forgotten 3×

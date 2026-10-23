@@ -1,0 +1,2039 @@
+# Kanji: mature
+
+Kanji with keyword and on/kun readings.
+
+2033 items.
+
+- 日 — sun, day, japan · on: ニチ, ジツ · kun: ひ, -び, -か
+- 三 — three · on: サン · kun: み, み(つ), みっ(つ)
+- 丸 — round · on: ガン · kun: まる, まる(い), まる(める)
+- 田 — rice field · on: デン · kun: た
+- 水 — water · on: スイ · kun: みず, みず-
+- 小 — small · on: ショウ · kun: ちい(さい), こ-, お-
+- 下 — down, lower, below · on: カ, ゲ · kun: した, しも, もと, さ(げる), さ(がる), くだ(る), くだ(り), くだ(す), -くだ(す), くだ(さる), お(ろす), お(りる)
+- 手 — hand, arm; labor; skill, performer of an action, -er · on: シュ · kun: て, て-, -て, た-
+- 舌 — tongue · on: ゼツ · kun: した
+- 又 — again; also, or, in other words · kun: また, また-, また(の-)
+- 体 — body, form · on: タイ, テイ · kun: からだ
+- 以 — to the … of, by means of · on: イ · kun: もっ(て*)
+- 白 — white · on: ハク, ビャク · kun: しろ, しら-, しろ(い)
+- 自 — self · on: ジ, シ · kun: みずか(ら), おの(ずから*)
+- 刃 — blade · on: ジン · kun: は
+- 子 — child, son, noun suffix, small object · on: シ, ス · kun: こ, -こ, -(っこ)
+- 父 — father · on: フ · kun: ちち
+- 者 — person · on: シャ · kun: もの
+- 午 — noon, (sign of) the horse · on: ゴ
+- 比 — compare, contrast, match, phonetic (hi) · on: ヒ · kun: くら(べる)
+- 畑 — (cultivated) field · kun: はた, はたけ, -ばたけ
+- 洗 — wash · on: セン · kun: あら(う)
+- 走 — run · on: ソウ · kun: はし(る)
+- 潮 — (morning) tide · on: チョウ · kun: しお
+- 意 — mind, thoughts; opinion, will, meaning, sense · on: イ
+- 電 — electricity · on: デン
+- 通 — pass (through), communicate · on: ツウ, ツ · kun: とお(る), とお(り), -とお(り), -どお(り), とお(す), とお(し), -どお(し), かよ(う)
+- 豆 — bean, pea · on: トウ, ズ · kun: まめ, まめ-
+- 句 — phrase, haiku · on: ク
+- 勿 — do not, not, never · on: モチ, モッ- · kun: なか(れ)
+- 物 — thing · on: ブツ, モツ · kun: もの, もの-
+- 方 — direction, side; locality; person, way, method, square, · on: ホウ · kun: かた, -かた, -がた
+- 面 — face, facet; surface; mask · on: メン · kun: おも, おもて, つら
+- 岡 — hill · kun: おか
+- 産 — give birth, produce · on: サン · kun: う(む), う(まれる), うぶ-
+- 尚 — still (more), value highly · on: ショウ · kun: なお*
+- 地 — ground, land, place · on: チ, ジ
+- 集 — gather, collect · on: シュウ · kun: あつ(まる), あつ(める), つど(う)
+- 辺 — vicinity, side, borderland, outer regions · on: ヘン · kun: あた(り), -べ
+- 温 — warm · on: オン · kun: あたた(か), あたた(かい), あたた(まる), あたた(める)
+- 巾 — cloth · on: キン
+- 原 — plain, field, original, primitive · on: ゲン · kun: はら
+- 錦 — brocade · on: キン · kun: にしき
+- 豚 — pig · on: トン · kun: ぶた
+- 語 — word, language, tell · on: ゴ · kun: かた(る), かた(らう)
+- 合 — combine, join, fit · on: ゴウ, ガッ-, カッ- · kun: あ(う), -あ(う), あ(い), あい-, -あ(い), -あい, あ(わす), あ(わせる), -あ(わせる)
+- 印 — seal; mark · on: イン · kun: しるし, -じるし
+- 米 — rice, america · on: ベイ, マイ · kun: こめ
+- 細 — slender, minute · on: サイ · kun: ほそ(い), ほそ(る), こま(か), こまか(い)
+- 都 — metropolis, capital, metropolis of tōkyō · on: ト, ツ · kun: みやこ
+- 戸 — door, household · on: コ · kun: と
+- 致 — bring about, lead to, do humbly · on: チ · kun: いた(す)
+- 局 — bureau, office, limited part, locality, situation · on: キョク
+- 固 — solid, firm · on: コ · kun: かた(める), かた(まる), かた(まり), かた(い)
+- 多 — many; most · on: タ · kun: おおい
+- 末 — last part, end · on: マツ, バツ · kun: すえ
+- 親 — parent, relatives, intimate, friendly · on: シン · kun: おや, おや-, した(しい), した(しむ)
+- 席 — seat · on: セキ
+- 銀 — silver · on: ギン
+- 廊 — corridor, gallery · on: ロウ
+- 館 — public building · on: カン · kun: やかた
+- 器 — vessel, container, instrument · on: キ · kun: うつわ
+- 区 — divide into sections, district, ward, borough · on: ク
+- 品 — article, grade of excellence, classification · on: ヒン · kun: しな
+- 周 — periphery, around; cycle · on: シュウ · kun: まわ(り)
+- 整 — put in order · on: セイ · kun: ととの(える), ととの(う)
+- 示 — show · on: ジ, シ · kun: しめ(す)
+- 社 — company, society, shintō shrine · on: シャ · kun: やしろ
+- 神 — god, spirit · on: シン, ジン · kun: かみ, かん-, こう-
+- 堂 — hall, public building · on: ドウ
+- 償 — recompense, make up for · on: ショウ · kun: つぐな(う)
+- 悟 — awake to, comprehend · on: ゴ · kun: さと(る)
+- 映 — reflect, project · on: エイ · kun: うつ(る), うつ(す), は(える), -ば(え)
+- 英 — distinguished, england · on: エイ
+- 半 — half · on: ハン · kun: なか(ば)
+- 尽 — exhaust, use up · on: ジン · kun: つ(くす), -つ(くす), -ず(くし), つ(きる), つ(かす)
+- 角 — angle, corner, horn · on: カク · kun: かど, つの
+- 解 — take apart, dissolve, clarify, solve · on: カイ, ゲ · kun: と(く), と(かす), と(ける)
+- 占 — occupy, hold, divine · on: セン · kun: し(める), うらな(う)
+- 士 — military man, man of learning, professional suffix, · on: シ
+- 売 — sell · on: バイ · kun: う(る), う(れる)
+- 共 — joint, together · on: キョウ · kun: とも, とも(に), -ども
+- 冬 — winter · on: トウ · kun: ふゆ
+- 秋 — autumn · on: シュウ · kun: あき
+- 志 — ambition, aim · on: シ · kun: こころざ(す), こころざし
+- 支 — branch, support, prop up, be obstructed · on: シ · kun: ささ(える), つか(える), か(う)
+- 阪 — ōsaka, slope · on: ハン · kun: さか
+- 雑 — miscellaneous, mixed · on: ザツ, ゾウ
+- 寺 — buddhist temple · on: ジ · kun: てら
+- 特 — special · on: トク
+- 得 — acquire, gain, benefit · on: トク · kun: え(る), う(る)
+- 節 — joint, node, section, space; space out, economize, season, time · on: セツ, セチ · kun: ふし, -ぶし
+- 均 — equal, even, uniform · on: キン
+- 穴 — hole, cave · on: ケツ · kun: あな
+- 有 — have; exist, there is · on: ユウ, ウ · kun: あ(る)
+- 石 — stone · on: セキ, シャク, コク · kun: いし
+- 在 — be, reside · on: ザイ · kun: あ(る)
+- 刊 — publish · on: カン
+- 害 — harm, hinder · on: ガイ
+- 割 — divide, cut, break · on: カツ · kun: わ(る), わり, わ(り), わ(れる), さ(く)
+- 翌 — the following · on: ヨク
+- 強 — strong · on: キョウ, ゴウ · kun: つよ(い), つよ(まる), つよ(める), し(いる)
+- 己 — oneself · on: コ, キ · kun: おのれ
+- 改 — reform, renew · on: カイ · kun: あらた(める), あらた(まる)
+- 油 — oil · on: ユ · kun: あぶら
+- 丼 — bowl (of food) · on: ドン · kun: どんぶり
+- 町 — town, town section · on: チョウ · kun: まち
+- 貯 — store up, save · on: チョ
+- 湯 — hot water · on: トウ · kun: ゆ
+- 閉 — close · on: ヘイ · kun: と(じる), と(ざす), し(める), し(まる)
+- 問 — question, ask · on: モン · kun: と(う), と(い), とん
+- 送 — send, transmit · on: ソウ · kun: おく(る)
+- 巻 — roll up, wind, volume · on: カン · kun: ま(く), まき, ま(き)
+- 戦 — war, battle, contest · on: セン · kun: いくさ, たたか(う)
+- 骨 — bone · on: コツ · kun: ほね
+- 磯 — rocky beach · on: キ · kun: いそ
+- 氏 — family, clan; surname, courtesy title · on: シ · kun: うじ, -うじ
+- 抵 — resist, stand up to · on: テイ
+- 巨 — giant · on: キョ
+- 毛 — hair · on: モウ · kun: け
+- 洋 — ocean, western, foreign · on: ヨウ
+- 詳 — detailed · on: ショウ · kun: くわ(しい)
+- 実 — real, actual, true, fruit, bear fruit · on: ジツ · kun: み, みの(る)
+- 企 — scheme, project, plan · on: キ · kun: くわだ(てる), たくら(み*)
+- 興 — rise to prosperity, rouse up, amusement, interest · on: コウ, キョウ · kun: おこ(る), おこ(す)
+- 辰 — (sign of) the dragon · on: シン · kun: たつ
+- 豊 — abundant · on: ホウ · kun: ゆたか
+- 結 — tie, conclude · on: ケツ · kun: むす(ぶ), ゆ(う), ゆ(わえる)
+- 役 — service, duty, office(r) · on: ヤク, エキ
+- 段 — step, stage · on: ダン
+- 眉 — eyebrow · on: ビ, ミ · kun: まゆ
+- 埋 — bury, be buried · on: マイ · kun: う(める), う(まる), う(もれる)
+- 童 — child · on: ドウ · kun: わらべ
+- 働 — work · on: ドウ · kun: はたら(く)
+- 種 — variety, type, seed · on: シュ · kun: たね
+- 必 — without fail, must · on: ヒツ · kun: かなら(ず)
+- 拠 — grounds, basis · on: キョ, コ
+- 総 — whole, total, general · on: ソウ
+- 医 — medicine, doctor · on: イ
+- 夫 — husband, man laborer · on: フ, フウ, ブ* · kun: おっと
+- 遊 — play, tour · on: ユウ, ユ · kun: あそ(ぶ), あそ(ばす)
+- 旗 — flag · on: キ · kun: はた
+- 牧 — pasture, tend cattle · on: ボク · kun: まき
+- 専 — exclusively, entirely · on: セン · kun: もっぱ(ら)
+- 運 — carry, transport, move, fortune, fate · on: ウン · kun: はこ(ぶ)
+- 程 — extent, established form · on: テイ · kun: ほど, -ほど
+- 鞄 — suitcase, bag · on: ホウ · kun: かばん
+- 彼 — third person pronoun, boyfriend / girlfriend · on: ヒ · kun: かれ, かの
+- 菓 — confectionery · on: カ
+- 緑 — green · on: リョク, ロク · kun: みどり · forgotten 3×
+- 介 — mediate, lie between; shellfish · on: カイ
+- 奨 — encourage, promote · on: ショウ
+- 臆 — feel timid, think · on: オク
+- 則 — rule, law · on: ソク
+- 考 — think; deliberate; study · on: コウ · kun: かんが(える), かんが(え)
+- 完 — complete · on: カン
+- 際 — verge, edge, occasion · on: サイ · kun: きわ, -ぎわ
+- 仲 — intermediary, personal relations · on: チュウ · kun: なか
+- 守 — protect, watch over, keep · on: シュ, ス · kun: まも(る), まも(り), もり, -もり
+- 才 — talent, -years old · on: サイ
+- 丈 — stature; measure, stout · on: ジョウ · kun: たけ
+- 韓 — (south) korea · on: カン
+- 砲 — heavy gun · on: ホウ
+- 舶 — oceangoing ship · on: ハク
+- 齢 — age · on: レイ
+- 渉 — have relations with · on: ショウ
+- 想 — conceive, think · on: ソウ, ソ
+- 柔 — soft · on: ジュウ, ニュウ · kun: やわ(らか), やわ(らかい)
+- 較 — compare · on: カク
+- 創 — create · on: ソウ · kun: つく(る)
+- 衣 — garment, clothing · on: イ, エ* · kun: ころも
+- 表 — express, manifest, surface, outside, front, table, chart · on: ヒョウ · kun: おもて, -おもて, あらわ(す), あらわ(れる)
+- 初 — first · on: ショ · kun: はじ(め), はじ(めて), はつ, はつ-, うい-, -そ(める), -ぞ(め)
+- 列 — column, row · on: レツ
+- 刑 — penalty · on: ケイ
+- 危 — dangerous · on: キ · kun: あぶ(ない), あや(うい), あや(ぶむ)
+- 碗 — bowl, cup · on: ワン
+- 犯 — offense, violation · on: ハン · kun: おか(す)
+- 排 — exclude, reject, discharge, excrete · on: ハイ
+- 座 — seat, sit · on: ザ · kun: すわ(る)
+- 率 — rate, proportion, lead, command · on: ソツ, リツ · kun: ひき(いる)
+- 汁 — juice, soup · on: ジュウ · kun: しる, -しる
+- 然 — -like, "-ly" (modifier-forming suffix), so, in that way · on: ゼン, ネン
+- 漁 — fishing · on: ギョ, リョウ
+- 焼 — burn, roast · on: ショウ · kun: や(く), や(き), や(き-), -や(き), や(ける)
+- 児 — child · on: ジ, ニ
+- 蛮 — barbarian · on: バン
+- 栗 — chestnut · on: リツ, リ · kun: くり
+- 遷 — transfer · on: セン
+- 閣 — stately building, cabinet (of a government) · on: カク
+- 酉 — (sign of) the rooster · on: ユウ · kun: とり
+- 猶 — delay · on: ユウ
+- 敬 — respect, revere · on: ケイ · kun: うやま(う)
+- 驚 — surprise · on: キョウ · kun: おどろ(く), おどろ(かす)
+- 仏 — buddha · on: ブツ, フツ* · kun: ほとけ
+- 苛 — torment; severe · on: カ · kun: いじ(め*), いじ(める*), いら*, さいな(む*)
+- 阿 — phonetic (a) · on: ア
+- 詞 — words · on: シ
+- 覗 — peek, come into view · on: シ · kun: のぞ(く)
+- 責 — responsibility, blame, censure · on: セキ · kun: せ(める)
+- 紡 — spin, make yarn · on: ボウ · kun: つむ(ぐ)
+- 真 — true, geniune · on: シン · kun: ま, ま-
+- 殖 — multiply · on: ショク · kun: ふ(える), ふ(やす)
+- 州 — state, province, sandbar · on: シュウ · kun: す
+- 断 — cut off, refuse, decide, resolve · on: ダン · kun: た(つ), ことわ(る)
+- 歴 — personal history · on: レキ
+- 遠 — distant · on: エン, オン · kun: とお(い) · forgotten 4×
+- 移 — move, shift · on: イ · kun: うつ(る), うつ(す)
+- 腹 — belly · on: フク · kun: はら, なか*
+- 従 — follow, obey · on: ジュウ, ショウ, ジュ · kun: したが(う), したが(える)
+- 延 — extend, postpone · on: エン · kun: の(びる), の(べる), の(べ), の(ばす)
+- 縮 — shrink, curl up · on: シュク · kun: ちじ(む), ちじ(まる), ちじ(める), ちじ(れる), ちじ(らす)
+- 庭 — courtyard, garden · on: テイ · kun: にわ
+- 翼 — wing · on: ヨク · kun: つばさ
+- 使 — use, envoy, dispatch · on: シ · kun: つか(う), つか(い), -つか(い), -ずか(い)
+- 便 — convenient, postal delivery, transportation service, flight, excreta · on: ベン, ビン · kun: たよ(り)
+- 能 — ability; function, noh drama · on: ノウ
+- 雲 — cloud · on: ウン · kun: くも, -ぐも
+- 震 — quake, tremble · on: シン · kun: ふる(う), ふる(える)
+- 丘 — hill · on: キュウ · kun: おか
+- 舎 — hut, building · on: シャ
+- 演 — perform · on: エン
+- 講 — lecture · on: コウ
+- 販 — engage in sales · on: ハン
+- 儀 — ceremony, rite · on: ギ
+- 指 — finger, point (out) · on: シ · kun: ゆび, さ(す), -さ(し)
+- 刺 — pierce, stab · on: シ · kun: さ(す), さ(さる), さ(し), さし
+- 看 — observe, keep an eye on · on: カン
+- 論 — argue, discuss, theory, view · on: ロン
+- 輸 — transport · on: ユ
+- 台 — stand, pedestral, platform, counter for machines and vehicles, taiwan · on: ダイ, タイ
+- 僚 — colleague, official · on: リョウ
+- 終 — end · on: シュウ · kun: お(わる), -お(わる), お(える)
+- 夢 — dream · on: ム · kun: ゆめ
+- 岐 — diverge, fork · on: キ
+- 争 — contend, struggle for · on: ソウ · kun: あらそ(う)
+- 静 — quiet, still · on: セイ, ジョウ · kun: しず-, しず(か), しず(まる), しず(める)
+- 算 — calculate · on: サン
+- 簿 — record book · on: ボ
+- 採 — pick, gather · on: サイ · kun: と(る)
+- 術 — practical art, technique · on: ジュツ
+- 除 — rid of · on: ジョ, ジ · kun: のぞ(く)
+- 途 — way, road · on: ト
+- 乗 — ride; get on · on: ジョウ · kun: の(る), -の(り), の(せる)
+- 眠 — sleep · on: ミン · kun: ねむ(る), ねむ(い)
+- 寝 — go to sleep · on: シン · kun: ね(る), ね(かす), ね(かせる)
+- 涙 — tear · on: ルイ · kun: なみだ
+- 打 — strike, (emphatic verbal prefix) · on: ダ · kun: う(つ), う(ち-)
+- 険 — dangerous, steep · on: ケン · kun: けわ(しい)
+- 欲 — desire · on: ヨク · kun: ほっ(する), ほ(しい)
+- 裕 — abundant · on: ユウ
+- 功 — merit(s), achievement · on: コウ, ク
+- 朽 — decay · on: キュウ · kun: くち(る)
+- 昇 — ascend, rise in rank · on: ショウ · kun: のぼ(る)
+- 統 — unite, subjugate, interconnected system · on: トウ · kun: す(べる) · forgotten 3×
+- 忙 — busy · on: ボウ · kun: いそが(しい)
+- 望 — hope, look afar · on: ボウ, モウ · kun: のぞ(む)
+- 拘 — arrest · on: コウ · kun: かか(わる*)
+- 禅 — zen · on: ゼン
+- 懸 — suspend · on: ケン, ケ · kun: か(ける), か(かる)
+- 編 — compile, edit, knit · on: ヘン · kun: あ(む), -あ(み)
+- 職 — employment, post · on: ショク
+- 眼 — eye · on: ガン, ゲン · kun: まなこ, め*
+- 求 — seek · on: キュウ · kun: もと(める)
+- 鈍 — dull · on: ドン · kun: にぶ(い), にぶ(る), にぶ-
+- 掛 — set (on), hang, fasten · kun: か(ける), -か(ける), か(け), -か(け), -が(け), か(かる), -か(かる), -が(かる), か(かり), -が(かり), かかり, -がかり
+- 嫡 — legitimate wife/child · on: チャク
+- 援 — aid, give a hand · on: エン
+- 権 — right, power, authority · on: ケン, ゴン
+- 確 — certain, definite · on: カク · kun: たし(か), たし(かめる)
+- 卯 — (sign of) the hare · on: ボウ · kun: う
+- 柳 — willow · on: リュウ · kun: やなぎ
+- 迅 — swift · on: ジン
+- 威 — might, power; majesty, threaten by force · on: イ
+- 惑 — bewildered, led astray · on: ワク · kun: まど(う)
+- 納 — pay, accept, put in place · on: ノウ, ナッ-, ナ, ナン, トウ · kun: おさ(める), -おさ(める), おさ(まる)
+- 賃 — wages, charges · on: チン
+- 賛 — approve of, praise · on: サン
+- 溜 — accumulate · on: リュウ · kun: た(まる), た(める)
+- 染 — dye, stain; infect · on: セン · kun: そ(める), -ぞ(め), -ぞめ, そ(まる), し(みる), -じ(みる), し(み)
+- 泊 — stay overnight · on: ハク · kun: と(まる), と(める)
+- 煮 — boil, cook · on: シャ · kun: に(る), -に, に(える), に(やす)
+- 第 — ordinal number prefix; order · on: ダイ
+- 税 — tax · on: ゼイ
+- 祝 — celebrate, congratulate · on: シュク, シュウ · kun: いわ(う)
+- 競 — compete · on: キョウ, ケイ · kun: きそ(う), せ(る)
+- 珠 — pearl · on: シュ
+- 繕 — mend · on: ゼン · kun: つくろ(う)
+- 増 — increase · on: ゾウ · kun: ま(す), ま(し), ふ(える), ふ(やす)
+- 賄 — bribe · on: ワイ · kun: まかな(う)
+- 滞 — stagnate, be left undone, stay · on: タイ · kun: とどこおる
+- 為 — do; act, sake, benefit · on: イ · kun: ため*, な(す*)
+- 呂 — phonetic (ro) · on: ロ
+- 栄 — flourish, thrive, glory · on: エイ · kun: さか(える), は(え), -ば(え), は(える)
+- 妥 — come to terms · on: ダ
+- 茎 — stem, stalk · on: ケイ · kun: くき
+- 培 — cultivate · on: バイ · kun: つちか(う)
+- 絶 — break off, cut off, come to an end, without match · on: ゼツ · kun: た(える), た(やす), た(つ)
+- 勉 — endeavor · on: ベン
+- 彫 — carve, engrave · on: チョウ · kun: ほ(る), -ぼ(り)
+- 涼 — cool · on: リョウ · kun: すず(しい), すず(む)
+- 消 — extinguish, disappear, spend, consume · on: ショウ · kun: き(える), け(す)
+- 宵 — early evening · on: ショウ · kun: よい
+- 蓋 — lid · on: ガイ · kun: ふた
+- 塩 — salt · on: エン · kun: しお
+- 陽 — sun, positive · on: ヨウ · kun: ひ
+- 愁 — melancholy · on: シュウ · kun: うれ(える), うれ(い)
+- 跡 — trace, footprint · on: セキ · kun: あと
+- 蹴 — kick · on: シュウ · kun: け(る)
+- 躍 — leap, be active · on: ヤク · kun: おど(る)
+- 崎 — promontory, cape · kun: さき
+- 幕 — curtain, tent, shogunate · on: マク, バク
+- 添 — add to, accompany · on: テン · kun: そ(える), そ(う)
+- 沿 — along(side) · on: エン · kun: そ(う), -ぞ(い)
+- 似 — resemble · on: ジ · kun: に(る)
+- 撲 — deal a blow · on: ボク
+- 闘 — fight · on: トウ · kun: たたか(う)
+- 揺 — shake · on: ヨウ · kun: ゆ(れる), ゆ(る), ゆ(らぐ), ゆ(るぐ), ゆ(する), ゆ(さぶる), ゆ(すぶる)
+- 陣 — battle formation, camp · on: ジン
+- 峰 — peak, high mountain · on: ホウ · kun: みね
+- 蜂 — bee, wasp · on: ホウ · kun: はち
+- 殴 — beat, thrash · on: オウ · kun: なぐ(る)
+- 旦 — dawn · on: タン, ダン
+- 宣 — proclaim · on: セン
+- 畔 — waterside · on: ハン
+- 群 — group, crowd, flock · on: グン · kun: む(れる), む(れ), むら, むら(がる)
+- 邦 — state, japan · on: ホウ
+- 菊 — chrysanthemum · on: キク
+- 郭 — outer enclosure · on: カク
+- 昆 — insect · on: コン
+- 諧 — harmony · on: カイ
+- 睦 — friendly, intimate · on: ボク · kun: むつ(まじい*), むつ(む*)
+- 塾 — private school · on: ジュク
+- 筈 — to be expected · on: カツ · kun: はず
+- 婆 — old woman · on: バ · kun: ばあ
+- 恣 — arbitrary · on: シ
+- 萎 — wilt, wither · on: イ · kun: なえ(る), しぼ(む*), しお(れる*), しな(びる*)
+- 章 — chapter; writing, badge · on: ショウ
+- 辞 — word, phrase, resign · on: ジ · kun: や(める)
+- 幸 — good fortune, happiness · on: コウ · kun: さいわ(い), さち, しあわ(せ)
+- 達 — attain, reach; deliver, plural suffix · on: タツ · kun: -たち* · forgotten 3×
+- 呉 — kingdom of wu, give; do for (someone) · on: ゴ · kun: く(れる)
+- 幅 — width, range · on: フク · kun: はば
+- 鍋 — pot, pan · on: カ* · kun: なべ · forgotten 3×
+- 滑 — slide, smooth · on: カツ, コツ · kun: すべ(る), なめ(らか)
+- 双 — set of two, pair · on: ソウ · kun: ふた
+- 択 — select · on: タク
+- 贅 — luxury · on: ゼイ
+- 査 — look into, inspect · on: サ
+- 抽 — draw out, pull · on: チュウ
+- 袖 — sleeve · on: シュウ · kun: そで
+- 揃 — make uniform · on: セン · kun: そろ(える), そろ(う), そろ(い), -ぞろ(い)
+- 詫 — apologize · on: タ · kun: わ(びる), わ(び)
+- 銘 — inscription · on: メイ
+- 息 — breath · on: ソク · kun: いき
+- 鼻 — nose · on: ビ · kun: はな
+- 嗅 — smell, sniff · on: キュウ · kun: か(ぐ)
+- 衝 — collide · on: ショウ
+- 梅 — japanese apricot, ume · on: バイ · kun: うめ
+- 茂 — grow thick · on: モ · kun: しげ(る)
+- 稿 — manuscript · on: コウ · forgotten 3×
+- 桟 — scaffold · on: サン
+- 壮 — vigorous, robust, grand, heroic · on: ソウ
+- 損 — loss; disadvantage · on: ソン · kun: そこ(なう), -そこ(なう), そこ(ねる), -そこ(ねる)
+- 挿 — insert · on: ソウ · kun: さ(す) · forgotten 3×
+- 哺 — suckle · on: ホ
+- 捉 — catch, grasp · on: ソク · kun: とら(える)
+- 逮 — catch a criminal · on: タイ
+- 庸 — mediocre · on: ヨウ
+- 砕 — crush up · on: サイ · kun: くだ(く), くだ(ける)
+- 恐 — fear · on: キョウ · kun: おそ(れる), おそ(る), おそ(ろしい)
+- 諮 — consult, ask for advice · on: シ · kun: はか(る) · forgotten 3×
+- 拝 — worship, humbly · on: ハイ · kun: おが(む) · forgotten 3×
+- 灰 — ash · on: カイ · kun: はい
+- 崩 — crumble · on: ホウ · kun: くず(れる), -くず(れ), くず(す)
+- 礁 — reef · on: ショウ
+- 隻 — one of a pair, counter for ships · on: セキ
+- 護 — protect · on: ゴ · kun: まも(る*)
+- 懐 — bosom, embosom, long for · on: カイ · kun: ふところ, なつ(かしい), なつ(かしむ), なつ(く), なつ(ける)
+- 爵 — rank of nobility · on: シャク
+- 堤 — embankment · on: テイ · kun: つつみ
+- 冒 — risk, defy · on: ボウ · kun: おか(す)
+- 晶 — crystal · on: ショウ
+- 永 — eternal, long · on: エイ · kun: なが(い)
+- 枚 — counter for flat things · on: マイ
+- 捻 — twist · on: ネン · kun: ひね(る*), ひね(くる*)
+- 斬 — kill, cut down · on: ザン · kun: き(る)
+- 斥 — reject · on: セキ
+- 惧 — fear · on: グ · forgotten 3×
+- 囚 — prisoner · on: シュウ
+- 咽 — throat · on: イン
+- 嘆 — sigh, lament · on: タン · kun: なげ(く), なげ(かわしい)
+- 索 — search for · on: サク
+- 秒 — second · on: ビョウ
+- 煎 — boil, roast · on: セン · kun: い(る)
+- 之 — possessive particle · on: シ · kun: の, これ
+- 呼 — call, send for · on: コ · kun: よ(ぶ)
+- 叫 — shout · on: キョウ · kun: さけ(ぶ)
+- 遡 — go back in time, go upstream · on: ソ · kun: さかのぼ(る)
+- 薫 — balmy, fragrant · on: クン · kun: かお(る)
+- 秀 — excellent · on: シュウ · kun: ひい(でる)
+- 髪 — hair · on: ハツ · kun: かみ
+- 碁 — go (japanese checkers) · on: ゴ
+- 匹 — counter for animals · on: ヒツ · kun: ひき
+- 幹 — trunk · on: カン · kun: みき
+- 芽 — bud · on: ガ · kun: め
+- 苗 — seedling · on: ビョウ, ミョウ* · kun: なえ, なわ-
+- 萌 — germinate, sprout · on: ホウ, ボウ · kun: も(える), きざ(す)
+- 逃 — escape · on: トウ · kun: に(げる), に(がす), のが(す), のが(れる)
+- 掘 — dig · on: クツ · kun: ほ(る)
+- 筒 — tube · on: トウ · kun: つつ
+- 窟 — cave · on: クツ
+- 辱 — humiliate · on: ジョク · kun: はずかし(める)
+- 輩 — fellow · on: ハイ
+- 衰 — decline, degenerate · on: スイ · kun: おとろ(える ・)
+- 悼 — mourn · on: トウ · kun: いた(む)
+- 曹 — sergeant · on: ソウ
+- 傍 — beside · on: ボウ · kun: かたわ(ら), そば*
+- 雇 — employ · on: コ · kun: やと(う)
+- 炉 — furnace · on: ロ
+- 爺 — old man, grandpa · on: ヤ · kun: じい, じじ, じじい, おやじ
+- 雰 — atmosphere · on: フン
+- 傾 — incline, lean · on: ケイ · kun: かたむ(く), かたむ(ける), かし(げる*)
+- 頼 — rely on, ask · on: ライ · kun: たの(む), たの(もしい), たよ(る) · forgotten 4×
+- 頰 — cheeks · on: キョウ* · kun: ほお, ほほ
+- 患 — affected by disease · on: カン · kun: わずら(う) · forgotten 4×
+- 痢 — diarrhea · on: リ
+- 痘 — smallpox · on: トウ
+- 疲 — tired · on: ヒ · kun: つか(れる), -ずか(れ)
+- 扶 — lend support to · on: フ
+- 搭 — load on board · on: トウ
+- 餓 — starve · on: ガ
+- 冠 — crown · on: カン · kun: かんむり
+- 臓 — internal organ · on: ゾウ
+- 災 — natural calamity · on: サイ · kun: わざわ(い)
+- 腺 — gland · on: セン
+- 腰 — waist · on: ヨウ · kun: こし
+- 肌 — skin · kun: はだ
+- 劇 — drama · on: ゲキ
+- 噂 — rumor, gossip · on: ソン · kun: うわさ
+- 栃 — horse chestnut (tree) · kun: とち
+- 羨 — envious · on: セン · kun: うらや(む), うらや(ましい)
+- 叔 — younger sibling of parent · on: シュク
+- 寂 — lonesome, desolate; elegant simplicity · on: ジャク, セキ · kun: さび, さび(しい), さび(れる)
+- 隷 — underling · on: レイ
+- 臼 — mortar · on: キュウ · kun: うす
+- 練 — train, drill · on: レン · kun: ね(る), ね(り-)
+- 鍛 — forge; train · on: タン · kun: きた(える)
+- 銅 — copper, bronze · on: ドウ
+- 剛 — tough, strong · on: ゴウ
+- 鎖 — chain · on: サ · kun: くさり
+- 錠 — lock, pill · on: ジョウ
+- 瞳 — pupil (of the eye) · on: ドウ · kun: ひとみ
+- 憬 — yearn after · on: ケイ
+- 碑 — monument · on: ヒ
+- 鬼 — demon, ghost · on: キ · kun: おに, おに-
+- 魅 — charm · on: ミ
+- 擦 — rub, chafe · on: サツ · kun: す(る), す(れる), -ず(れ)
+- 奉 — dedicate, offer · on: ホウ, ブ · kun: たてまつ(る)
+- 儒 — confucianism · on: ジュ
+- 泥 — mud · on: デイ · kun: どろ
+- 謀 — scheme, plot · on: ボウ, ム · kun: はか(る)
+- 酵 — ferment · on: コウ
+- 玄 — profound, occult · on: ゲン
+- 囁 — whisper · kun: ささや(く)
+- 維 — fiber; hold together · on: イ
+- 椎 — spine, chinquapin · on: ツイ · kun: しい*
+- 咳 — cough · on: ガイ · kun: せき, せ(く)
+- 珍 — rare, curious · on: チン · kun: めずら(しい)
+- 塀 — fence, wall · on: ヘイ
+- 磁 — magnetism · on: ジ
+- 蒔 — sow, scatter · on: ジ, シ · kun: ま(く)
+- 徴 — levy, impose, sign, symptom · on: チョウ
+- 妃 — (married) princess · on: ヒ · forgotten 3×
+- 嫁 — wed a man, bride · on: カ · kun: よめ, とつ(ぐ)
+- 遂 — accomplish, carry out · on: スイ · kun: と(げる), つい(に*)
+- 髄 — marrow · on: ズイ
+- 惰 — lazy · on: ダ
+- 弄 — play with · on: ロウ · kun: もてあそ(ぶ)
+- 弊 — evil practice · on: ヘイ
+- 棚 — shelf · kun: たな, -だな
+- 塞 — plug up, obstruct · on: ソク, サイ · kun: ふさ(ぐ), ふさ(がる)
+- 謄 — transcribe, copy · on: トウ
+- 幌 — awning, hood · on: コウ · kun: ほろ
+- 挨 — greet · on: アイ
+- 璃 — glassy substance · on: リ
+- 麓 — foot of a mountain · on: ロク · kun: ふもと
+- 葛 — kudzu, arrowroot · on: カツ · kun: くず
+- 戌 — (sign of) the dog · on: ジュツ · kun: いぬ
+- 蔑 — scorn · on: ベツ · kun: さげす(む), ないがし(ろ*)
+- 鳩 — pigeon · on: キュウ · kun: はと
+- 璽 — imperial seal · on: ジ
+- 蟹 — crab · on: カイ · kun: かに
+- 蛇 — snake · on: ジャ, ダ · kun: へび
+- 匕 — spoon · kun: さじ、さじのひ
+- 喻 — metaphor · kun: さと(す、 たと,える)
+- 允 — license
+- 一 — one · on: イチ, イツ · kun: ひと-, ひと(つ)
+- 二 — two · on: ニ · kun: ふた, ふた(つ)
+- 十 — ten · on: ジュウ, ジッ- · kun: とお, と
+- 四 — four · on: シ · kun: よ, よ(つ), よっ(つ), よん
+- 五 — five · on: ゴ · kun: いつ, いつ(つ)
+- 六 — six · on: ロク · kun: む, む(つ), むっ(つ), むい
+- 七 — seven · on: シチ · kun: なな, なな(つ), なの
+- 八 — eight · on: ハチ · kun: や, や(つ), やっ(つ), よう
+- 九 — nine · on: キュウ, ク · kun: ここの, ここの(つ)
+- 円 — circle, yen · on: エン · kun: まる(い), まる
+- 人 — human being · on: ジン, ニン · kun: ひと
+- 百 — hundred · on: ヒャク
+- 千 — thousand · on: セン · kun: ち
+- 万 — ten thousand, myriad, all · on: マン, バン
+- 口 — mouth · on: コウ, ク · kun: くち
+- 目 — eye, item; subdivision; order · on: モク, ボク · kun: め, -め, ま-
+- 川 — river · on: セン · kun: かわ
+- 月 — moon, month · on: ゲツ, ガツ · kun: つき
+- 明 — bright, cheerful, clear · on: メイ, ミョウ · kun: あ(かり), あか(るい), あか(るむ), あか(らむ), あき(らか), あ(ける), -あ(け), あ(く), あ(くる), あ(かす)
+- 曜 — day of the week · on: ヨウ
+- 火 — fire · on: カ · kun: ひ, -び, ほ-
+- 木 — tree, wood · on: モク, ボク · kun: き, こ-
+- 金 — metal, gold, money · on: キン, コン · kun: かね, かな-, -がね
+- 土 — soil, land · on: ド, ト · kun: つち
+- 本 — basis, origin, root, book, this · on: ホン · kun: もと
+- 東 — east · on: トウ · kun: ひがし
+- 大 — big, university · on: ダイ, タイ · kun: おお-, おお(きい), おお(いに)
+- 中 — middle, in, throughout, china · on: チュウ, ジュウ · kun: なか
+- 生 — life, grow, be born, give birth to, student · on: セイ, ショウ · kun: い(きる), い(かす), い(ける), う(まれる), う(まれ), うまれ, う(む), お(う), は(える), は(やす), き, なま, なま-
+- 山 — mountain · on: サン · kun: やま
+- 出 — go out, put out · on: シュツ, スイ · kun: で(る), -で, だ(す), -だ(す)
+- 入 — enter, put in · on: ニュウ · kun: い(る), -い(る), -い(り), い(れる), -い(れ), はい(る)
+- 上 — up, rise, raise, above · on: ジョウ, ショウ · kun: うえ, -うえ, うわ-, かみ, あ(げる), -あ(げる), あ(がる), -あ(がる), あ(がり), -あ(がり), のぼ(る), のぼ(り), のぼ(せる), のぼ(す ・)
+- 止 — stop · on: シ · kun: と(まる), -ど(まり), と(める), -と(める), -ど(め), や(める*), や(む*)
+- 正 — right, upright, correct, exact · on: セイ, ショウ · kun: ただ(しい), ただ(す), まさ, まさ(に)
+- 足 — foot, leg; step, suffice · on: ソク · kun: あし, た(りる), た(る), た(す)
+- 定 — fix, decide, settle · on: テイ, ジョウ · kun: さだ(める), さだ(まる), さだ(か)
+- 用 — employ, use, things to do, business · on: ヨウ · kun: もち(いる)
+- 無 — without, nothing · on: ム, ブ · kun: な(い)
+- 不 — not, un- · on: フ, ブ
+- 回 — turn round, time · on: カイ, エ · kun: まわ(る), -まわ(る), -まわ(り), まわ(す), -まわ(す), まわ(し-), -まわ(し)
+- 言 — say, speech, word · on: ゲン, ゴン · kun: い(う), こと
+- 話 — speak · on: ワ · kun: はな(す), はなし
+- 活 — active, live, lead one's life · on: カツ
+- 行 — go, proceed, act, perform, line (of print) · on: コウ, ギョウ, アン · kun: い(く), ゆ(く), -ゆ(き), -ゆき, -い(き), -いき, おこな(う)
+- 心 — heart, mind, center, core · on: シン · kun: こころ, -ごころ
+- 耳 — ear · on: ジ · kun: みみ
+- 取 — take · on: シュ · kun: と(る), と(り), と(り-とり-), -ど(り)
+- 身 — body, one's person, social position · on: シン · kun: み
+- 休 — rest, suspend · on: キュウ · kun: やす(む), やす(まる), やす(める)
+- 信 — believe, trust, message, signal · on: シン
+- 付 — attach, be attached to, hand over · on: フ · kun: つ(ける), -つ(ける), -ず(ける), つ(け), つ(け-), -つ(け), -ず(け), -ずけ, つ(く), -ず(く), つ(き), -つ(き), -つき, -ず(き), -ずき
+- 受 — receive, accept · on: ジュ · kun: う(ける), -う(け), う(かる)
+- 立 — stand, establish · on: リツ, リュウ · kun: た(つ), -た(つ), た(ち-), た(てる), -た(てる), た(て-), たて-, -た(て), -だ(て), -だ(てる)
+- 部 — section, division, department · on: ブ
+- 倍 — times, -fold, double · on: バイ
+- 成 — become; form, achieve · on: セイ, ジョウ · kun: な(る), な(す), -な(す) · forgotten 3×
+- 王 — king · on: オウ
+- 玉 — gem; round or spherical object · on: ギョク · kun: たま, たま-, -だま
+- 宝 — treasure · on: ホウ · kun: たから
+- 国 — country · on: コク · kun: くに
+- 皇 — emperor · on: コウ, オウ
+- 全 — whole, all · on: ゼン · kun: まった(く), すべ(て)
+- 書 — write, book · on: ショ · kun: か(く), -が(き), -がき
+- 事 — affair, abstract thing · on: ジ, ズ · kun: こと
+- 貝 — shellfish · kun: かい
+- 見 — see · on: ケン · kun: み(る), み(える), み(せる)
+- 力 — power, strength, force · on: リョク, リキ · kun: ちから
+- 刀 — sword · on: トウ · kun: かたな
+- 切 — cut, sharp · on: セツ, サイ · kun: き(る), -き(る), き(り), -き(り), -ぎ(り), き(れる), -き(れる), き(れ), -き(れ), -ぎ(れ)
+- 分 — divide, part, minute · on: ブン, フン, ブ · kun: わ(ける), わ(け), わ(かれる), わ(かる), わ(かつ)
+- 公 — public · on: コウ · kun: おおやけ
+- 別 — separate, another · on: ベツ · kun: わか(れる)
+- 長 — long, chief, senior · on: チョウ · kun: なが(い)
+- 男 — man · on: ダン, ナン · kun: おとこ
+- 女 — woman · on: ジョ, ニョ, ニョウ · kun: おんな, め
+- 好 — like, favorable · on: コウ · kun: この(む), す(く), よ(い*), い(い*)
+- 安 — peaceful, inexpensive · on: アン · kun: やす(い), やす(まる), やす, やす(らか)
+- 案 — proposal, plan, idea · on: アン
+- 字 — character · on: ジ · kun: あざ
+- 学 — study, school · on: ガク · kun: まな(ぶ)
+- 文 — writings, learning, culture, letter, script · on: ブン, モン · kun: ふみ
+- 交 — intercourse, association, cross, intersect, interchange · on: コウ · kun: まじ(わる), まじ(える), ま(じる), ま(ざる), ま(ぜる), -か(う), か(わす)
+- 校 — school, proofread · on: コウ
+- 母 — mother · on: ボ · kun: はは
+- 毎 — every · on: マイ · kun: -ごと(に*)
+- 海 — sea · on: カイ · kun: うみ
+- 工 — manufacture; workmanship, work, construction · on: コウ, ク
+- 式 — form, style, manner, ceremony, rite, formula · on: シキ
+- 弐 — two (in legal documents) · on: ニ
+- 武 — military; warrior · on: ブ, ム
+- 糸 — thread · on: シ · kun: いと
+- 前 — before, ahead · on: ゼン · kun: まえ, -まえ
+- 後 — after, late, rear, behind · on: ゴ, コウ · kun: のち, うし(ろ), うしろ, あと, おく(れる)
+- 年 — year · on: ネン · kun: とし
+- 件 — matter, case, · on: ケン
+- 化 — change into, convert · on: カ, ケ · kun: ば(ける), ば(かす)
+- 花 — flower · on: カ · kun: はな
+- 北 — north · on: ホク · kun: きた
+- 車 — vehicle, car, wheel · on: シャ · kun: くるま
+- 気 — gas, spirit · on: キ, ケ
+- 汽 — steam · on: キ
+- 性 — nature, innate quality, sex, gender, -ity · on: セイ, ショウ · forgotten 3×
+- 青 — blue; green · on: セイ, ショウ · kun: あお, あお-, あお(い)
+- 麦 — wheat · on: バク · kun: むぎ
+- 毒 — poison · on: ドク
+- 先 — ahead (of), previous · on: セン · kun: さき, ま(ず*)
+- 元 — origin · on: ゲン, ガン · kun: もと
+- 光 — light, glow · on: コウ · kun: ひか(る), ひかり
+- 去 — go away, leave; go by, elapse · on: キョ, コ · kun: さ(る), -さ(る)
+- 法 — law, method, way · on: ホウ, ハッ-, ホッ-
+- 当 — the present, the said, this/that, hit (the mark); correspond to; allot · on: トウ · kun: あ(たる), あ(たり), あ(てる), あ(て)
+- 思 — think, feel; wish · on: シ · kun: おも(う)
+- 早 — early, quick · on: ソウ, サッ- · kun: はや(い), はや, はや-, はや(まる), はや(める)
+- 草 — grass · on: ソウ · kun: くさ, くさ-, -ぐさ
+- 朝 — morning, dynasty · on: チョウ · kun: あさ
+- 形 — shape, material form · on: ケイ, ギョウ · kun: かた, -がた, かたち
+- 発 — start, generate, emit, issue, open up, develop, · on: ハツ, ホツ · kun: た(つ*)
+- 廃 — abandon, abolish, waste · on: ハイ · kun: すた(れる)
+- 音 — sound · on: オン, イン · kun: おと, ね
+- 作 — make, produce, cultivate, work, do · on: サク, サ · kun: つく(る), つく(り), -ずく(り)
+- 昨 — yesterday, last · on: サク
+- 雨 — rain · on: ウ · kun: あめ, あま-
+- 頁 — page · on: ケツ ページ · kun: ページ
+- 首 — head, neck, leader · on: シュ · kun: くび
+- 道 — way · on: ドウ, トウ · kun: みち
+- 頭 — head, top, beginning · on: トウ, ズ · kun: あたま, かしら, -がしら · forgotten 3×
+- 予 — in advance · on: ヨ · kun: あらかじ(め*)
+- 矛 — halberd · on: ム · kun: ほこ
+- 預 — deposit · on: ヨ
+- 旬 — ten-day period · on: ジュン, シュン
+- 勺 — shaku (0.018 liters) · on: シャク
+- 的 — target, adjectival suffix · on: テキ · kun: まと
+- 約 — promise, shorten, summarize, approximately · on: ヤク
+- 防 — defend against · on: ボウ · kun: ふせ(ぐ)
+- 画 — picture, draw; kanji stroke, draw up a plan · on: ガ, カク
+- 両 — both · on: リョウ
+- 顔 — face · on: ガン · kun: かお
+- 同 — same, similar · on: ドウ · kun: おな(じ)
+- 向 — turn toward, direction; other side · on: コウ · kun: む(く), む(き), -む(き), む(ける), -む(け), む(かう), む(こう), む(こう-)
+- 高 — high, tall; expensive, amount, quantity · on: コウ · kun: たか(い), たか, -だか, たか(まる), たか(める)
+- 圧 — pressure; overwhelm · on: アツ
+- 池 — pond, reservoir · on: チ · kun: いけ
+- 他 — other · on: タ · kun: ほか
+- 進 — advance · on: シン · kun: すす(む), すす(める)
+- 込 — move inward, into, emphatic verbal suffix
+- 斤 — kin (600 grams) · on: キン
+- 近 — near, recent · on: キン · kun: ちか(い)
+- 最 — most, -est · on: サイ · kun: もっと(も)
+- 皿 — plate · kun: さら
+- 血 — blood · on: ケツ · kun: ち
+- 爪 — claw, nail, plectrum · kun: つめ, つま-
+- 瓜 — melon, gourd · on: カ · kun: うり
+- 布 — cloth, spread · on: フ · kun: ぬの
+- 市 — city, market · on: シ · kun: いち
+- 吊 — hang, suspend · on: チョウ · kun: つ(る), つ(り), つ(るす)
+- 泉 — spring · on: セン · kun: いずみ
+- 源 — source, origin · on: ゲン · kun: みなもと
+- 線 — line · on: セン
+- 綿 — cotton · on: メン · kun: わた
+- 絹 — silk · on: ケン · kun: きぬ
+- 願 — wish, ask a favor · on: ガン · kun: ねが(う)
+- 内 — inside · on: ナイ, ダイ · kun: うち
+- 肉 — flesh · on: ニク
+- 猪 — wild boar · on: チョ · kun: いのしし, い
+- 家 — house, home, family, house · on: カ, ケ · kun: いえ, や, うち*
+- 吾 — ego, i · on: ゴ · kun: われ, わが-, あ-
+- 我 — self · on: ガ · kun: われ, は, わ(が-), わが-
+- 伝 — transmit · on: デン · kun: つた(わる), つた(える), つた(う), -ずた(い)
+- 転 — turn, roll over; turn into · on: テン · kun: ころ(がる), ころ(げる), ころ(がす), ころ(ぶ) · forgotten 3×
+- 芸 — art, craft; preformance · on: ゲイ
+- 会 — meet, gather, society · on: カイ, エ · kun: あ(う), あ(わせる)
+- 今 — present, now, this · on: コン, キン · kun: いま
+- 令 — command · on: レイ
+- 念 — thoughts, mind, wish · on: ネン
+- 命 — order, commandlife, fate · on: メイ, ミョウ · kun: いのち
+- 亡 — deceased · on: ボウ, モウ · kun: な(い), な(き-)
+- 粒 — grain · on: リュウ · kun: つぶ
+- 和 — harmonious, peace, calm, japan · on: ワ, オ · kun: やわ(らぐ), やわ(らげる), なご(む), なご(やか)
+- 私 — private, i · on: シ · kun: わたくし, わたし
+- 広 — wide, spacious · on: コウ · kun: ひろ(い), ひろ(まる), ひろ(める), ひろ(がる), ひろ(げる)
+- 林 — forest · on: リン · kun: はやし
+- 森 — thick woods · on: シン · kun: もり
+- 松 — pine · on: ショウ · kun: まつ
+- 竹 — bamboo · on: チク · kun: たけ
+- 京 — capital, tōkyō, kyōto · on: キョウ, ケイ
+- 政 — political administration · on: セイ, ショウ · kun: まつりごと
+- 府 — urban prefecture (kyōto or ōsaka), government office · on: フ
+- 所 — place, point, part, particle of nominalization, "-ation" · on: ショ · kun: ところ, -ところ, どころ
+- 至 — come to; utmost · on: シ · kun: いた(る)
+- 屋 — house; roof, small shop · on: オク · kun: や
+- 室 — room, chamber · on: シツ · kun: むろ
+- 古 — old · on: コ · kun: ふる(い), ふる-, -ふる(す)
+- 居 — be present, reside · on: キョ · kun: い(る), -い, お(る*)
+- 故 — old; the late, incident, reason, cause · on: コ · kun: ゆえ
+- 胡 — natives of ancient china · on: コ, ゴ, ウ
+- 湖 — lake · on: コ · kun: みずうみ
+- 箇 — counter for items; item · on: カ · forgotten 3×
+- 個 — individual, single unit, general counter (for things or articles) · on: コ, カ*
+- 且 — as well as, moreover, both … and … · kun: か(つ)
+- 夕 — evening · on: セキ · kun: ゆう
+- 外 — outside; remove, come off · on: ガイ, ゲ · kun: そと, ほか, はず(す), はず(れる)
+- 汐 — evening tide · on: セキ · kun: しお
+- 名 — name; fame; first-rate · on: メイ, ミョウ · kun: な, -な
+- 天 — heaven; weather; nature · on: テン · kun: あめ, あま-
+- 未 — not yet · on: ミ · kun: いま(だ*), ま(だ*)
+- 味 — taste, flavor; contents · on: ミ · kun: あじ, あじ(わう)
+- 来 — come · on: ライ · kun: く(る), きた(る), きた(す)
+- 新 — new · on: シン · kun: あたら(しい), あら(た), あら-, にい-
+- 欠 — lack, want · on: ケツ · kun: か(ける), か(く), か(かす)
+- 次 — next, second(ary), (numerical) order · on: ジ, シ · kun: つ(ぐ), つぎ
+- 度 — degree, time · on: ド, ト, タク · kun: たび
+- 渡 — cross, ford, · on: ト · kun: わた(る), -わた(る), わた(す)
+- 限 — limit, bounds · on: ゲン · kun: かぎ(る), かぎ(り), -かぎ(り)
+- 根 — root · on: コン · kun: ね, -ね
+- 良 — good · on: リョウ · kun: よ(い), -よ(い), い(い*)
+- 郎 — young man, male name suffix · on: ロウ
+- 食 — eat, food · on: ショク, ジキ · kun: く(う), く(らう), た(べる)
+- 飲 — drink · on: イン · kun: の(む)
+- 官 — government, government (official) · on: カン
+- 宿 — lodge · on: シュク · kun: やど, やど(る), やど(す)
+- 太 — great, extremely large, thick, fat · on: タイ, タ · kun: ふと(い), ふと(る)
+- 凶 — misfortune, evil · on: キョウ
+- 図 — drawing, plan · on: ズ, ト · kun: はか(る)
+- 番 — numerical order, watch, duty · on: バン
+- 号 — number, designation, title, name, sign, signal · on: ゴウ
+- 楽 — pleasure, comfortable, music · on: ガク, ラク · kun: たの(しい), たの(しむ)
+- 薬 — drug, chemical · on: ヤク · kun: くすり
+- 週 — week · on: シュウ
+- 調 — tone, note, condition, investigate, prepare,make ready · on: チョウ · kun: しら(べる), しら(べ), ととの(う), ととの(える)
+- 束 — tie up, bundle · on: ソク · kun: たば, たば(ねる), つか*
+- 数 — number, quantity, count · on: スウ, ス · kun: かず, かぞ(える)
+- 類 — kind, type · on: ルイ · kun: たぐい
+- 禁 — prohibit · on: キン
+- 礼 — etiquette, rite · on: レイ, ライ
+- 申 — report (to a superior), speak humbly · on: シン · kun: もうす, もうし-
+- 員 — member, personnel · on: イン
+- 質 — quality, nature, matter, substance, pawn, hostage · on: シツ, シチ, チ
+- 党 — party · on: トウ
+- 常 — normal, regular · on: ジョウ · kun: つね, とこ-
+- 賞 — prize, praise · on: ショウ
+- 掌 — palm of one's hand, take charge of · on: ショウ · kun: てのひら*
+- 覚 — perceive, sense; realize, wake up, commit to memory · on: カク · kun: おぼ(える), さ(ます), さ(める), さと(る**)
+- 感 — sense, feel · on: カン
+- 央 — center · on: オウ
+- 決 — decide, resolve, settle · on: ケツ · kun: き(める), -ぎ(め), き(まる)
+- 並 — line up, place in a row; average, ordinary · on: ヘイ · kun: なみ, な(み), なら(べる), なら(ぶ), なら(びに)
+- 馬 — horse · on: バ · kun: うま, うま-, ま
+- 尺 — shaku (30.3 centimeters); measure · on: シャク
+- 駅 — station · on: エキ
+- 鳥 — bird · on: チョウ · kun: とり
+- 島 — island · on: トウ · kun: しま
+- 虫 — insect, worm · on: チュウ · kun: むし
+- 触 — touch; come in contact with · on: ショク · kun: ふ(れる), さわ(る)
+- 独 — alone, by oneself · on: ドク · kun: ひと(り)
+- 店 — shop · on: テン · kun: みせ
+- 点 — point, dot · on: テン
+- 商 — trade, commerce · on: ショウ · kun: あきな(う)
+- 買 — buy · on: バイ · kun: か(う)
+- 続 — continue · on: ゾク · kun: つず(く), つず(ける)
+- 読 — read · on: ドク, トク, トウ · kun: よ(む), -よ(み)
+- 供 — offer, submit · on: キョウ, ク · kun: そな(える), とも, -ども
+- 洪 — flood · on: コウ
+- 昔 — former times · on: セキ, シャク · kun: むかし
+- 寒 — cold · on: カン · kun: さむ(い)
+- 春 — spring · on: シュン · kun: はる
+- 夏 — summer · on: カ, ゲ · kun: なつ
+- 主 — main, lord, master · on: シュ, ス · kun: ぬし, おも, あるじ*
+- 駐 — stationed · on: チュウ
+- 注 — pour, concentrate, pay attention to · on: チュウ · kun: そそ(ぐ)
+- 誌 — magazine, document · on: シ
+- 仕 — serve, do · on: シ, ジ · kun: つか(える)
+- 任 — office, duty, entrust, leave (up) to · on: ニン · kun: まか(せる), まか(す)
+- 反 — counter, against, anti- · on: ハン, ホン, タン · kun: そ(る), そ(らす)
+- 坂 — slope · on: ハン · kun: さか
+- 飯 — cooked rice, meal · on: ハン · kun: めし
+- 返 — return, send back · on: ヘン · kun: かえ(す), -かえ(す), かえ(る), -かえ(る)
+- 乱 — disordered, excessive · on: ラン · kun: みだ(れる), みだ(る), みだ(す)
+- 寸 — a bit of, sun (3.03 cm) · on: スン
+- 時 — time · on: ジ · kun: とき, -どき
+- 持 — hold, have, keep · on: ジ · kun: も(つ), -も(ち), も(てる)
+- 待 — wait (for), treat · on: タイ · kun: ま(つ), -ま(ち)
+- 侍 — attend upon, samurai · on: ジ · kun: さむらい
+- 詩 — poetry · on: シ
+- 即 — immediate, namely, that is · on: ソク · kun: すなわ(ち*)
+- 筋 — muscle; sinew, threadlike structure, thread · on: キン · kun: すじ
+- 等 — equal; "and the like", "etc.", class, grade · on: トウ · kun: ひと(しい), -ら*, など*
+- 季 — season · on: キ
+- 委 — commit · on: イ · kun: ゆだ(ねる)
+- 空 — sky, air, empty · on: クウ · kun: そら, あ(く), あ(き), あ(ける), から, むな(しい*), す(く*)
+- 友 — friend · on: ユウ · kun: とも
+- 左 — left · on: サ · kun: ひだり
+- 右 — right · on: ウ, ユウ · kun: みぎ
+- 若 — young · on: ジャク, ニャク · kun: わか(い), わか-, も(しくわ), も(し*)
+- 苦 — suffering, hardship, bitter · on: ク · kun: くる(しい), -ぐる(しい), くる(しむ), くる(しめる), にが(い), にが(る)
+- 存 — exist; be aware of, believe · on: ソン, ゾン
+- 干 — dry · on: カン · kun: ほ(す), ほ(し-), -ぼ(し), ひ(る)
+- 汗 — sweat · on: カン · kun: あせ
+- 竿 — pole · on: カン · kun: さお
+- 益 — benefit, profit · on: エキ, ヤク · kun: ま(す*)
+- 溢 — spill over · on: イツ · kun: あふ(れる), こぼ(れる), こぼ(す)
+- 憲 — constitution, code of laws · on: ケン
+- 羽 — feather, wing · on: ウ · kun: は, は, はね
+- 習 — learn, study, custom, habit · on: シュウ · kun: なら(う), なら(い)
+- 弓 — bow · on: キュウ · kun: ゆみ
+- 引 — draw (toward), pull (back), reduce · on: イン · kun: ひ(く), ひ(き), ひ(き-), -び(き), ひ(ける)
+- 弱 — weak · on: ジャク · kun: よわ(い), よわ(る), よわ(まる), よわ(める)
+- 風 — wind, manner · on: フウ, フ · kun: かぜ, かざ-, -かぜ
+- 記 — write down · on: キ · kun: しる(す)
+- 紀 — era, age, discipline, morals · on: キ
+- 起 — rise; arise; occur · on: キ · kun: お(きる), お(こる), お(こす ・)
+- 姓 — surname · on: セイ, ショウ
+- 由 — reason, cause · on: ユ, ユウ, ユイ · kun: よし
+- 井 — well · on: セイ, ショウ · kun: い
+- 囲 — enclose · on: イ · kun: かこ(む), かこ(う), かこ(い)
+- 丁 — town subsection, miscellaneous counter · on: チョウ, テイ
+- 寧 — courteous; peaceful · on: ネイ
+- 灯 — lamp · on: トウ · kun: ひ
+- 庁 — government agency · on: チョウ
+- 賜 — deign to give, bestow · on: シ · kun: たまわ(る)
+- 場 — place · on: ジョウ · kun: ば
+- 門 — gate · on: モン · kun: かど
+- 間 — space in between, interval · on: カン, ケン · kun: あいだ, ま
+- 開 — open · on: カイ · kun: ひら(く), ひら(き), -び(らき), ひら(ける), あ(く), あ(ける)
+- 関 — connect with, concern, barrier · on: カン · kun: せき, -ぜき, かか(わる)
+- 聞 — hear; ask · on: ブン, モン · kun: き(く), き(こえる)
+- 訪 — visit · on: ホウ · kun: おとず(れる), たず(ねる)
+- 券 — ticket, certificate · on: ケン
+- 包 — wrap, encompass · on: ホウ · kun: つつ(む)
+- 圏 — sphere, circle, range · on: ケン
+- 勝 — win, excel · on: ショウ · kun: か(つ), -が(ち), まさ(る)
+- 単 — single, simple, unit · on: タン
+- 簡 — simple · on: カン
+- 過 — pass by, exceed, over- · on: カ · kun: す(ぎる), -す(ぎる), -す(ぎ), す(ごす), あやま(つ), あやま(ち)
+- 昼 — daytime, midday · on: チュウ · kun: ひる
+- 夜 — night · on: ヤ · kun: よ, よる
+- 液 — liquid · on: エキ
+- 幾 — how many, some · on: キ · kun: いく-, いく(つ), いく(ら)
+- 畿 — capital region · on: キ
+- 機 — machine, aircraft, opportunity · on: キ · kun: はた
+- 械 — mechanical contrivance · on: カイ
+- 飛 — fly; leap · on: ヒ · kun: と(ぶ), と(ばす), -と(ばす)
+- 民 — people, nation, race · on: ミン · kun: たみ
+- 紙 — paper · on: シ · kun: かみ · forgotten 4×
+- 低 — low · on: テイ · kun: ひく(い), ひく(める), ひく(まる)
+- 邸 — stately residence · on: テイ
+- 底 — bottom, base · on: テイ · kun: そこ
+- 臣 — retainer, subject · on: シン
+- 基 — base, foundation · on: キ · kun: もと, もとい
+- 期 — term, period, expect, anticipate · on: キ, ゴ
+- 尾 — tail · on: ビ · kun: お
+- 育 — raise · on: イク · kun: そだ(つ), そだ(ち), そだ(てる), はぐく(む)
+- 羊 — sheep, goat · on: ヨウ · kun: ひつじ
+- 魚 — fish · on: ギョ · kun: うお, さかな, -ざかな
+- 鮮 — fresh, vivid · on: セン · kun: あざ(やか)
+- 蘇 — revive · on: ソ, ス · kun: よみがえ(る)
+- 祥 — auspicious · on: ショウ
+- 美 — beautiful · on: ビ · kun: うつく(しい)
+- 養 — foster, cultivate, raise to maturity · on: ヨウ · kun: やしな(う)
+- 様 — mode, manner, way (of doing), style, formal title · on: ヨウ · kun: さま
+- 曲 — musical composition, curve · on: キョク · kun: ま(がる), ま(げる)
+- 典 — standard work, canon, authority · on: テン
+- 輿 — palanquin · on: ヨ · kun: こし
+- 竜 — dragon · on: リュウ · kun: たつ
+- 滝 — waterfall · kun: たき
+- 籠 — basket, confine (onself) in · on: ロウ · kun: かご, こ(める), こも(る)
+- 農 — farming · on: ノウ
+- 濃 — thick, concentrated · on: ノウ · kun: こ(い)
+- 吉 — lucky · on: キチ, キツ
+- 投 — throw, send in (to), submit · on: トウ · kun: な(げる), -な(げ)
+- 没 — sink, fall in · on: ボツ
+- 設 — set up, establish · on: セツ · kun: もう(ける)
+- 殺 — kill · on: サツ, サイ, セツ · kun: ころ(す), -ごろ(し)
+- 刈 — clip, crop · kun: か(る)
+- 絵 — picture, painting · on: カイ, エ
+- 巴 — circular comma pattern · on: ハ · kun: ともえ
+- 色 — color, character, eros · on: ショク, シキ · kun: いろ
+- 声 — voice · on: セイ, ショウ · kun: こえ, こわ-
+- 里 — village, countryside, league, ri (about 3.9 km unit) · on: リ · kun: さと
+- 理 — reason, logic, basic principle, law, manage, put in order · on: リ
+- 野 — field, wild, rustic · on: ヤ · kun: の, の-
+- 黒 — black · on: コク · kun: くろ, くろ(い)
+- 墨 — india ink · on: ボク · kun: すみ
+- 量 — quantity, weigh(t), measure · on: リョウ · kun: はか(る)
+- 重 — heavy, pile on top of; layer, -ply; duplicate · on: ジュウ, チョウ · kun: え, おも(い), おも(り), かさ(ねる), かさ(なる)
+- 動 — move · on: ドウ · kun: うご(く), うご(かす)
+- 労 — labor · on: ロウ
+- 協 — cooperate · on: キョウ
+- 亜 — sub-, phonetic (a) · on: ア
+- 悪 — bad · on: アク, オ · kun: わる(い), わる-, あ(し*)
+- 要 — important, essential, summarize, require, required · on: ヨウ · kun: い(る), かなめ
+- 価 — price, value · on: カ · kun: あたい
+- 証 — prove; guarantee, certificate · on: ショウ · kun: あか(し*)
+- 歪 — distort, strain · on: ワイ, エ · kun: ゆが(む), ゆが(み), ゆが(める), ひず(む), ひず(み), いびつ
+- 否 — say no, or not · on: ヒ · kun: いな
+- 処 — deal with, dispose of · on: ショ
+- 計 — plan, compute, calculate · on: ケイ · kun: はか(る), はか(らう)
+- 針 — needle · on: シン · kun: はり
+- 窓 — window · on: ソウ · kun: まど
+- 矢 — arrow · on: シ · kun: や
+- 知 — know · on: チ · kun: し(る), し(らせる), し(れる)
+- 短 — short · on: タン · kun: みじか(い)
+- 失 — lose, slip · on: シツ · kun: うしな(う)
+- 鉄 — iron · on: テツ
+- 朱 — vermilion · on: シュ
+- 株 — stock, stub · kun: かぶ
+- 族 — family, tribe · on: ゾク
+- 旅 — travel · on: リョ · kun: たび
+- 施 — execute, bestow · on: シ, セ · kun: ほどこ(す)
+- 旋 — gyrate · on: セン
+- 放 — let go · on: ホウ · kun: はな(す), -(っぱな,し), はな(つ), はな(れる), ほう(る)
+- 激 — violent, intense, arouse, excite · on: ゲキ · kun: はげ(しい)
+- 位 — rank, position · on: イ · kun: くらい, ぐらい
+- 泣 — cry · on: キュウ · kun: な(く)
+- 笑 — laugh, smile · on: ショウ · kun: わら(う), え(む)
+- 恵 — favor, kindness · on: ケイ, エ · kun: めぐ(む)
+- 連 — link, connect, in succession, in a row · on: レン · kun: つら(なる), つら(ねる), つ(れる), -ず(れ)
+- 軍 — army, military · on: グン
+- 蓮 — lotus · on: レン · kun: はす, はちす
+- 呈 — present · on: テイ
+- 聖 — holy, saint · on: セイ
+- 丑 — (sign of) the ox · on: チュウ · kun: うし
+- 紐 — string, cord · on: チュウ, ジュウ · kun: ひも
+- 革 — leather, reform, change · on: カク · kun: かわ
+- 靴 — shoes · on: カ · kun: くつ
+- 皮 — skin; leather · on: ヒ · kun: かわ
+- 破 — break · on: ハ · kun: やぶ(る), やぶ(れる)
+- 波 — wave, undulation · on: ハ · kun: なみ
+- 果 — fruit, result, accomplish; come to an end · on: カ · kun: はた(す), -はた(す), は(てる), -は(てる), は(て)
+- 課 — assignment, task, lesson, assign, impose, levy · on: カ
+- 茶 — tea · on: チャ, サ
+- 世 — world, public, age, generation · on: セイ, セ · kun: よ
+- 葉 — leaf · on: ヨウ · kun: は
+- 棄 — abandon, throw away · on: キ · kun: すて(る)
+- 録 — record, register · on: ロク · forgotten 5×
+- 剝 — strip off, peel off, come off · on: ハク · kun: は(げる), は(がれる), は(ぐ), は(がす), む(ける*), む(く*)
+- 縁 — relation, edge · on: エン, -ネン · kun: ふち
+- 界 — world, area, bounds, boundary · on: カイ
+- 浮 — floating, transient · on: フ · kun: う(く), う(かれる), う(かぶ), う(かべる)
+- 将 — general officer · on: ショウ
+- 状 — form, shape, condition, state, letter, note · on: ジョウ
+- 病 — illness · on: ビョウ, ヘイ · kun: や(む), -や(み), やまい
+- 症 — pathological condition, -osis · on: ショウ
+- 痛 — pain, acute · on: ツウ · kun: いた(い), いた(む), いた(ましい), いた(める)
+- 憶 — remember, think · on: オク · forgotten 3×
+- 億 — hundred million · on: オク
+- 視 — look at, regard · on: シ
+- 規 — regulation, standard · on: キ
+- 側 — side · on: ソク · kun: がわ
+- 測 — measure, gauge, conjecture, estimate · on: ソク · kun: はか(る)
+- 老 — old · on: ロウ · kun: お(いる), ふ(ける)
+- 孝 — filial piety · on: コウ
+- 厚 — thick, kind · on: コウ · kun: あつ(い)
+- 教 — teach; inform, religion · on: キョウ · kun: おし(える), おそ(わる)
+- 奈 — phonetic (na) · on: ナ
+- 祭 — festival, worship · on: サイ · kun: まつ(る), まつ(り), まつり
+- 察 — inspect, observe, guess, judge · on: サツ
+- 祈 — pray · on: キ · kun: いの(る)
+- 祖 — ancestor · on: ソ
+- 助 — help, save · on: ジョ · kun: たす(ける), たす(かる), すけ
+- 忠 — loyalty, faithfulness · on: チュウ
+- 沖 — open sea · on: チュウ · kun: おき
+- 保 — preserve, maintain, guarantee · on: ホ · kun: たも(つ)
+- 呆 — dumb, dumbfounded · on: ホウ, ボウ · kun: あき(れる)
+- 団 — collective, group, organization · on: ダン, トン
+- 対 — opposite, counter to; in relation to, oppose · on: タイ · kun: つい
+- 村 — village · on: ソン · kun: むら
+- 財 — wealth; property · on: ザイ, サイ
+- 材 — timber, material · on: ザイ
+- 沈 — sink, submerge · on: チン · kun: しず(む), しず(める)
+- 枕 — pillow · kun: まくら
+- 杖 — cane, staff · on: ジョウ · kun: つえ
+- 偉 — great, eminent · on: イ · kun: えら(い)
+- 緯 — latitude; woof / weft · on: イ
+- 衛 — guard · on: エイ
+- 違 — differ; be wrong, violate · on: イ · kun: ちが(う), ちが(い), ちが(える), -ちが(える)
+- 抱 — hold (in one's arms) · on: ホウ · kun: だ(く), いだ(く), かか(える)
+- 泡 — bubble, foam · on: ホウ · kun: あわ
+- 丹 — cinnabar red; wholeheartedly · on: タン
+- 舟 — small boat · on: シュウ · kun: ふね, ふな-, -ぶね
+- 船 — ship · on: セン · kun: ふね, ふな-, -ぶね
+- 搬 — carry · on: ハン
+- 盤 — disk, board · on: バン
+- 歯 — tooth · on: シ · kun: は
+- 冷 — cold · on: レイ · kun: つめ(たい), ひ(える), ひ(や), ひ(ややか), ひ(やす), ひ(やかす), さ(める), さ(ます)
+- 少 — little, few · on: ショウ · kun: すく(ない), すこ(し)
+- 砂 — sand · on: サ, シャ · kun: すな
+- 歩 — walk, step · on: ホ, ブ, フ · kun: ある(く), あゆ(む)
+- 省 — ministry, save, cut down, leave out, introspect, reflect · on: セイ, ショウ · kun: かえり(みる), はぶ(く)
+- 相 — aspect; physiognomy, mutual, minister (of state) · on: ソウ, ショウ · kun: あい-
+- 称 — appellation · on: ショウ
+- 弥 — phonetic (mi); phonetic (ya) · on: ミ · kun: いや*, や*
+- 互 — reciprocal · on: ゴ · kun: たが(い)
+- 務 — duty, office, business · on: ム · kun: つと(める), つと(まる)
+- 軟 — soft · on: ナン · kun: やわ(らか), やわ(らかい)
+- 軌 — track, path · on: キ
+- 軒 — eaves, counter for houses · on: ケン · kun: のき
+- 軸 — axle, axis · on: ジク
+- 庫 — storage chamber · on: コ, ク
+- 蔵 — store, storehouse · on: ゾウ · kun: くら
+- 倉 — storehouse · on: ソウ · kun: くら
+- 告 — notify, accuse · on: コク · kun: つ(げる)
+- 造 — make, build · on: ゾウ · kun: つく(る), つく(り), -ずくり
+- 依 — depend on · on: イ, エ
+- 袋 — bag · on: タイ · kun: ふくろ
+- 褒 — commend, praise · on: ホウ · kun: ほ(める) · forgotten 3×
+- 裏 — rear, reverse, inside · on: リ · kun: うら
+- 現 — actual, present, appear · on: ゲン · kun: あらわ(れる), あらわ(す)
+- 制 — system, control · on: セイ
+- 製 — manufacture · on: セイ
+- 裸 — naked · on: ラ · kun: はだか
+- 難 — difficult, disaster, fault, criticize · on: ナン · kun: かた(い), -がた(い), むずか(しい)
+- 准 — junior · on: ジュン
+- 備 — provide (for), furnish · on: ビ · kun: そな(える), そな(わる)
+- 死 — die · on: シ · kun: し(ぬ), し(に-)
+- 葬 — funeral · on: ソウ · kun: ほうむ(る)
+- 烈 — vehement, intense · on: レツ
+- 裂 — split, tear · on: レツ · kun: さ(く), さ(ける)
+- 例 — example, precedent · on: レイ · kun: たと(える)
+- 型 — type, model · on: ケイ · kun: かた, -がた
+- 研 — grind, research · on: ケン · kun: と(ぐ)
+- 厄 — misfortune, trouble · on: ヤク
+- 範 — model · on: ハン
+- 怨 — hold a grudge, resent · on: エン, オン · kun: うら(む*), うら(み*), うら(めしい*)
+- 苑 — imperial garden · on: エン, オン · kun: その
+- 宛 — address · kun: あ(てる), -あ(て), -あて
+- 腕 — arm, ability · on: ワン · kun: うで
+- 却 — eliminate, reject · on: キャク
+- 狂 — crazy, mad (about) · on: キョウ · kun: くる(う), くる(おしい), くる(わす), くる(わせる)
+- 獄 — prison · on: ゴク
+- 非 — is not, non-, un-, wrong · on: ヒ
+- 罰 — punishment, heaven's vengeance · on: バツ, バチ
+- 伴 — accompany · on: ハン, バン · kun: ともな(う)
+- 評 — comment, evaluate · on: ヒョウ
+- 批 — criticize, comment · on: ヒ
+- 帥 — commander in chief · on: スイ
+- 師 — master, teacher · on: シ
+- 坐 — sit · on: ザ · kun: すわ(る)
+- 卒 — graduate, come to an end, private, soldier · on: ソツ
+- 傘 — umbrella · on: サン · kun: かさ
+- 笠 — bamboo hat · on: リュウ · kun: かさ
+- 星 — star, celestrial body · on: セイ, ショウ · kun: ほし, -ぼし
+- 斗 — dipper, to (18 liters) · on: ト
+- 料 — fee, materials · on: リョウ
+- 科 — subject of study · on: カ
+- 燃 — burn · on: ネン · kun: も(える), も(やす), も(す)
+- 黙 — silent, tacit · on: モク · kun: だま(る)
+- 獣 — beast · on: ジュウ · kun: けもの
+- 猟 — hunting · on: リョウ
+- 狩 — hunt · on: シュ · kun: か(る), か(り), -が(り)
+- 猛 — ferocious, intensive · on: モウ
+- 煙 — smoke · on: エン · kun: けむ(る), けむり, けむ(い)
+- 暁 — dawn · on: ギョウ · kun: あかつき
+- 旧 — former, old · on: キュウ
+- 亦 — also · on: エキ · kun: また
+- 赤 — red · on: セキ, シャク · kun: あか, あか-, あか(い), あか(らむ), あか(らめる)
+- 変 — change, variation, abnormal · on: ヘン · kun: か(わる), か(わり), か(える)
+- 愛 — love · on: アイ · kun: いと(しい*)
+- 憂 — be anxious, worry, grief · on: ユウ · kun: うれ(える), うれ(い), う(い), う(き) · forgotten 3×
+- 票 — slip of paper, ballot · on: ヒョウ
+- 漂 — drift, float · on: ヒョウ · kun: ただよ(う)
+- 各 — each, every, all; various · on: カク · kun: おのおの
+- 客 — visitor, customer · on: キャク, カク
+- 路 — road, way · on: ロ · kun: #NOM?
+- 格 — norm, standard, status, rank, character · on: カク, コウ
+- 略 — leave out, abridge, strategy; seize · on: リャク · forgotten 3×
+- 落 — fall, fail · on: ラク · kun: お(ちる), お(ち), お(とす)
+- 南 — south · on: ナン, ナ · kun: みなみ
+- 西 — west · on: セイ, サイ · kun: にし
+- 酒 — alcoholic drink · on: シュ · kun: さけ, さか-
+- 洒 — sprinkle, wash · on: シャ, サイ
+- 配 — distribute, put in order, manage · on: ハイ · kun: くば(る)
+- 酸 — acid, oxygen · on: サン · kun: す(い)
+- 尊 — honor, esteem · on: ソン · kun: たっと(い), とうと(い), たっと(ぶ), とうと(ぶ)
+- 遵 — obey · on: ジュン
+- 導 — guide, conduct · on: ドウ · kun: みちび(く)
+- 警 — guard against, warn · on: ケイ
+- 散 — scatter, disperse; unrestrained · on: サン · kun: ち(る), ち(らす), -ち(らす), ち(らかす), ち(らかる), ち(らばる)
+- 敢 — boldly · on: カン · kun: あ(えて*), あ(えず*)
+- 厳 — severe, solemn · on: ゲン, ゴン · kun: おごそ(か), きび(しい)
+- 払 — clear away, pay · on: フツ · kun: はら(う), -はら(い), -ばら(い)
+- 拡 — enlarge, widen · on: カク
+- 可 — possible, -able; worthy of, approve · on: カ
+- 何 — what, how many, several · on: カ · kun: なに, なん, なに-, なん-
+- 荷 — load, cargo · on: カ · kun: に
+- 河 — river · on: カ · kun: かわ
+- 司 — officiate, administer · on: シ
+- 伺 — inquire, pay a visit · on: シ · kun: うかが(う)
+- 飼 — raise animals · on: シ · kun: か(う)
+- 冊 — counter for books · on: サツ, サク
+- 嗣 — heir · on: シ
+- 歌 — song, japanese poem · on: カ · kun: うた, うた(う)
+- 唄 — ditty · kun: うた, うた(う)
+- 負 — bear, lose · on: フ · kun: ま(ける), ま(かす), お(う)
+- 積 — accumulate · on: セキ · kun: つ(む), -ずみ, つ(もる), つ(もり)
+- 債 — debt, bond · on: サイ
+- 漬 — pickle, immerse · kun: つ(ける), つ(かる), -ず(け), -ずけ · forgotten 3×
+- 績 — achievements; spin thread · on: セキ
+- 具 — implement, tool · on: グ
+- 直 — straight, direct, upright, put straight, correct · on: チョク, ジキ, ジカ* · kun: ただ(ちに), なお(す), -なお(す), なお(る), す(ぐ*)
+- 植 — plant · on: ショク · kun: う(える), う(わる)
+- 値 — value, worth · on: チ · kun: ね, あたい
+- 置 — place, put in place; leave in place · on: チ · kun: お(く), -お(き)
+- 県 — prefecture · on: ケン
+- 洲 — sandbar · on: シュウ · kun: す
+- 接 — contact, join, meet · on: セツ · kun: つ(ぐ)
+- 継 — succeed, follow · on: ケイ · kun: つ(ぐ)
+- 応 — respond, correspond · on: オウ · kun: こた(える)
+- 床 — bed, floor · on: ショウ · kun: とこ, ゆか
+- 麻 — hemp, become numb · on: マ · kun: あさ
+- 暦 — calendar · on: レキ · kun: こよみ
+- 臨 — attend (to), confront · on: リン · kun: のぞ(む)
+- 園 — garden · on: エン · kun: その
+- 写 — copy · on: シャ · kun: うつ(す), うつ(る)
+- 卸 — wholesale · kun: おろ(す), おろし, おろ(し)
+- 御 — general honorific term · on: ギョ, ゴ · kun: おん-, お-*, み-*
+- 複 — compound, double, duplicate · on: フク
+- 復 — return to, repeat · on: フク
+- 往 — go on, proceed; pass away · on: オウ
+- 柱 — pillar, mainstay · on: チュウ · kun: はしら
+- 征 — conquer, invade · on: セイ
+- 徒 — follower, pupil, fellow(s), going on foot · on: ト
+- 伸 — stretch, grow · on: シン · kun: の(びる), の(ばす), の(べる)
+- 紳 — gentleman · on: シン
+- 誕 — be born · on: タン
+- 廷 — court · on: テイ
+- 艇 — boat · on: テイ
+- 展 — unfold, develop, display · on: テン
+- 異 — different · on: イ · kun: こと, こと(なる)
+- 累 — cumulate, encumber · on: ルイ
+- 塁 — base, small fort · on: ルイ
+- 吏 — official · on: リ
+- 史 — history · on: シ
+- 更 — renew, replace, furthermore, grow late · on: コウ · kun: さら, さら(に), ふ(ける), ふ(かす)
+- 硬 — hard · on: コウ · kun: かた(い)
+- 熊 — bear · kun: くま
+- 罷 — discontinue · on: ヒ · kun: や(める*)
+- 羅 — line up, arrange, phonetic [ra] · on: ラ
+- 曇 — cloudy · on: ドン · kun: くも(る)
+- 雪 — snow · on: セツ · kun: ゆき
+- 雷 — thunder · on: ライ · kun: かみなり
+- 零 — zero · on: レイ
+- 振 — swing, wave, wield, pretend · on: シン · kun: ふ(る), ぶ(る), ふ(り), -ぶ(り), ふ(るう), ふ(れる)
+- 久 — of long duration · on: キュウ, ク · kun: ひさ(しい)
+- 賑 — flourish; be bustling · on: シン · kun: にぎ(わう), にぎ(やか)
+- 兵 — soldier · on: ヘイ, ヒョウ
+- 岳 — high mountain, peak · on: ガク · kun: たけ
+- 浜 — beach · on: ヒン · kun: はま
+- 再 — another time · on: サイ, サ · kun: ふたた(び)
+- 虎 — tiger · on: コ · kun: とら
+- 寅 — (sign of) the tiger · on: イン · kun: とら
+- 黄 — yellow · on: コウ, オウ · kun: き, こ-
+- 横 — sideways, across, arbitrary, despotic · on: オウ · kun: よこ
+- 構 — construct, frame, mind, care about · on: コウ · kun: かま(える), かま(う)
+- 購 — purchase · on: コウ
+- 溝 — channel, ditch · on: コウ · kun: みぞ, どぶ*
+- 片 — fragment, one of two · on: ヘン · kun: かた-, かた
+- 版 — printing plate, publishing, printing · on: ハン
+- 板 — board, plate · on: ハン, バン · kun: いた
+- 義 — righteousness, meaning, sense, substitute, artificial · on: ギ
+- 議 — discuss, legislative body · on: ギ
+- 犠 — sacrifice · on: ギ
+- 牲 — sacrifice · on: セイ
+- 旨 — purport, gist, aim · on: シ · kun: むね, うま(い*)
+- 揮 — brandish, wave · on: キ
+- 輝 — shine brilliantly · on: キ · kun: かがや(く)
+- 策 — scheme, plan, measure · on: サク
+- 差 — divergence, difference · on: サ · kun: さ(す), さ(し)
+- 着 — put on (clothes), arrive, stick, adhere · on: チャク, ジャク · kun: き(る), -ぎ, き(せる), -きせ, つ(く), つ(ける)
+- 到 — arrive · on: トウ
+- 倒 — topple · on: トウ · kun: たお(れる), -だお(れ), たお(す)
+- 輪 — wheel, ring · on: リン · kun: は
+- 愉 — pleased · on: ユ
+- 癒 — heal, soothe · on: ユ · kun: い(やす), い(える)
+- 治 — govern, bring under control, cure · on: ジ, チ · kun: おさ(める), おさ(まる), なお(る), なお(す)
+- 冶 — work metals · on: ヤ
+- 療 — treat, medicate · on: リョウ
+- 瞭 — clear · on: リョウ
+- 寮 — dormitory · on: リョウ
+- 始 — begin · on: シ · kun: はじ(める), -はじ(める), はじ(まる)
+- 了 — finish, comprehend · on: リョウ
+- 承 — agree to, be told, receive · on: ショウ · kun: うけたまわ(る)
+- 蒸 — steam, be steamed · on: ジョウ · kun: む(す), む(れる), む(らす)
+- 舞 — dance · on: ブ · kun: ま(う), -ま(う), まい
+- 瞬 — blink; instant · on: シュン · kun: またた(く)
+- 枝 — branch · on: シ · kun: えだ
+- 技 — skill, craft · on: ギ · kun: わざ ・ · forgotten 3×
+- 伎 — performance · on: キ, ギ* · forgotten 5×
+- 峠 — mountain pass · kun: とうげ
+- 阜 — mound · on: フ
+- 急 — urgent, hurry, sudden · on: キュウ · kun: いそ(ぐ), いそ(ぎ)
+- 情 — emotion, feeling, actual conditions · on: ジョウ, セイ · kun: なさ(け)
+- 清 — clear, pure · on: セイ, ショウ · kun: きよ(い), きよ(まる), きよ(める)
+- 晴 — clear sky · on: セイ · kun: は(れる), は(れ), は(れ-), -ば(れ), は(らす)
+- 精 — refined; precise, meticulous, essence, spirit · on: セイ, ショウ
+- 浄 — clean, pure · on: ジョウ
+- 答 — answer · on: トウ · kun: こた(える), こた(え)
+- 符 — symbol, mark; tally stick · on: フ
+- 博 — extensive (knowledge), doctor, ph.d. · on: ハク, バク
+- 縛 — bind, restrain · on: バク · kun: しば(る)
+- 薄 — thin, scanty · on: ハク · kun: うす(い), うす-, -うす, うす(める), うす(まる), うす(らぐ), うす(ら-), うす(れる)
+- 采 — gather · on: サイ
+- 菜 — vegetable · on: サイ · kun: な
+- 彩 — beautiful coloring · on: サイ · kun: いろど(る)
+- 杉 — cryptomeria, japanese cedar · kun: すぎ
+- 街 — city quarter, city street · on: ガイ, カイ · kun: まち
+- 余 — remaining, left over, excess · on: ヨ · kun: あま(る), あま(り), あま(す)
+- 徐 — slowly · on: ジョ
+- 叙 — describe, explain · on: ジョ
+- 斜 — oblique · on: シャ · kun: なな(め)
+- 塗 — apply on a surface, paint · on: ト · kun: ぬ(る), ぬ(り)
+- 漆 — lacquer · on: シツ · kun: うるし
+- 仙 — hermit, immortal mountain fairy · on: セン
+- 垂 — hang down, dangle · on: スイ · kun: た(れる), た(らす), た(れ), -た(れ)
+- 兼 — combine, cannot, find it difficult to · on: ケン · kun: か(ねる), -か(ねる)
+- 剰 — surplus · on: ジョウ
+- 睡 — sleep · on: スイ
+- 郵 — mail · on: ユウ
+- 錘 — spindle · on: スイ · kun: つむ
+- 侵 — invade, violate · on: シン · kun: おか(す)
+- 浸 — soak, immerse · on: シン · kun: ひた(す), ひた(る)
+- 掃 — sweep (away) · on: ソウ · kun: は(く)
+- 婦 — adult woman, wife · on: フ
+- 帰 — return (home) · on: キ · kun: かえ(る), かえ(す)
+- 戻 — return, give back · on: レイ · kun: もど(す), もど(る)
+- 射 — shoot, radiate · on: シャ · kun: い(る), さ(す*)
+- 謝 — thank, apologize · on: シャ · kun: あやま(る)
+- 討 — study, examine, suppress by armed force · on: トウ · kun: う(つ)
+- 訂 — revise, correct · on: テイ
+- 撃 — strike, attack; shoot · on: ゲキ · kun: う(つ)
+- 拭 — wipe · on: ショク · kun: ふ(く), ぬぐ(う)
+- 試 — try, test · on: シ · kun: こころ(みる), ため(す)
+- 検 — examine, investigate · on: ケン
+- 験 — test, examine · on: ケン, ゲン
+- 倹 — frugal · on: ケン
+- 剣 — sword · on: ケン · kun: つるぎ
+- 谷 — valley · on: コク · kun: たに
+- 浴 — bathe · on: ヨク · kun: あ(びる), あ(びせる)
+- 容 — countenance, appearance, contain, accommodate · on: ヨウ
+- 俗 — popular, vulgar · on: ゾク
+- 寛 — lenient · on: カン
+- 甘 — sweet · on: カン · kun: あま(い), あま(える), あま(やかす)
+- 紅 — crimson · on: コウ, ク · kun: べに, くれない
+- 攻 — attack · on: コウ · kun: せ(める)
+- 巧 — skillful, ingenious · on: コウ · kun: たく(み)
+- 枯 — wither · on: コ · kun: か(れる), か(らす)
+- 汚 — dirty, defile · on: オ · kun: けが(す), けが(れる), けが(らわしい), よご(す), よご(れる), きたな(い)
+- 升 — sho (1.8 liters) · on: ショウ · kun: ます
+- 弁 — speak, argue, manage, valve · on: ベン
+- 登 — ascend, climb, attend, appear, register · on: トウ, ト · kun: のぼ(る)
+- 澄 — limpid · on: チョウ · kun: す(む), す(ます), -す(ます)
+- 充 — fill, allot · on: ジュウ · kun: あ(てる)
+- 銃 — gun, rifle · on: ジュウ
+- 流 — flow, current, style · on: リュウ, ル · kun: なが(れる), なが(れ), なが(す), -なが(す)
+- 硫 — sulfur · on: リュウ
+- 盲 — blind · on: モウ
+- 忘 — forget · on: ボウ · kun: わす(れる) · forgotten 3×
+- 荒 — wild, barren; devastated, ruined · on: コウ · kun: あら(い), あら-, あ(れる), あ(らす), -あ(らし)
+- 慌 — flurried, hurried · on: コウ · kun: あわ(てる), あわ(ただしい)
+- 希 — rare, aspire · on: キ · kun: まれ*
+- 稀 — rare · on: キ, ケ · kun: まれ
+- 括 — lump together · on: カツ
+- 拾 — pick up · on: シュウ, ジュウ · kun: ひろ(う)
+- 捨 — discard · on: シャ · kun: す(てる)
+- 孤 — solitary · on: コ
+- 弧 — arc · on: コ
+- 弾 — projectile, bullet, spring back; play on (stringed instruments) · on: ダン · kun: ひ(く), -ひ(き), はず(む), たま
+- 系 — system, interrelated group, lineage, descent · on: ケイ
+- 係 — connect, relate to, person in charge · on: ケイ · kun: かか(る), かかり, -がかり, かか(わる*)
+- 孫 — grandchild · on: ソン · kun: まご
+- 偏 — one-sided, partial · on: ヘン · kun: かたよ(る)
+- 遍 — all over, everywhere, counter for times · on: ヘン
+- 篇 — volume; chapter, part · on: ヘン
+- 普 — widespread, common · on: フ
+- 織 — weave · on: ショク, シキ · kun: お(る), お(り), おり, -おり, -お(り)
+- 識 — discriminate, discern, knowledge, learning · on: シキ
+- 殉 — die a martyr · on: ジュン
+- 退 — retreat · on: タイ · kun: しりぞ(く), しりぞ(ける)
+- 智 — wisdom, intelligence · on: チ
+- 仁 — humaneness · on: ジン, ニ
+- 忍 — bear, endure; preform by stealth · on: ニン · kun: しの(ぶ), しの(ばせる)
+- 認 — recognize, admit · on: ニン · kun: みと(める)
+- 救 — save, rescue · on: キュウ · kun: すく(う)
+- 球 — ball, globe · on: キュウ · kun: たま
+- 屯 — station troops · on: トン
+- 召 — summon · on: ショウ · kun: め(す)
+- 招 — invite · on: ショウ · kun: まね(く)
+- 沼 — muddy pond · on: ショウ · kun: ぬま
+- 紹 — introduce · on: ショウ
+- 勅 — imperial decree · on: チョク
+- 昭 — luminous, enlightened · on: ショウ
+- 照 — illuminate, examine by comparison · on: ショウ · kun: て(る), て(らす), て(れる)
+- 超 — surpass, super-, ultra- · on: チョウ · kun: こ(える), こ(す)
+- 趣 — purport, gist, meaning, flavor, distinctive charm · on: シュ · kun: おもむき
+- 赴 — proceed to · on: フ · kun: おもむ(く)
+- 訃 — death report · on: フ
+- 朴 — simple · on: ボク
+- 摘 — pick, pluck · on: テキ · kun: つ(む)
+- 滴 — drop · on: テキ · kun: しずく, したた(る)
+- 適 — fit, suit · on: テキ
+- 敵 — enemy · on: テキ · kun: かたき
+- 授 — confer, instruct · on: ジュ · kun: さず(ける), さず(かる)
+- 媛 — damsel, young lady of noble birth · on: エン · kun: ひめ
+- 緩 — slack, loose · on: カン · kun: ゆる(い), ゆる(やか), ゆる(む), ゆる(める)
+- 暖 — warm · on: ダン, ノン* · kun: あたた(か), あたた(かい), あたた(まる), あたた(める)
+- 観 — view · on: カン
+- 勧 — urge, promote · on: カン · kun: すす(める)
+- 歓 — joyous · on: カン
+- 鶴 — crane · on: カク* · kun: つる
+- 慢 — arrogant, sluggish · on: マン · forgotten 4×
+- 抑 — suppress · on: ヨク · kun: おさ(える)
+- 仰 — look up (to) · on: ギョウ, コウ · kun: あお(ぐ), おお(せ)
+- 迎 — welcome; go out to meet · on: ゲイ · kun: むか(える)
+- 卵 — egg · on: ラン · kun: たまご
+- 疎 — scattered, estranged · on: ソ · kun: うと(い), うと(む)
+- 速 — quick · on: ソク · kun: はや(い), はや-, はや(める), はや(まる), すみ(やか)
+- 遅 — slow, late · on: チ · kun: おく(れる), おく(らす), おそ(い)
+- 辻 — crossroad · kun: つじ
+- 加 — add (to), join · on: カ · kun: くわ(える), くわ(わる)
+- 減 — decrease, substract · on: ゲン · kun: へ(る), へ(らす)
+- 滅 — extinguish, destroy · on: メツ · kun: ほろ(びる), ほろ(ぶ), ほろ(ぼす)
+- 或 — a certain · on: ワク · kun: あ(る), ある(いわ)
+- 域 — bounded area, district · on: イキ · forgotten 3×
+- 収 — take in, gain, seize · on: シュウ · kun: おさ(める), おさ(まる)
+- 献 — offer, donate · on: ケン, コン
+- 貢 — tribute · on: コウ, ク · kun: みつ(ぐ)
+- 貪 — covet · on: ドン · kun: むさぼ(る)
+- 貰 — get · on: セイ · kun: もら(う)
+- 貧 — poor · on: ヒン, ビン · kun: まず(しい)
+- 貨 — money, currency, goods; freight · on: カ
+- 資 — resources, capital · on: シ
+- 替 — replace, substitute for · on: タイ · kun: か(える), か(え-), か(わる)
+- 潜 — submerge, lurk · on: セン · kun: ひそ(む), もぐ(る)
+- 貿 — trade · on: ボウ
+- 留 — keep in place, stay; reside · on: リュウ, ル · kun: と(める), -と(める), -ど(め), と(まる), とど(まる*)
+- 賀 — congratulate · on: ガ
+- 架 — lay across · on: カ · kun: か(ける), か(かる)
+- 梨 — pear · on: リ* · kun: なし
+- 傑 — person of excellence · on: ケツ
+- 貴 — noble; precious, your honorable · on: キ · kun: たっと(い), とうと(い), たっと(ぶ), とうと(ぶ)
+- 潰 — crush, break · on: カイ · kun: つぶ(す), つぶ(れる)
+- 追 — chase, follow, · on: ツイ · kun: お(う)
+- 迫 — press, urge; draw near, · on: ハク · kun: せま(る)
+- 拍 — beat, rhythm · on: ハク, ヒョウ
+- 弔 — condole; mourn · on: チョウ · kun: とむら(う)
+- 沸 — boil (over) · on: フツ · kun: わ(く), わ(かす)
+- 弟 — younger brother · on: テイ, ダイ, デ · kun: おとうと
+- 剃 — shave · on: テイ · kun: そ(る), す(る)
+- 兄 — older brother · on: ケイ, キョウ · kun: あに
+- 只 — free of charge, just, only, ordinary · on: シ · kun: ただ, ただ-
+- 鋭 — sharp · on: エイ · kun: するど(い)
+- 説 — explain; preach, theory, view · on: セツ, ゼイ · kun: と(く)
+- 脱 — remove, escape from · on: ダツ · kun: ぬ(ぐ), ぬ(げる)
+- 閲 — review, inspect · on: エツ
+- 況 — conditions, state of affairs · on: キョウ
+- 悦 — delighted · on: エツ
+- 克 — overcome · on: コク
+- 姉 — older sister · on: シ · kun: あね
+- 妹 — younger sister · on: マイ · kun: いもうと
+- 殊 — special · on: シュ · kun: こと
+- 序 — introductory part, beginning, order, sequence · on: ジョ
+- 迭 — alternate · on: テツ
+- 善 — good · on: ゼン · kun: よ(い)
+- 膳 — small food table, tray · on: ゼン
+- 憾 — strongly regret · on: カン
+- 恨 — hold a grudge, resent · on: コン · kun: うら(む), うら(めしい)
+- 措 — dispose (of), manage · on: ソ
+- 借 — borrow, rent · on: シャク · kun: か(りる)
+- 錯 — mixed up · on: サク
+- 曽 — before, formerly · on: ソウ, ソ, ゾ
+- 層 — stratum · on: ソウ
+- 憎 — hate · on: ゾウ · kun: にく(む), にく(い), にく(らしい), にく(しみ)
+- 贈 — present a gift · on: ゾウ, ソウ · kun: おく(る)
+- 賂 — bribe · on: ロ
+- 賦 — installment, payment · on: フ
+- 賊 — bandit · on: ゾク
+- 渋 — not go smoothly, astringent, juice (of unripe persimmons) · on: ジュウ · kun: しぶ, しぶ(い), しぶ(る)
+- 摂 — take in, act as regent · on: セツ · kun: と(る*)
+- 偽 — falsify, deceive · on: ギ · kun: いつわ(る), にせ
+- 参 — participate, visit a holy place; go somewhere; refer to · on: サン, シン* · kun: まい(る)
+- 惨 — miserable, wretched, cruel · on: サン, ザン · kun: みじ(め)
+- 侶 — companion · on: リョ
+- 宮 — royal palace, shintō shrine · on: キュウ, グウ, ク · kun: みや
+- 営 — operate, manage, barracks, camp · on: エイ · kun: いとな(む)
+- 蛍 — firefly · on: ケイ · kun: ほたる
+- 誉 — honor, glory · on: ヨ · kun: ほま(れ)
+- 挙 — nominate, cite, noteworthy act, raise (one's hand) · on: キョ · kun: あ(げる), あ(がる)
+- 桜 — cherry · on: オウ · kun: さくら
+- 咲 — bloom · kun: さ(く), -ざ(き)
+- 朕 — imperial we · on: チン
+- 径 — path, diameter · on: ケイ
+- 軽 — light · on: ケイ · kun: かる(い), かろ(やか)
+- 経 — pass through, longitude, manage, sutra, scripture · on: ケイ, キョウ · kun: へ(る), た(つ*)
+- 斉 — equal, uniform · on: セイ
+- 済 — settle, pay back, come to an end, relieve, save · on: サイ · kun: す(む), -ず(み), -ずみ, す(まない), す(ます), -す(ます), す(ませる)
+- 剤 — preparation, medicine · on: ザイ
+- 剖 — dissect · on: ボウ
+- 賠 — compensate, indemnify · on: バイ
+- 貼 — stick on, paste · on: チョウ, テン* · kun: は(る), -ば(り)
+- 粘 — sticky · on: ネン · kun: ねば(る)
+- 換 — exchange; replace · on: カン · kun: か(える), -か(える), か(わる)
+- 喚 — call (out) · on: カン
+- 免 — exemption, license, escape · on: メン · kun: まぬか(れる), まぬが(れる)
+- 逸 — let slip, deviate from the norm · on: イツ
+- 晩 — evening · on: バン
+- 許 — permit, authorize · on: キョ · kun: ゆる(す)
+- 象 — phenomenon, outward manifestation; image, elephant · on: ショウ, ゾウ
+- 像 — image, likeness · on: ゾウ
+- 景 — scene, outlook · on: ケイ
+- 影 — shadow, image, silhouette · on: エイ · kun: かげ
+- 撮 — photograph · on: サツ · kun: と(る), -ど(り)
+- 就 — set about, enter upon · on: シュウ, ジュ · kun: つ(く), つ(ける)
+- 鯨 — whale · on: ゲイ · kun: くじら
+- 隔 — sepaparte · on: カク · kun: へだ(てる), へだ(たる)
+- 融 — fuse, finance · on: ユウ
+- 肖 — likeness · on: ショウ
+- 硝 — niter · on: ショウ
+- 梢 — tip of a twig · on: ショウ · kun: こずえ
+- 削 — cut by chipping · on: サク · kun: けず(る)
+- 宴 — banquet · on: エン
+- 郷 — hometown · on: キョウ, ゴウ · kun: さと*
+- 饗 — banquet · on: キョウ
+- 響 — reverberate · on: キョウ · kun: ひび(く)
+- 誠 — sincerity, truth · on: セイ · kun: まこと
+- 旺 — flourishing · on: オウ
+- 盗 — steal · on: トウ · kun: ぬす(む)
+- 盟 — alliance, pact, · on: メイ
+- 傷 — wound, scar, · on: ショウ · kun: きず, いた(む), いた(める)
+- 揚 — raise high, exalt, fry · on: ヨウ · kun: あ(げる), -あ(げ), あ(がる)
+- 陰 — shadow, negative · on: イン · kun: かげ, かげ(る)
+- 穏 — calm, mild · on: オン · kun: おだ(やか)
+- 穂 — spike, head of grain, · on: スイ · kun: ほ
+- 稲 — rice plant · on: トウ · kun: いね, いな-
+- 裁 — cut out, judge, decide, rule · on: サイ · kun: た(つ), さば(く)
+- 載 — load, put in print · on: サイ · kun: の(せる), の(る)
+- 栽 — planting · on: サイ
+- 踪 — trace, footprint · on: ソウ · forgotten 3×
+- 痕 — scar; footprint · on: コン · kun: あと
+- 踊 — dance · on: ヨウ · kun: おど(る), おど(り)
+- 踏 — tread, stand on · on: トウ · kun: ふ(む), ふ(まえる)
+- 濯 — rinse · on: タク
+- 奇 — unusual, odd · on: キ
+- 寄 — contribute, draw near, call on · on: キ · kun: よ(る), -よ(り), よ(せる)
+- 騎 — ride on horseback · on: キ
+- 埼 — promontory, cape · on: キ* · kun: さい
+- 岬 — cape, promontory · kun: みさき
+- 模 — pattern, pattern after · on: モ, ボ
+- 膜 — membrane · on: マク
+- 漠 — desert, obscure · on: バク
+- 墓 — grave · on: ボ · kun: はか
+- 募 — raise, collect · on: ボ · kun: つの(る)
+- 暮 — dusk, live · on: ボ · kun: く(れる), く(らす)
+- 慕 — adore · on: ボ · kun: した(う)
+- 恭 — respectful · on: キョウ · kun: うやうや(しい)
+- 暴 — violent, disclose, lay bare · on: ボウ, バク · kun: あば(く), あば(れる)
+- 爆 — explode · on: バク
+- 礎 — foundation stone · on: ソ · kun: いしずえ
+- 疑 — doubt, distrust · on: ギ · kun: うたが(う)
+- 凝 — congeal, grow stif, become absorbed in · on: ギョウ · kun: こ(る), こ(らす)
+- 擬 — imitate · on: ギ
+- 倣 — copy after · on: ホウ · kun: なら(う)
+- 俵 — straw sack · on: ヒョウ · kun: たわら
+- 俺 — i, myself · kun: おれ
+- 庵 — hermitage · on: アン · kun: いおり
+- 僕 — i, myself, manservant · on: ボク
+- 叩 — strike, slap · on: コウ · kun: たた(く)
+- 伐 — cut down · on: バツ
+- 閥 — clique, clan · on: バツ
+- 闇 — dark · on: アン* · kun: やみ
+- 閑 — leisure, quiet · on: カン
+- 脈 — vein, pulse · on: ミャク
+- 派 — sect, fraction, dispatch, · on: ハ
+- 缶 — can · on: カン
+- 謡 — popular song, chant · on: ヨウ · kun: うたい, うた(う)
+- 遥 — far · on: ヨウ · kun: はる(か) · forgotten 3×
+- 陶 — pottery · on: トウ
+- 陳 — set forth, lay out · on: チン
+- 陥 — fall in/into · on: カン · kun: おちい(る), おとしい(れる)
+- 隆 — prosper, rise · on: リュウ
+- 降 — descend, unload · on: コウ · kun: お(りる), お(ろす), ふ(る), ふ(り)
+- 逢 — meet · on: ホウ · kun: あ(う)
+- 縫 — sew · on: ホウ · kun: ぬ(う) · forgotten 3×
+- 蜜 — honey; nectar · on: ミツ
+- 密 — close, dense, tight, secret · on: ミツ
+- 秘 — secret · on: ヒ · kun: ひ(める)
+- 欧 — europe · on: オウ
+- 枢 — pivot · on: スウ
+- 駆 — drive · on: ク · kun: か(ける), か(る)
+- 馳 — gallop, run · on: チ · kun: は(せる)
+- 騒 — clamor · on: ソウ · kun: さわ(ぐ)
+- 旭 — rising sun, morning sun · on: キョク · kun: あさひ
+- 但 — provided that; however · kun: ただ(し)
+- 担 — bear on shoulder, undertake, shoulder · on: タン · kun: かつ(ぐ), にな(う)
+- 亘 — span · on: コウ · kun: わた(る)
+- 恒 — constant, permanent · on: コウ
+- 垣 — fence, wall · kun: かき
+- 喧 — clamorous · on: ケン · kun: かまびす(しい), やかま(しい)
+- 嘩 — noisy · on: カ
+- 唾 — saliva · on: ダ · kun: つば
+- 壷 — jar, pot · on: コ · kun: つぼ
+- 坪 — tsubo (about 3.3 square meters) · kun: つぼ
+- 衆 — multitude · on: シュウ, シュ
+- 伊 — phonetic (i) · on: イ
+- 君 — ruler, familiar title, you · on: クン · kun: きみ, -ぎみ
+- 郡 — county · on: グン
+- 郊 — suburb · on: コウ
+- 効 — effect · on: コウ · kun: き(く)
+- 搾 — squeeze, extract · on: サク · kun: しぼ(る)
+- 紋 — crest · on: モン
+- 帝 — emperor · on: テイ
+- 締 — conclude, contract, tighten · on: テイ · kun: し(まる), し(まり), し(める), -し(め), -じ(め)
+- 諦 — give up · on: テイ · kun: あきら(める)
+- 享 — enjoy, receive · on: キョウ
+- 亭 — inn, restaurant, pseudonym suffix · on: テイ
+- 停 — stop · on: テイ
+- 混 — mix, mixed up · on: コン · kun: ま(じる), -ま(じり), ま(ざる), ま(ぜる), こ(む) · forgotten 5×
+- 皆 — all, everything, everyone · on: カイ · kun: みな, みんな*
+- 楷 — block character style · on: カイ
+- 階 — floor, story, rank, class · on: カイ
+- 勢 — power, force, condition, trend · on: セイ · kun: いきお(い)
+- 熱 — heat, hot · on: ネツ · kun: あつ(い)
+- 菱 — rhombus · on: リョウ · kun: ひし
+- 俊 — brilliant person · on: シュン
+- 箸 — chopsticks · on: チョ* · kun: はし
+- 暑 — hot, summer heat · on: ショ · kun: あつ(い)
+- 署 — government office, sign one's name · on: ショ
+- 諸 — various, all kinds of · on: ショ
+- 儲 — profit · on: チョ · kun: もう(ける), もう(かる), もうけ
+- 翁 — old man · on: オウ
+- 姿 — figure, appearance; posture · on: シ · kun: すがた
+- 妄 — rash, outrageous · on: モウ, ボウ
+- 妻 — wife · on: サイ · kun: つま
+- 凄 — tremendous, terrible · on: セイ · kun: すご(い*), すさ(まじい*), すご(む*)
+- 彰 — proclaim merits · on: ショウ
+- 障 — hindrance · on: ショウ · kun: さわ(る)
+- 辛 — pungent, spicy, hard, painful · on: シン · kun: から(い), つら(い*)
+- 宰 — preside, manage · on: サイ
+- 辣 — sharp, bitter · on: ラツ
+- 壁 — wall · on: ヘキ · kun: かべ
+- 璧 — magnificent jewel · on: ヘキ
+- 癖 — habit, quirk · on: ヘキ · kun: くせ
+- 避 — avoid · on: ヒ · kun: さ(ける)
+- 服 — clothes, submit · on: フク
+- 報 — report, requite · on: ホウ · kun: むく(いる), むく(う)
+- 執 — execute, perform, seize, hold fast to · on: シツ, シュウ · kun: と(る)
+- 摯 — sincere · on: シ
+- 朗 — cheerful, clear, bright · on: ロウ · kun: ほが(らか)
+- 浪 — billow, large wave, roam, wander · on: ロウ
+- 娯 — enjoyment · on: ゴ
+- 誤 — mistake · on: ゴ · kun: あやま(る), -あやま(る)
+- 副 — secondary, subordinate · on: フク
+- 福 — fortune · on: フク
+- 祉 — blessedness · on: シ
+- 禍 — calamity · on: カ
+- 渦 — whirlpool · on: カ · kun: うず · forgotten 4×
+- 蘭 — orchid, holland · on: ラン
+- 潤 — moist · on: ジュン · kun: うるお(う), うるお(す), うる(む)
+- 淵 — edge, deep pool · on: エン · kun: ふち
+- 稽 — practice, train · on: ケイ
+- 肩 — shoulder · on: ケン · kun: かた
+- 脅 — threaten · on: キョウ · kun: おびや(かす), おど(す), おど(かす)
+- 肯 — assent · on: コウ
+- 江 — inlet · on: コウ · kun: え
+- 湾 — bay; curve · on: ワン
+- 港 — port · on: コウ · kun: みなと
+- 選 — select · on: セン · kun: えら(ぶ)
+- 沢 — swamp, marsh, abundant · on: タク · kun: さわ
+- 訳 — translate, sense, meaning · on: ヤク · kun: わけ
+- 釈 — elucidate, release · on: シャク
+- 敷 — lay · on: フ · kun: し(く), -し(き)
+- 審 — examine carefully, try · on: シン
+- 藩 — feudal domain · on: ハン
+- 翻 — turn over, render in another form, translate, · on: ホン · kun: ひるがえ(る), ひるがえ(す)
+- 翔 — soar · on: ショウ · kun: かけ(る), と(ぶ)
+- 租 — land tax · on: ソ · forgotten 4×
+- 粗 — coarse · on: ソ · kun: あら(い), あら-
+- 狙 — aim at · on: ソ · kun: ねら(う)
+- 畳 — tatami, straw mat, fold up · on: ジョウ · kun: たた(む), たた(み-), たたみ
+- 乙 — second in a series · on: オツ
+- 丙 — third in a series · on: ヘイ
+- 柄 — character, status, handle, grip; shaft · on: ヘイ · kun: がら
+- 押 — push, press (down) · on: オウ · kun: お(す), お(し-), お(っ-), お(さえる)
+- 捜 — look for · on: ソウ · kun: さが(す)
+- 届 — deliver, reach · kun: とど(ける), -とど(け), とど(く)
+- 宙 — space, midair · on: チュウ
+- 笛 — flute; whistle · on: テキ · kun: ふえ
+- 襟 — collar · on: キン · kun: えり
+- 衿 — collar · on: キン · kun: えり
+- 裾 — cuff, hem · kun: すそ · forgotten 4×
+- 握 — grasp, seize · on: アク · kun: にぎ(る)
+- 撫 — stroke, soothe · on: ブ · kun: な(でる)
+- 託 — entrust · on: タク
+- 宅 — dwelling house · on: タク
+- 宇 — universe · on: ウ · forgotten 3×
+- 芋 — potato · kun: いも
+- 寿 — longevity, congratulations · on: ; · kun: ことぶき
+- 鋳 — cast, mint · on: チュウ · kun: い(る)
+- 鏡 — mirror, optical instrument · on: キョウ · kun: かがみ
+- 境 — boundary, situation · on: キョウ, ケイ · kun: さかい
+- 環 — ring, surround · on: カン
+- 還 — return · on: カン
+- 盾 — shield · on: ジュン · kun: たて
+- 巡 — make the rounds, go around · on: ジュン · kun: めぐ(る), めぐ(り)
+- 這 — crawl · on: シャ · kun: は(う) · forgotten 3×
+- 逓 — relay · on: テイ
+- 憩 — take a rest · on: ケイ · kun: いこ(い), いこ(う)
+- 孔 — open hole · on: コウ
+- 奥 — inner part, depths · on: オウ · kun: おく
+- 尖 — pointy · on: セン · kun: とが(る), とん(がる)
+- 突 — thrust; dash forward · on: トツ · kun: つ(く)
+- 窒 — choke, plug up, nitrogen · on: チツ
+- 窃 — steal · on: セツ
+- 契 — pledge · on: ケイ · kun: ちぎ(る)
+- 喫 — ingest · on: キツ
+- 潔 — immaculate · on: ケツ · kun: いさぎよ(い)
+- 侮 — insult, disdain · on: ブ · kun: あなど(る)
+- 悔 — repent, regret · on: カイ · kun: く(いる), く(やむ), くや(しい)
+- 敏 — nimble; alert · on: ビン
+- 繁 — thrive, be busy; numerous, manifold · on: ハン
+- 繋 — connect, tie together · on: ケイ · kun: つな(ぐ), つな(がる), かか(る)
+- 橋 — bridge · on: キョウ · kun: はし
+- 縞 — stripe · on: コウ · kun: しま
+- 箋 — writing paper, label · on: セン · kun: ふだ
+- 残 — leave behind, remain, ruthless · on: ザン · kun: のこ(る), のこ(す)
+- 銭 — money; coin, 0.01 yen monetary unit · on: セン · kun: ぜに
+- 践 — put into action · on: セン
+- 浅 — shallow · on: セン · kun: あさ(い)
+- 洩 — leak · on: エイ, セツ · kun: も(る), も(れる), も(らす)
+- 荘 — villa, dignified, solemn · on: ソウ
+- 装 — dress, disguise, fit out, equip · on: ソウ, ショウ · kun: よそお(う)
+- 冥 — dark · on: メイ, ミョウ
+- 暗 — dark · on: アン · kun: くら(い)
+- 韻 — rhyme, melodious tone · on: イン
+- 捕 — catch, seize · on: ホ · kun: と(らえる), と(らわれる), と(る), つか(まえる), つか(まる) · forgotten 3×
+- 補 — supplement; replenish · on: ホ · kun: おぎな(う) · forgotten 3×
+- 浦 — seaside, small bay · kun: うら
+- 舗 — pave, shop · on: ホ
+- 掴 — grasp, clutch · on: カク · kun: つか(む), つか(まえる), つか(まる)
+- 促 — hasten, urge · on: ソク · kun: うなが(す)
+- 筆 — brush, writing · on: ヒツ · kun: ふで
+- 津 — harbor, ferry · on: シン · kun: つ
+- 律 — law; commandment, rhythm, tone · on: リツ, リチ
+- 建 — build · on: ケン, コン · kun: た(てる), た(て), -だ(て), た(つ)
+- 健 — robust, healthy · on: ケン · kun: すこ(やか)
+- 康 — healthy · on: コウ · forgotten 5×
+- 粛 — purge, hushed; solemnly · on: シュク
+- 繍 — embroidery; brocade · on: シュウ
+- 唐 — tang dynasty · on: トウ · kun: から
+- 糖 — sugar · on: トウ
+- 粉 — powder · on: フン · kun: こ, こな
+- 粋 — refined · on: スイ · kun: いき
+- 枠 — frame · kun: わく
+- 酔 — become intoxicated · on: スイ · kun: よ(う), よ(い)
+- 醒 — wake up, sober up · on: セイ · kun: さ(める*), さ(ます*)
+- 酬 — reciprocate, recompense · on: シュウ
+- 凡 — commonplace, mediocre · on: ボン, ハン
+- 凧 — kite · kun: たこ · forgotten 3×
+- 帆 — sail · on: ハン · kun: ほ
+- 汎 — pan - · on: ハン
+- 怖 — fearful · on: フ · kun: こわ(い), こわ(がる)
+- 抗 — resist · on: コウ
+- 航 — navigate · on: コウ
+- 耕 — till · on: コウ · kun: たがや(す)
+- 崇 — reverence · on: スウ
+- 炭 — coal, charcoal, carbon · on: タン · kun: すみ
+- 岸 — shore, bank · on: ガン · kun: きし
+- 岩 — rock, crag · on: ガン · kun: いわ
+- 嵐 — storm · kun: あらし
+- 崖 — cliff · on: ガイ · kun: がけ
+- 催 — sponsor, make happen, press for · on: サイ · kun: もよお(す)
+- 焦 — scorch, be impatient · on: ショウ · kun: こ(げる), こ(がす), こ(がれる), あせ(る)
+- 奮 — rouse up · on: フン · kun: ふる(う)
+- 奪 — seize, rob · on: ダツ · kun: うば(う)
+- 獲 — catch game · on: カク · kun: え(る)
+- 穫 — harvest · on: カク
+- 嬢 — young lady · on: ジョウ
+- 醸 — brew · on: ジョウ · kun: かも(す)
+- 壊 — break down · on: カイ · kun: こわ(す), こわ(れる)
+- 羞 — shame · on: シュウ
+- 侯 — feudal lord · on: コウ
+- 喉 — throat · on: コウ · kun: のど
+- 候 — season, seasonal weather, sign · on: コウ · kun: そうろう
+- 是 — right, correct · on: ゼ
+- 提 — present, offer, carry in hand · on: テイ · kun: さ(げる)
+- 題 — heading, headline, topic, problem, question · on: ダイ
+- 匙 — spoon · on: シ · kun: さじ
+- 昌 — clear, bright · on: ショウ
+- 凍 — freeze · on: トウ · kun: こお(る), こご(える)
+- 氷 — ice · on: ヒョウ · kun: こおり, ひ
+- 泳 — swim · on: エイ · kun: およ(ぐ)
+- 詠 — recite poetry; compose poetry · on: エイ · kun: よ(む)
+- 札 — tag, label · on: サツ · kun: ふだ
+- 杯 — cup · on: ハイ · kun: さかずき
+- 折 — break (off), fold, bend · on: セツ · kun: お(る), おり, お(り), -お(り), お(れる)
+- 挫 — break, sprain · on: ザ · kun: くじ(く*), くじ(ける*)
+- 逝 — depart this life · on: セイ · kun: い(く), ゆ(く)
+- 哲 — wise, philosophy · on: テツ
+- 漸 — gradually · on: ゼン
+- 暫 — short while · on: ザン · kun: しばら(く*)
+- 究 — study exhaustively · on: キュウ · kun: きわ(める)
+- 窮 — pushed to the limit · on: キュウ · kun: きわ(める), きわ(まる), きわ(まり), きわ(み)
+- 函 — box · on: カン · kun: はこ
+- 深 — deep · on: シン · kun: ふか(い), -ぶか(い), ふか(まる), ふか(める)
+- 慄 — tremble, shudder · on: リツ
+- 鎮 — quell, appease · on: チン · kun: しず(めるしず,まる)
+- 塡 — fill (in) · on: テン
+- 婚 — marry · on: コン
+- 困 — be in trouble · on: コン · kun: こま(る)
+- 梱 — package, bale · on: コン
+- 因 — cause · on: イン · kun: よ(る)
+- 姻 — marriage · on: イン
+- 恩 — grace, favor, debt of gratitude · on: オン · forgotten 4×
+- 漢 — (ancient) chinese; han dynasty, fellow, man · on: カン
+- 勤 — service, work, employment · on: キン, ゴン · kun: つと(める), -ずと(め), つと(まる)
+- 牽 — pull · on: ケン · kun: ひ(く)
+- 庶 — manifold · on: ショ
+- 燕 — swallow, martin · on: エン · kun: つばめ
+- 雀 — sparrow, mahjong · on: ジャク, ジャン · kun: すずめ
+- 劣 — inferior · on: レツ · kun: おと(る)
+- 抄 — excerpt, select · on: ショウ
+- 妙 — marvelous, wonderful, strange · on: ミョウ
+- 炒 — roast, parch · on: ショウ, ソウ · kun: い(る), いた(める)
+- 炊 — cook · on: スイ · kun: た(く), -だ(き)
+- 焚 — kindle, build a fire · on: フン · kun: た(く)
+- 薪 — firewood · on: シン · kun: たきぎ
+- 乃 — possessive particle · on: ナイ, ダイ · kun: の, すなわ(ち)
+- 此 — this · on: シ · kun: こ(れ), こ(の)
+- 其 — that · on: キ · kun: そ(れ), そ(の)
+- 乏 — scanty, poor · on: ボウ · kun: とぼ(しい)
+- 及 — reach to, extend to; be equal to; as well as, and · on: キュウ · kun: およ(ぶ), およ(び), および, およ(ぼす)
+- 扱 — handle, treat · kun: あつか(う), あつか(い)
+- 級 — grade, rank · on: キュウ
+- 吹 — blow, breathe out · on: スイ · kun: ふ(く)
+- 吐 — spew, vomit · on: ト · kun: は(く)
+- 叶 — be fulfilled, fulfill, grant · on: キョウ, ギョウ · kun: かな(う), かな(える)
+- 吟 — recite · on: ギン
+- 含 — contain, include · on: ガン · kun: ふく(む), ふく(める)
+- 琴 — koto (japanese zither) · on: キン · kun: こと
+- 謎 — riddle, enigma · kun: なぞ
+- 逆 — reverse, contrary · on: ギャク · kun: さか, さか(さ), さか(らう)
+- 勲 — meritorious service · on: クン
+- 芳 — fragrant · on: ホウ · kun: かんば(しい)
+- 香 — sweet smell · on: コウ, キョウ · kun: か, かお(り), かお(る)
+- 拐 — kidnap · on: カイ
+- 透 — pass through, see-through, transparent · on: トウ · kun: す(く), す(かす), す(ける) · forgotten 3×
+- 雄 — male, heroic · on: ユウ · kun: お-, おす
+- 雌 — female · on: シ · kun: め-, めす
+- 紫 — purple · on: シ · kun: むらさき
+- 髭 — beard, mustache · on: シ · kun: ひげ
+- 詐 — swindle · on: サ · forgotten 3×
+- 欺 — deceive · on: ギ · kun: あざむ(く) · forgotten 3×
+- 甚 — extremely · on: ジン · kun: はなは(だ), はなは(だしい)
+- 勘 — check, consider, intuitive perception · on: カン · forgotten 4×
+- 匠 — craftsman · on: ショウ
+- 匿 — conceal · on: トク
+- 諾 — consent · on: ダク
+- 乾 — dry · on: カン · kun: かわ(く), かわ(かす)
+- 操 — manipulate, fidelity · on: ソウ · kun: みさお, あやつ(る)
+- 燥 — dry out · on: ソウ
+- 繰 — reel, spin, shift onward · kun: く(る)
+- 藻 — seaweed, algae · on: ソウ · kun: も
+- 墳 — tumulus · on: フン
+- 牙 — fang, tusk · on: ガ, ゲ · kun: きば
+- 雅 — elegant · on: ガ
+- 邪 — evil · on: ジャ
+- 既 — already, previous · on: キ · kun: すで(に)
+- 描 — depict · on: ビョウ · kun: えが(く), か(く)
+- 猫 — cat · on: ビョウ · kun: ねこ
+- 兆 — sign, omen; show signs of, trillion · on: チョウ · kun: きざ(す), きざ(し)
+- 眺 — gaze · on: チョウ · kun: なが(める)
+- 挑 — provoke, challenge · on: チョウ · kun: いど(む)
+- 拙 — clumsy · on: セツ · kun: つたな(い)
+- 屈 — bend, submit to · on: クツ · kun: かが(む*), かが(める*)
+- 堀 — ditch · kun: ほり · forgotten 4×
+- 封 — seal, enclose, enfeoff · on: フウ, ホウ
+- 管 — pipe, exercise control · on: カン · kun: くだ
+- 洞 — cave · on: ドウ · kun: ほら
+- 淫 — lewd · on: イン · kun: みだ(ら)
+- 妊 — become pregnant · on: ニン
+- 娠 — conceive · on: シン
+- 襲 — raid, inherit · on: シュウ · kun: おそ(う)
+- 伏 — prostrate, turn over · on: フク · kun: ふ(せる), ふ(す)
+- 噛 — bite, chew · on: ゴウ, コウ · kun: か(む)
+- 班 — squad · on: ハン
+- 斑 — spot, speck · on: ハン
+- 悲 — sad · on: ヒ · kun: かな(しい), かな(しむ)
+- 惚 — fall in love with; grow senile · on: コツ · kun: ほれ(る), ぼけ(る)
+- 猿 — monkey, ape · on: エン · kun: さる
+- 哀 — sorrow, pity · on: アイ · kun: あわ(れ), あわ(れむ)
+- 喪 — mourning, loss · on: ソウ · kun: も
+- 偵 — spy · on: テイ · forgotten 5×
+- 覇 — supremacy, domination · on: ハ
+- 覆 — cover, conceal, overturn · on: フク · kun: おお(う), くつがえ(す), くつがえ(る)
+- 属 — belong to; be subordinate to · on: ゾク
+- 隅 — nook · on: グウ · kun: すみ
+- 隙 — crevice, space, spare time · on: ゲキ · kun: すき
+- 遇 — treat, receive, encounter · on: グウ · kun: あ(う*)
+- 愚 — foolish · on: グ · kun: おろ(か)
+- 遭 — meet with, encounter · on: ソウ · kun: あ(う), あ(わせる)
+- 坊 — sonny boy, colloquial person suffix · on: ボウ, ボッ-
+- 於 — at, in, on · on: オ · kun: おい(て), お(ける)
+- 房 — chamber, tuft, tassel · on: ボウ · kun: ふさ · forgotten 3×
+- 扇 — fan · on: セン · kun: おうぎ
+- 扉 — hinged door · on: ヒ · kun: とびら
+- 屑 — scraps, scum · kun: くず
+- 糞 — droppings, shit · on: フン · kun: くそ
+- 尿 — urine · on: ニョウ
+- 尻 — buttocks · kun: しり
+- 窯 — kiln · on: ヨウ · kun: かま
+- 釜 — iron pot, cauldron · kun: かま
+- 涯 — far end, outer limit · on: ガイ
+- 暇 — free time · on: カ · kun: ひま
+- 霞 — mist, haze · on: カ · kun: かすみ, かす(む)
+- 霧 — fog · on: ム · kun: きり
+- 露 — dew, expose · on: ロ, ロウ · kun: つゆ
+- 霜 — frost · on: ソウ · kun: しも
+- 箱 — box · kun: はこ
+- 貫 — penetrate, pierce through; carry out · on: カン · kun: つらぬ(く)
+- 項 — clause · on: コウ
+- 頃 — time, about · kun: ころ, ごろ, -ごろ
+- 領 — dominion · on: リョウ
+- 頻 — repeatedly, frequently · on: ヒン · kun: しきり*
+- 順 — order, sequence, obey · on: ジュン
+- 訓 — instruct, admonish · on: クン
+- 額 — amount, picture frame, forehead · on: ガク · kun: ひたい
+- 瀬 — shallows, rapids · kun: せ
+- 峡 — gorge · on: キョウ
+- 狭 — narrow, tight · on: キョウ · kun: せま(い), せば(める), せば(まる)
+- 挟 — hold between, pinch · on: キョウ · kun: はさむ
+- 顎 — jaw, chin · on: ガク · kun: あご
+- 串 — skewer · kun: くし
+- 疾 — disease, fast · on: シツ
+- 痴 — stupid, infatuated · on: チ
+- 疫 — epidemic · on: エキ, ヤク
+- 瘍 — ulcer, boil · on: ヨウ
+- 癌 — cancer · on: ガン
+- 痩 — become thin · on: ソウ · kun: や(せる)
+- 抹 — wipe, erase · on: マツ
+- 拷 — torture · on: ゴウ
+- 壇 — platform, rostrum · on: ダン, タン
+- 塔 — tower, pagoda · on: トウ
+- 寡 — few, widow(er) · on: カ
+- 賓 — guest · on: ヒン
+- 飾 — decorate · on: ショク · kun: かざ(る), かざ(り)
+- 飽 — satiated; tired of · on: ホウ · kun: あ(きる), あ(かす)
+- 飢 — starve · on: キ · kun: う(える)
+- 机 — desk · on: キ · kun: つくえ
+- 冗 — redundant, superfluous · on: ジョウ
+- 離 — separate · on: リ · kun: はな(れる), はな(す)
+- 胸 — chest · on: キョウ · kun: むね, むな-
+- 脳 — brain · on: ノウ
+- 胃 — stomach · on: イ
+- 炎 — flame, inflammation, -itis · on: エン · kun: ほのお
+- 談 — talk, converse · on: ダン
+- 淡 — light, faint · on: タン · kun: あわ(い)
+- 肝 — liver · on: カン · kun: きも
+- 肺 — lung · on: ハイ
+- 胞 — membranous sac · on: ホウ
+- 腸 — intestines · on: チョウ
+- 胎 — womb, fetus · on: タイ
+- 肘 — elbow · kun: ひじ
+- 肢 — limb · on: シ
+- 脂 — fat · on: シ · kun: あぶら
+- 詣 — visit a temple · on: ケイ · kun: もう(で), もうで, もう(でる)
+- 肪 — animal fat · on: ボウ · forgotten 3×
+- 膚 — skin · on: フ
+- 虐 — cruel, tyrannical · on: ギャク · kun: しいた(げる)
+- 虞 — risk, fears · kun: おそれ
+- 虚 — empty, void, false · on: キョ, コ
+- 虜 — captive · on: リョ
+- 勇 — brave; in high spirits · on: ユウ · kun: いさ(む)
+- 湧 — well up, gush out · on: ユウ · kun: わ(く)
+- 繊 — fine, fiber · on: セン
+- 緻 — fine · on: チ
+- 嘘 — lie, fib · on: キョ · kun: うそ
+- 樽 — barrel · on: ソン · kun: たる
+- 距 — distance · on: キョ
+- 拒 — refuse, reject · on: キョ · kun: こば(む)
+- 鼓 — drum · on: コ · kun: つずみ
+- 樹 — standing tree · on: ジュ
+- 膨 — expand · on: ボウ · kun: ふく(らむ), ふく(れる)
+- 腫 — tumor, swelling · on: シュ · kun: は(れる), は(らす) · forgotten 3×
+- 肥 — fatten · on: ヒ · kun: こ(える), こえ, こ(やす), こ(やし)
+- 誇 — boast · on: コ · kun: ほこ(る)
+- 覧 — look over, view · on: ラン
+- 監 — oversee · on: カン
+- 鑑 — appraise, refer to · on: カン · kun: かんが(みる)
+- 賢 — wise, intelligent · on: ケン · kun: かしこ(い)
+- 緊 — tighten, exigent · on: キン
+- 勃 — suddenly rising · on: ボツ
+- 茨 — brier, thorn · kun: いばら · forgotten 3×
+- 歳 — year, -years old · on: サイ, セイ
+- 戚 — kin · on: セキ
+- 淑 — graceful, refined · on: シュク
+- 督 — supervise; urge on, commander · on: トク
+- 奴 — slave, guy · on: ド · kun: やつ*
+- 努 — exert · on: ド · kun: つと(める)
+- 穀 — grain, cereal · on: コク
+- 毀 — break, chip · on: キ · kun: こぼ(れる*), こわ(れる*)
+- 廉 — honest, cheap · on: レン
+- 鎌 — sickle · kun: かま
+- 嫌 — dislike · on: ケン, ゲン · kun: きら(う), きら(い), いや
+- 遜 — humble, modest · on: ソン
+- 亀 — turtle · on: キ · kun: かめ
+- 鉱 — ore, mine · on: コウ
+- 鉛 — lead · on: エン · kun: なまり
+- 鋼 — steel · on: コウ · kun: はがね
+- 綱 — rope, main points · on: コウ · kun: つな
+- 網 — net · on: モウ · kun: あみ
+- 鉢 — bowl · on: ハチ, ハツ
+- 絆 — bonds, fetters · on: ハン, バン · kun: きずな
+- 鍵 — key · on: ケン · kun: かぎ
+- 釘 — nail · on: テイ · kun: くぎ
+- 鐘 — bell · on: ショウ · kun: かね
+- 憧 — yearn after · on: ショウ, ドウ* · kun: あこが(れる)
+- 卑 — mean, despicable · on: ヒ · kun: いや(しい), いや(しむ), いや(しめる)
+- 痺 — paralysis · on: ヒ · kun: しび(れる)
+- 塊 — lump, mass · on: カイ · kun: かたまり
+- 魂 — soul, spirit · on: コン · kun: たましい
+- 魔 — demon, devil · on: マ
+- 畏 — fear · on: イ · kun: おそ(れ), おそ(れる)
+- 摩 — rub against · on: マ
+- 磨 — polish · on: マ · kun: みが(く)
+- 凹 — concave · on: オウ
+- 凸 — convex · on: トツ
+- 泰 — tranquil · on: タイ
+- 俸 — salary · on: ホウ
+- 需 — demand, need · on: ジュ
+- 濡 — wet · on: ジュ · kun: ぬ(れる), ぬ(らす)
+- 壱 — one (in legal documents) · on: イチ
+- 氾 — flood · on: ハン
+- 彙 — catalog · on: イ
+- 某 — a certain · on: ボウ
+- 媒 — mediate · on: バイ
+- 尉 — officer · on: イ
+- 慰 — console, cheer up · on: イ · kun: なぐさ(める), なぐさ(む)
+- 酪 — dairy products · on: ラク
+- 醤 — soy sauce; salted/fermented food · on: ショウ
+- 酎 — shochu (japanese distilled liquor) · on: チュウ
+- 酌 — pour wine · on: シャク · kun: く(む)
+- 畜 — (raise) livestock · on: チク
+- 蓄 — store up · on: チク · kun: たくわ(える)
+- 呟 — mutter · on: ゲン · kun: つぶや(く)
+- 鬱 — depression, gloom, congested, pent up · on: ウツ
+- 弦 — string (of a bow or musical instrument) · on: ゲン · kun: つる
+- 舵 — rudder, helm · on: ダ · kun: かじ
+- 幼 — very young · on: ヨウ · kun: おさな(い)
+- 堆 — pile up · on: タイ · kun: うずたか(い*)
+- 脊 — spine · on: セキ
+- 誰 — who · kun: だれ
+- 鳴 — cry, chirp, sound · on: メイ · kun: な(く), な(る), な(らす)
+- 亥 — (sign of) the boar · on: ガイ · kun: い
+- 核 — nucleus, core · on: カク
+- 骸 — body; skeleton · on: ガイ
+- 該 — correspond to · on: ガイ
+- 診 — examine a patient · on: シン · kun: み(る)
+- 瓦 — tile, brick · on: ガ · kun: かわら
+- 瓶 — bottle, jar · on: ビン
+- 屏 — fence, folding screen · on: ビョウ, ヘイ
+- 餅 — rice cake · on: ヘイ · kun: もち
+- 餌 — feed, bait · on: ジ · kun: え, えさ
+- 呑 — swallow, gulp · on: ドン · kun: の(む)
+- 沃 — fertility · on: ヨク · forgotten 3×
+- 妖 — bewitching · on: ヨウ · kun: あや(しい) · forgotten 4×
+- 艶 — charming, voluptuous; glossy, romance · on: エン · kun: つや, なま(めかしい*), あで(やか*)
+- 滋 — nourish · on: ジ
+- 擁 — embrace, protect · on: ヨウ · forgotten 3×
+- 腐 — rot, decay · on: フ · kun: くさ(る), -くさ(る), くさ(れる), くさ(れ), くさ(らす)
+- 撒 — scatter · on: サン, サツ · kun: ま(く)
+- 殆 — almost; quite, really · on: タイ, ダイ · kun: ほとん(ど), ほとほと
+- 后 — empress · on: コウ
+- 垢 — dirt · on: コウ, ク · kun: あか
+- 姫 — daughter of noble birth · kun: ひめ, ひめ-
+- 如 — as (if), like · on: ジョ, ニョ · kun: ごと(し*)
+- 婿 — son-in-law · on: セイ · kun: むこ
+- 娘 — daughter, girl · kun: むすめ
+- 稼 — work, work for a living · on: カ · kun: かせ(ぐ)
+- 塚 — mound, hillock · kun: つか, -ずか
+- 豪 — great man, magnificent · on: ゴウ
+- 墾 — clear land for farming · on: コン
+- 懇 — familiar, intimate, earnest · on: コン · kun: ねんご(ろ)
+- 貌 — appearance, form · on: ボウ
+- 逐 — drive out, one by one · on: チク
+- 随 — follow · on: ズイ
+- 附 — attach, be attached to, hand over · on: フ
+- 怠 — idle, remiss · on: タイ · kun: おこた(る), なま(ける)
+- 佐 — assist, field officer · on: サ
+- 玩 — play with · on: ガン · kun: もてあそ(ぶ*)
+- 幣 — currency, shinto paper offering · on: ヘイ
+- 朋 — comrade · on: ホウ · kun: とも
+- 柵 — fence, palisade · on: サク
+- 桁 — digit, beam, girder · kun: けた
+- 栓 — stopper, spigot · on: セン
+- 柿 — persimmon · on: シ* · kun: かき
+- 麺 — noodles · on: メン
+- 厘 — rin (0.001 yen) · on: リン
+- 匂 — smell, fragrance · kun: にお(う), にお(い), にお(わせる)
+- 拶 — greet · on: サツ
+- 昧 — dark · on: マイ
+- 瑠 — lapis lazuli · on: ル
+- 嫉 — envy · on: シツ
+- 妬 — envy · on: ト · kun: ねた(む)
+- 鹿 — deer · kun: しか, か
+- 兜 — helmet · on: トウ, ト · kun: かぶと
+- 鼠 — rat, mouse · on: ソ · kun: ねずみ, ねず
+- 溺 — drown, indulge in · on: デキ · kun: おぼ(れる)
+- 渇 — run dry, thirst · on: カツ · kun: かわ(く)
+- 駄 — good for nothing, clogs · on: ダ, タ*
+- 駒 — horse, pony, chess piece · kun: こま
+- 罠 — trap · kun: わな
+- 烏 — raven, crow · on: ウ, ウウ, オ · kun: からす
+- 鴨 — duck · on: オウ · kun: かも
+- 鶏 — chicken · on: ケイ · kun: にわとり
+- 渓 — ravine · on: ケイ
+- 鷹 — hawk · on: ヨウ, オウ · kun: たか
+- 鷲 — eagle · on: シュウ · kun: わし
+- 爽 — refreshing · on: ソウ · kun: さわ(やか)
+- 蚊 — mosquito · kun: か
+- 巳 — (sign of) the serpent · on: シ · kun: み
+- 蝶 — butterfly · on: チョウ
+- 虹 — rainbow · on: コウ* · kun: にじ
+- 圭 — squared jewel
+- 廿 — twenty
+- 頬 — cheek
+- 彦 — lad
+- 篭 — basket · kun: かご、こ(める、こも,る、こ,む)
+- 笹 — bamboo grass · kun: ささ
+- 剥 — peel off
+- 蒲 — bullrush
+- 杏 — apricot · kun: あんず
+- 渚 — strand
+- 裳 — skirt
+- 鯉 — carp · kun: こい
+- 柏 — oak · kun: かしわ
+- 漕 — rowing · kun: こ(ぐ、はこ,ぶ)
+- 荻 — reed · kun: おぎ

@@ -1,0 +1,301 @@
+# Kanji: young
+
+Kanji with keyword and on/kun readings.
+
+295 items.
+
+- 代 — replace, substitute, generation, age, charge, fare · on: ダイ, タイ · kun: か(わる), か(わり), -が(わり), か(える), よ, しろ · forgotten 7×
+- 組 — organize, assemble · on: ソ · kun: く(む), くみ, -ぐみ · forgotten 5×
+- 住 — live, inhabit · on: ジュウ · kun: す(む), す(まう), -ず(まい)
+- 戒 — caution, warn · on: カイ · kun: いまし(める)
+- 給 — supply, pay · on: キュウ
+- 準 — standard, level, quasi- · on: ジュン
+- 判 — judge, decide, personal seal · on: ハン, バン · forgotten 4×
+- 絡 — interlink, entwine · on: ラク · kun: から(む), から(める), から(まる)
+- 仮 — temporary, provisional, fake · on: カ, ケ · kun: かり, かり-
+- 隣 — neighbor · on: リン · kun: とな(る), となり · forgotten 3×
+- 請 — request · on: セイ, シン · kun: こ(う), う(ける)
+- 華 — flower, magnificent, china · on: カ, ケ · kun: はな
+- 詔 — imperial edict · on: ショウ · forgotten 4×
+- 越 — go beyond · on: エツ · kun: こ(す), -こ(す), -ご(し), こ(える), -ご(え)
+- 遺 — leave behind, bequeath · on: イ, ユイ
+- 秩 — order · on: チツ · forgotten 4×
+- 惜 — regret; begrudge, be sparing of · on: セキ · kun: お(しい), お(しむ)
+- 怪 — mysterious · on: カイ, ケ* · kun: あや(しい), あや(しむ)
+- 斎 — observe religious abstinence, study (room) · on: サイ · forgotten 3×
+- 衡 — balance, weigh · on: コウ
+- 城 — castle, fort · on: ジョウ · kun: しろ
+- 賭 — wager · on: ト · kun: か(ける)
+- 阻 — hamper, obstruct · on: ソ · kun: はば(む) · forgotten 3×
+- 甲 — shell, first in a series · on: コウ, カン, カ*
+- 循 — circulate · on: ジュン
+- 粧 — apply makeup · on: ショウ · forgotten 4×
+- 紛 — confused · on: フン · kun: まぎ(れる), -まぎ(れ), まぎ(らす), まぎ(らわす), まぎ(らわしい) · forgotten 4×
+- 酷 — severe, cruel · on: コク · kun: ひど(い*)
+- 譲 — cede, yield · on: ジョウ · kun: ゆず(る)
+- 修 — cultivate (oneself), study, repair · on: シュウ, シュ · kun: おさ(める), おさ(まる) · forgotten 4×
+- 極 — extreme, pole · on: キョク, ゴク · kun: きわ(める), きわ(まる), きわ(まり), きわ(み)
+- 遮 — interrupt, cut off · on: シャ · kun: さえ(ぎる)
+- 芝 — lawn grass · kun: しば · forgotten 3×
+- 迷 — perplexed, lost · on: メイ · kun: まよ(う)
+- 携 — carry in hand, join hands · on: ケイ · kun: たずさ(える), たずさ(わる) · forgotten 4×
+- 乞 — beg · kun: こ(う) · forgotten 3×
+- 噴 — spout, gush out · on: フン · kun: ふ(く) · forgotten 3×
+- 吠 — howl, bark · on: ベイ, ハイ · kun: ほ(える)
+- 履 — fulfill, put on footwear · on: リ · kun: は(く) · forgotten 3×
+- 偶 — by chance, couple · on: グウ
+- 籍 — register · on: セキ
+- 戴 — receive humbly · on: タイ, ダイ* · kun: いただ(く*)
+- 顕 — manifest · on: ケン · forgotten 6×
+- 捗 — make progress · on: チョク · kun: はかど(る*) · forgotten 3×
+- 楼 — tall building · on: ロウ · forgotten 3×
+- 胴 — trunk, torso · on: ドウ
+- 戯 — sport, play · on: ギ · kun: たわむ(れる)
+- 嬉 — glad · on: キ · kun: うれ(しい)
+- 張 — spread (out), extend (over), strain, stretch · on: チョウ · kun: は(る), -は(り), -ば(り) · forgotten 3×
+- 把 — grip · on: ハ, ワ
+- 艦 — warship · on: カン · forgotten 3×
+- 藍 — indigo · on: ラン · kun: あい · forgotten 5×
+- 堅 — firm, solid · on: ケン · kun: かた(い), -がた(い) · forgotten 3×
+- 謙 — humble, modest · on: ケン · forgotten 4×
+- 捧 — offer respectfully · on: ホウ · kun: ささ(げる)
+- 霊 — spirit, soul · on: レイ, リョウ · kun: たま · forgotten 4×
+- 釣 — angle · on: チョウ · kun: つ(る), つ(り), つ(り-)
+- 舷 — gunwale · on: ゲン · forgotten 3×
+- 唯 — merely, only · on: ユイ, イ
+- 劾 — expose crimes · on: ガイ
+- 呪 — charm, curse · on: ジュ · kun: のろ(う), まじな(う*)
+- 徹 — go through (with) · on: テツ
+- 蒙 — ignorance, darkness, phonetic (mō) · on: モウ
+- 堕 — degenerate, descend · on: ダ
+- 藤 — wisteria · on: トウ · kun: ふじ · forgotten 4×
+- 慶 — felicitation, rejoicing · on: ケイ
+- 睨 — glare at · on: ゲイ · kun: にら(む)
+- 潟 — lagoon · kun: かた, -がた
+- 篤 — serious, kind · on: トク · forgotten 3×
+- 蚕 — silkworm · on: サン · kun: かいこ
+- 沫 — splash · kun: あわ、しぶき、つばき
+- 梓 — catalpa
+- 填 — inlay · kun: は(まる、は,める、うず,める、しず,める、ふさ,ぐ)
+- 牛 — cattle · on: ギュウ · kun: うし · forgotten 3×
+- 条 — article, section, clause; strip · on: ジョウ · forgotten 6×
+- 背 — back; stature · on: ハイ · kun: せ, せい, そむ(く), そむ(ける)
+- 素 — element, plain, bare · on: ソ, ス
+- 乳 — milk, breast · on: ニュウ · kun: ちち, ち
+- 満 — full, whole · on: マン · kun: み(ちる), み(つ), み(たす)
+- 湿 — moist · on: シツ · kun: しめ(る), しめ(す) · forgotten 3×
+- 犬 — dog · on: ケン · kun: いぬ, いぬ-
+- 快 — pleasant, comfortable, quick · on: カイ · kun: こころよ(い)
+- 平 — flat; impartial; plain, calm · on: ヘイ, ビョウ · kun: たい(ら), -だいら, ひら, ひら- · forgotten 5×
+- 利 — advantage, profit · on: リ · kun: き(く)
+- 易 — easy, exchange, fortune-telling · on: エキ, イ · kun: やさ(しい), やす(い*)
+- 業 — work, business, industry · on: ギョウ, ゴウ · kun: わざ
+- 詰 — stuff, reprimand · on: キツ · kun: つ(める), つ(め), -ず(め), つ(まる), つ(む)
+- 刹 — temple · on: サツ, セツ
+- 隊 — party, corps · on: タイ
+- 巣 — nest · on: ソウ · kun: す · forgotten 5×
+- 院 — institution · on: イン
+- 宗 — religious sect · on: シュウ, ソウ · forgotten 4×
+- 般 — sort, kind · on: ハン · forgotten 4×
+- 著 — author, conspicuous · on: チョ · kun: あらわ(す), いちじる(しい)
+- 脚 — leg · on: キャク, キャ · kun: あし
+- 俳 — haiku, actor · on: ハイ
+- 罪 — crime, sin · on: ザイ · kun: つみ · forgotten 3×
+- 恋 — (romantic) love · on: レン · kun: こ(う), こい, こい(しい) · forgotten 4×
+- 優 — superior, kind, actor · on: ユウ · kun: やさ(しい), すぐ(れる)
+- 標 — mark, label, sign · on: ヒョウ · forgotten 3×
+- 敗 — be defeated · on: ハイ · kun: やぶ(れる)
+- 与 — give, grant, take part in · on: ヨ · kun: あた(える)
+- 縦 — vertical · on: ジュウ · kun: たて
+- 殿 — palace, formal honorific title · on: デン, テン · kun: との, -どの
+- 態 — state, condition, posture, attitute · on: タイ
+- 倫 — morals · on: リン · forgotten 3×
+- 諭 — admonish, instruct · on: ユ · kun: さと(す)
+- 述 — state, mention · on: ジュツ
+- 溶 — dissolve, melt · on: ヨウ · kun: と(ける), と(かす), と(く) · forgotten 4×
+- 紺 — dark blue · on: コン · forgotten 3×
+- 譜 — systematic record; musical score · on: フ · forgotten 5×
+- 純 — pure · on: ジュン
+- 漫 — rambling, comic · on: マン
+- 嚇 — intimidate · on: カク
+- 貸 — lend, loan; rent out · on: タイ · kun: か(す), か(し-), かし- · forgotten 3×
+- 遣 — dispatch, envoy, use · on: ケン · kun: つか(う), -つか(い), -ず(かい), つか(わす) · forgotten 3×
+- 伯 — older sibling of parent, count, earl · on: ハク
+- 費 — spend · on: ヒ · kun: つい(やす), つい(える) · forgotten 3×
+- 喜 — happy · on: キ · kun: よろこ(ぶ), よろこ(ばす) · forgotten 4×
+- 僧 — bonze, priest · on: ソウ · forgotten 4×
+- 帯 — belt, sash, wear, have · on: タイ · kun: お(びる), おび
+- 拳 — fist · on: ケン, ゲン* · kun: こぶし
+- 陪 — attend upon a superior · on: バイ
+- 盛 — prosper; heap up · on: セイ, ジョウ · kun: も(る), さか(る), さか(ん) · forgotten 3×
+- 盆 — tray, bon festival · on: ボン
+- 暢 — fluent · on: チョウ · forgotten 4×
+- 隠 — hide · on: イン · kun: かく(す), かく(し-), かく(れる) · forgotten 3×
+- 赦 — amnesty · on: シャ
+- 椅 — chair · on: イ
+- 那 — phonetic (na) · on: ナ · forgotten 3×
+- 絞 — strangle, wring · on: コウ · kun: しぼ(る), し(める), し(まる) · forgotten 4×
+- 陛 — imperial palace steps · on: ヘイ
+- 陸 — land · on: リク · forgotten 4×
+- 熟 — mature, ripe · on: ジュク · kun: う(れる)
+- 陵 — imperial mausoleum, hill · on: リョウ · kun: みささぎ · forgotten 4×
+- 唆 — instigate · on: サ · kun: そそのか(す)
+- 曙 — dawn · on: ショ, ジョ · kun: あけぼの
+- 緒 — outset, beginning, line, thread (of events) · on: ショ, チョ · kun: お · forgotten 3×
+- 富 — rich · on: フ, フウ · kun: と(む), とみ
+- 欄 — column · on: ラン
+- 傲 — proud · on: ゴウ
+- 宜 — right, suitable, good, all right · on: ギ · kun: よろ(しい*), よろ(しく*)
+- 据 — set (up), place · kun: す(える), す(わる)
+- 臭 — bad smell · on: シュウ · kun: くさ(い), -くさ(い), にお(う), にお(い)
+- 矯 — rectify · on: キョウ · kun: た(める)
+- 糧 — food provisions · on: リョウ, ロウ · kun: かて · forgotten 3×
+- 糾 — inquire into · on: キュウ · forgotten 5×
+- 築 — construct · on: チク · kun: きず(く)
+- 尋 — inquire, look for · on: ジン · kun: たず(ねる) · forgotten 3×
+- 訊 — interrogate, ask · on: ジン · kun: たず(ねる), き(く)
+- 坑 — pit (of a mine) · on: コウ
+- 耗 — wear away · on: モウ, コウ
+- 壌 — arable soil · on: ジョウ
+- 徳 — virtue · on: トク
+- 聴 — listen · on: チョウ · kun: き(く)
+- 恥 — shame · on: チ · kun: は(じる), はじ, は(じらう), は(ずかしい)
+- 悠 — leisurely, serene · on: ユウ · forgotten 5×
+- 唱 — sing, intone · on: ショウ · kun: とな(える)
+- 帽 — headgear · on: ボウ
+- 棟 — building, ridgepole · on: トウ · kun: むね, むな-
+- 析 — analyze · on: セキ · forgotten 3×
+- 誓 — swear, vow · on: セイ · kun: ちか(う) · forgotten 3×
+- 訴 — appeal to, sue, complain · on: ソ · kun: うった(える)
+- 訟 — litigate · on: ショウ
+- 探 — probe, explore, look for · on: タン · kun: さぐ(る), さが(す)
+- 慎 — prudent, discreet · on: シン · kun: つつし(む) · forgotten 11×
+- 菌 — bacteria, germ, fungus · on: キン · forgotten 3×
+- 謹 — respectfully, carefully · on: キン · kun: つつし(む)
+- 僅 — a little, little · on: キン · kun: わず(か) · forgotten 5×
+- 牢 — prison, hardness · on: ロウ
+- 啓 — enlighten, address respectfully · on: ケイ
+- 沙 — sand · on: サ · kun: すな
+- 汰 — sift out · on: タ
+- 吸 — suck, breathe in · on: キュウ · kun: す(う) · forgotten 3×
+- 叱 — scold · on: シツ · kun: しか(る)
+- 塑 — model, mold · on: ソ · forgotten 4×
+- 誘 — induce, invite · on: ユウ · kun: さそ(う) · forgotten 3×
+- 些 — a little bit · on: サ · kun: いささか, ち(と), ちっ(と) · forgotten 3×
+- 柴 — brushwood, firewood · on: サイ · kun: しば · forgotten 4×
+- 棋 — shogi (japanese chess) · on: キ · forgotten 5×
+- 堪 — endure, tolerate · on: カン · kun: た(える), たま(る*) · forgotten 4×
+- 迄 — up to, until · on: キツ · kun: まで
+- 憤 — indignation · on: フン · kun: いきどおる
+- 概 — general, rough · on: ガイ · forgotten 4×
+- 慨 — deplore · on: ガイ · forgotten 4×
+- 桃 — peach · on: トウ · kun: もも
+- 跳 — jump, leap · on: チョウ · kun: は(ねる), と(ぶ), -と(び) · forgotten 3×
+- 棺 — coffin · on: カン · kun: ひつぎ · forgotten 3×
+- 轄 — exercise jurisdiction over · on: カツ
+- 唇 — lip · on: シン · kun: くちびる
+- 忽 — suddenly, at once, careless · on: コツ · kun: たちま(ち)
+- 衷 — inner heart · on: チュウ
+- 忌 — mourning, abhor · on: キ · kun: い(む), い(み), い(まわしい) · forgotten 3×
+- 卓 — table, prominent · on: タク
+- 貞 — chaste · on: テイ
+- 嘱 — charge with · on: ショク · forgotten 3×
+- 槽 — tub, tank · on: ソウ · forgotten 3×
+- 妨 — hinder, obstruct · on: ボウ · kun: さまた(げる)
+- 顧 — look back (on); take into consideration · on: コ · kun: かえり(みる) · forgotten 3×
+- 泌 — secrete · on: ヒツ, ヒ
+- 窪 — sink, cavity · on: ワ · kun: くぼ(む), くぼ(まる), くぼ
+- 佳 — fine, beautiful · on: カ
+- 慣 — habitual practice · on: カン · kun: な(れる), な(らす) · forgotten 6×
+- 頂 — summit, receive humbly, eat · on: チョウ · kun: いただ(く), いただき · forgotten 5×
+- 頑 — stubborn · on: ガン
+- 頒 — distribute widely · on: ハン
+- 頓 — suddenly, immediately · on: トン · kun: とみ* · forgotten 3×
+- 馴 — become tame, get used to · on: ジュン · kun: な(れる), な(らす) · forgotten 5×
+- 須 — must, absolutely necessary · on: ス, シュ*
+- 煩 — vexing · on: ハン, ボン · kun: わずら(う), わずら(わす) · forgotten 3×
+- 被 — be subjected to; be covered in · on: ヒ · kun: こうむ(る)
+- 披 — open out, reveal · on: ヒ
+- 抜 — pull out, stand out/above · on: バツ · kun: ぬ(く), -ぬ(く), ぬ(き), ぬ(ける), ぬ(かす), ぬ(かる) · forgotten 3×
+- 控 — hold back, deduct; note, memo · on: コウ · kun: ひか(える), ひか(え) · forgotten 3×
+- 拓 — open up (farmland or new frontiers) · on: タク
+- 悩 — suffer, be troubled · on: ノウ · kun: なや(む), なや(ます) · forgotten 3×
+- 胆 — gallbladder, gall · on: タン · forgotten 3×
+- 膝 — knee; lap · on: シツ* · kun: ひざ
+- 股 — crotch, thigh · on: コ · kun: また
+- 脇 — armpit, aside · on: キョウ* · kun: わき, わけ
+- 慮 — consider · on: リョ · forgotten 3×
+- 脹 — swell · on: チョウ · forgotten 3×
+- 帳 — notebook, curtain · on: チョウ · forgotten 3×
+- 濫 — excessive · on: ラン
+- 腎 — kidney · on: ジン
+- 励 — work hard; urge on · on: レイ · kun: はげ(む), はげ(ます) · forgotten 3×
+- 怒 — get angry · on: ド · kun: いか(る), おこ(る)
+- 款 — article, subsection, friendly relations · on: カン
+- 殻 — husk, shell · on: カク · kun: から, がら
+- 錬 — refine; train · on: レン
+- 銑 — pig iron · on: セン
+- 縄 — rope · on: ジョウ · kun: なわ
+- 錮 — lock down · on: コ
+- 綻 — come apart at the seams · on: タン · kun: ほころ(びる)
+- 鈴 — bell · on: レイ, リン · kun: すず
+- 醜 — ugly · on: シュウ · kun: みにく(い)
+- 刷 — print · on: サツ · kun: す(る), -ず(り), -ずり
+- 奏 — play music · on: ソウ · kun: かな(でる)
+- 棒 — rod, stick · on: ボウ
+- 耐 — withstand, endure · on: タイ · kun: た(える) · forgotten 4×
+- 端 — edge, extremity · on: タン · kun: はし, は, はた, -ばた
+- 尼 — buddhist nun · on: ニ · kun: あま
+- 漏 — leak · on: ロウ · kun: も(る), も(れる), も(らす)
+- 酢 — vinegar · on: サク · kun: す
+- 眩 — dazzling; dizzying · on: ゲン · kun: くるめ(く), まぶ(しい), まばゆ(い)
+- 喋 — speak, chat · on: チョウ · kun: しゃべ(る)
+- 喩 — liken · on: ユ
+- 幻 — phantom, illusion · on: ゲン · kun: まぼろし
+- 幽 — quiet and secluded; deep hidden · on: ユウ
+- 稚 — child · on: チ · forgotten 3×
+- 推 — infer, push forward · on: スイ · kun: お(す) · forgotten 3×
+- 雛 — chick, doll · on: スウ, ジュ · kun: ひな, ひよこ
+- 刻 — engrave, carve, point in time · on: コク · kun: きざ(む), きざ(み)
+- 併 — put together · on: ヘイ · kun: あわ(せる)
+- 慈 — affectionate, compassionate · on: ジ · kun: いつく(しむ)
+- 芯 — core, wick · on: シン
+- 撤 — withdraw · on: テツ
+- 微 — slight, minute · on: ビ · kun: かす(か*)
+- 懲 — chastise · on: チョウ · kun: こ(りる), こ(らす), こ(らしめる)
+- 茹 — boil · on: ジョ · kun: ゆ(でる), う(でる)
+- 墜 — drop down · on: ツイ
+- 嘲 — ridicule · on: チョウ · kun: あざけ(る)
+- 奔 — rush, run · on: ホン · forgotten 3×
+- 蔽 — cover · on: ヘイ · forgotten 3×
+- 詮 — inquiry · on: セン
+- 梗 — block · on: コウ · forgotten 4×
+- 騰 — rise, jump up · on: トウ
+- 拉 — kidnap; pull · on: ラ
+- 晃 — dazzling · on: コウ
+- 畝 — ridge · kun: うね
+- 匁 — monme (3.75 grams) · kun: もんめ
+- 勾 — bent, sloping · on: コウ
+- 曖 — not clear · on: アイ
+- 塵 — dust, trash · on: ジン · kun: ちり, ごみ
+- 麗 — of graceful beauty · on: レイ · kun: うるわ(しい)
+- 薦 — recommend · on: セン · kun: すす(める)
+- 濁 — turbid · on: ダク · kun: にご(る), にご(す)
+- 褐 — brown · on: カツ
+- 喝 — shout at · on: カツ
+- 謁 — be granted an audience · on: エツ
+- 掲 — put up, display · on: ケイ · kun: かか(げる)
+- 尤 — reasonable, plausible · on: ユウ · kun: もっと(も) · forgotten 3×
+- 罵 — speak ill of · on: バ · kun: ののし(る) · forgotten 3×
+- 綴 — stitch together, bind, compose, spell · on: テイ, テツ · kun: と(じる), つず(る)
+- 桑 — mulberry · on: ソウ · kun: くわ · forgotten 3×
+- 蛋 — egg · on: タン
+- 繭 — cocoon · on: ケン · kun: まゆ
+- 弘 — vast
+- 曰 — sayeth · kun: いわ(く、のたま,う、のたま,わく、ここに、ひらび)
+- 嬌 — attractive · kun: なまめか(しい)
+- 蔦 — vine · kun: つた
+- 桐 — paulownia · kun: きり
+- 楠 — camphor tree
+- 椿 — camellia · kun: つばき
+- 桂 — japanese judas-tree · kun: かつら

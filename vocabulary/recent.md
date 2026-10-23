@@ -1,0 +1,390 @@
+# Vocabulary: started in the last 30 days
+
+Japanese words from the Core 2k/6k deck, in frequency order. Format: word（reading）— meaning · part of speech. Newest first. The best list for reinforcement.
+
+384 items.
+
+- 定食（ていしょく） — day's special, set menu · noun
+- 定休日（ていきゅうび） — regular holiday · noun
+- 予算（よさん） — budget · noun
+- 予報（よほう） — forecast, prediction · verbal noun
+- 予言（よげん） — prediction, forecast · verbal noun
+- まして — much more · adverb
+- 束（たば） — bundle, counter for bundles · noun
+- 花束（はなたば） — bunch of flowers · noun
+- 変更（へんこう） — alteration, change · verbal noun
+- 夜更かし（よふかし） — sitting up late at night · verbal noun
+- 増す（ます） — increase, augment · verb
+- ピストル — pistol · noun
+- 増大（ぞうだい） — increase, enlargement · verbal noun
+- 増減（ぞうげん） — increase and decrease, rise and fall · verbal noun
+- 乗り出す（のりだす） — lean forward, embark on · verb
+- 乗り込む（のりこむ） — board, march into · verb
+- 前売り券（まえうりけん） — advance ticket · noun
+- 年代（ねんだい） — age, date · noun
+- ぼんやり — vaguely, absent-mindedly · adjective
+- 代金（だいきん） — charge, fee · noun
+- 目指す（めざす） — aim for, have an eye on · verb
+- 指差す（ゆびさす） — point to · verb
+- 人差し指（ひとさしゆび） — index finger · noun
+- 中指（なかゆび） — middle finger · noun
+- 定年（ていねん） — mandatory retirement age · noun
+- たまらない — can't stand, can't put up with · adjective
+- 不安定（ふあんてい） — instability · adjectival noun
+- 定員（ていいん） — fixed staff number, capacity · noun
+- 定期（ていき） — fixed term, regular · noun
+- 定価（ていか） — fixed price · noun
+- 未定（みてい） — undecided, pending · noun
+- モーター — motor, engine · noun
+- 見込み（みこみ） — hope, prospect · noun
+- 申し込み（もうしこみ） — application, proposal · noun
+- 払い込む（はらいこむ） — pay in, pay up · verb
+- 飲み込む（のみこむ） — swallow, grasp · verb
+- 割り込む（わりこむ） — cut in · verb
+- 引っ込む（ひっこむ） — draw back, pull in · verb
+- マイク — mic, microphone · noun
+- 人込み（ひとごみ） — crowd · noun
+- 長期（ちょうき） — long period · noun
+- 短期（たんき） — short-term · noun
+- 短期大学（たんきだいがく） — junior college · noun
+- 有限（ゆうげん） — limited, finite · adjectival noun
+- ゆとり — room, leeway · noun
+- 無限（むげん） — infinite, endless · adjectival noun
+- 無制限（むせいげん） — unlimited, free · adjectival noun
+- 値切る（ねぎる） — bargain, haggle · verb
+- 割に（わりに） — comparatively, rather · adverb
+- 割り（わり） — rate · noun
+- 割り引き（わりびき） — discount, reduction · verbal noun
+- バイト — part-time job · verbal noun
+- 割合に（わりあいに） — relatively, rather · adverb
+- 残り（のこり） — remainder, leftover · noun
+- 残らず（のこらず） — entirely, without exception · adverb
+- 払い（はらい） — payment, account · noun
+- 引き返す（ひきかえす） — turn back, retrace one's steps · verb
+- ぶつける — bump · verb
+- 取り返す（とりかえす） — take back, regain · verb
+- 申し出る（もうしでる） — offer, propose · verb
+- 申し上げる（もうしあげる） — speak humbly, do · verb
+- 申す（もうす） — speak humbly, state humbly · verb
+- 持ち込む（もちこむ） — bring in, carry on · verb
+- タイヤ — tire · noun
+- プラン — plan · noun
+- 要点（ようてん） — main point, gist · noun
+- 求める（もとめる） — seek, wish for · verb
+- 要請（ようせい） — request, demand · verbal noun
+- 額（ひたい） — forehead, brow · noun
+- 計る（はかる） — compute, measure · verb
+- ほっと — feel relieved · adverb
+- 体温計（たいおんけい） — thermometer · noun
+- 日差し（ひざし） — rays of the sun, sunlight · noun
+- 物差し（ものさし） — ruler · noun
+- 役割（やくわり） — role, part · noun
+- 割合（わりあい） — rate, proportion · adverb
+- なるほど — I see, really · adverb
+- 割り当て（わりあて） — assignment, allotment · noun
+- 割り当てる（わりあてる） — assign, allot · verb
+- 割り引く（わりびく） — give a discount, make a reduction · verb
+- 不利（ふり） — disadvantage · adjectival noun
+- 利口（りこう） — clever, bright · adjectival noun
+- 利子（りし） — interest · noun
+- たまたま — by chance, accidentally · adverb
+- 左利き（ひだりきき） — left-handedness, left-hander · noun
+- 利益（りえき） — profit, benefit · noun
+- 有益（ゆうえき） — beneficial, profitable · adjectival noun
+- 買収（ばいしゅう） — buying up, bribing · verbal noun
+- 年収（ねんしゅう） — annual income · noun · forgotten 3×
+- 木造（もくぞう） — wooden · noun
+- テンポ — tempo, pace · noun
+- 必然（ひつぜん） — inevitable, necessary · noun
+- 要する（ようする） — require, need · verb
+- 不要（ふよう） — unnecessary, waste · adjectival noun
+- 要するに（ようするに） — in a word, in short · adverb
+- 不必要（ふひつよう） — unnecessary, superfluous · adjectival noun
+- そっと — softly, gently · adverb
+- 手当て（てあて） — allowance, medical care · verbal noun
+- 当分（とうぶん） — for some time, for the present · adverb
+- 当人（とうにん） — the person in question · noun
+- 当番（とうばん） — being on duty, person on duty · noun
+- 日当たり（ひあたり） — exposure to the sun · noun
+- 天然（てんねん） — nature · noun
+- マーク — logo · verbal noun
+- 文法（ぶんぽう） — grammar · noun
+- 法学部（ほうがくぶ） — law department · noun
+- 法（ほう） — law, rule · noun
+- 法則（ほうそく） — law, rule · noun
+- 不規則（ふきそく） — irregular · adjectival noun
+- たった — only, merely · adverb
+- 経る（へる） — pass, pass through · verb
+- 有利（ゆうり） — advantageous, profitable · adjectival noun
+- 日数（にっすう） — number of days · noun
+- 点数（てんすう） — points, score · noun
+- 単数（たんすう） — singular · noun
+- 手数（てすう） — trouble, bother · noun
+- ダウン — down, malfunction · verbal noun
+- 人数（にんずう） — number of people · noun
+- 回り（まわり） — vicinity, whereabouts · noun
+- 回り道（まわりみち） — roundabout way, detour · noun
+- 枚数（まいすう） — number of flat things · noun
+- 負け（まけ） — defeat, loss · noun
+- トレーニング — training, workout · verbal noun
+- 負担（ふたん） — burden, charge · verbal noun
+- 分担（ぶんたん） — assigning tasks, sharing burden · verbal noun
+- 当初（とうしょ） — original, initial · noun
+- 当局（とうきょく） — the authorities concerned · noun
+- 当日（とうじつ） — that day · noun
+- 問い（とい） — question, inquiry · noun
+- ラッシュ — rush, rush hour · noun
+- 問屋（とんや） — wholesale store, wholesaler · noun
+- 話題（わだい） — topic of conversation · noun
+- 題名（だいめい） — title · noun
+- 題（だい） — title, topic · noun
+- 単語（たんご） — word · noun
+- ロープ — rope · noun
+- 単に（たんに） — merely, simply · adverb
+- 地点（ちてん） — spot, point · noun
+- 満点（まんてん） — full marks, perfect score · noun
+- 点（てん） — point, issue · noun
+- 多数（たすう） — large number, multitude · noun
+- ダム — dam · noun
+- 複数（ふくすう） — plural · noun
+- 無数（むすう） — countless, innumerable · adjectival noun
+- 引き分け（ひきわけ） — draw, drawn game · noun
+- 引き止める（ひきとめる） — detain, keep · verb
+- 見習う（みならう） — learn, follow someone's example · verb
+- 慣れ（なれ） — getting used to, habituation · noun
+- よほど — very, by far · adverb
+- 慣らす（ならす） — accustom · verb
+- 入試（にゅうし） — entrance examination · noun
+- 試す（ためす） — try, test · verb
+- 試し（ためし） — trial, test · noun
+- 体験（たいけん） — experience · verbal noun
+- 物質（ぶっしつ） — matter, substance · noun
+- ラグビー — rugby · noun
+- 品質（ひんしつ） — quality · noun
+- 本質（ほんしつ） — essence, reality · noun
+- 問う（とう） — ask, question · verb
+- 問い合わせる（といあわせる） — inquire, contact · verb
+- 強気（つよき） — tough, bullish · adjectival noun
+- レンズ — lens · noun
+- 弱まる（よわまる） — weaken, abate · verb
+- 弱める（よわめる） — weaken, lower · verb
+- 弱る（よわる） — weaken, be debilitated · verb
+- 弱み（よわみ） — weakness, shortcoming · noun
+- 弱気（よわき） — timid, weak-spirited · adjectival noun
+- 引き受ける（ひきうける） — undertake · verb
+- ペース — pace · noun
+- 引き上げる（ひきあげる） — pull up, salvage · verb
+- 引き出す（ひきだす） — draw out, lure out · verb
+- 引き取る（ひきとる） — take over, take custody · verb
+- 値引き（ねびき） — discount · verbal noun
+- 長引く（ながびく） — be prolonged, drag on · verb
+- マラソン — marathon · noun
+- 引きずる（ひきずる） — drag along, trail · verb
+- 待ち合わせ（まちあわせ） — waiting, rendez-vous · verbal noun
+- 待ち遠しい（まちどおしい） — just can't wait for, long for · adjective
+- 待ち合わせる（まちあわせる） — wait for, meet by appointment · verb
+- どうやら — seems, looks like · adverb
+- 持ち物（もちもの） — one's property, one's baggage · noun
+- 長持ち（ながもち） — endurance, lasting long · verbal noun
+- 値打ち（ねうち） — value, worth · noun
+- 投書（とうしょ） — contribution, letter · verbal noun
+- 役所（やくしょ） — public office · noun
+- ふと — suddenly, unexpectedly · adverb
+- 役人（やくにん） — government official · noun
+- 役目（やくめ） — duty, role · noun
+- 役（やく） — role, part · noun
+- 生える（はえる） — grow, spring up · verb
+- 長生き（ながいき） — long life, longevity · verbal noun
+- ベテラン — veteran · noun
+- 生やす（はやす） — grow, cultivate · verb
+- 生（なま） — raw, fresh · adjectival noun
+- 無生物（むせいぶつ） — inanimate object · noun
+- 男性（だんせい） — male, man · noun
+- 理性（りせい） — reason, reasoning power · noun
+- ボーナス — bonus · noun
+- 土産（みやげ） — souvenir · noun
+- 徒歩（とほ） — walking, going on foot · noun
+- 学ぶ（まなぶ） — learn, study · verb
+- 文学（ぶんがく） — literature · noun
+- 体育（たいいく） — physical training, physical education · noun
+- そっくり — identical, look alike · adjective
+- 体制（たいせい） — system, structure · noun
+- 強まる（つよまる） — become strong, gain strength · verb
+- 強める（つよめる） — strengthen, emphasize · verb
+- 力強い（ちからづよい） — powerful, vigorous · adjective
+- ロック — rock (music) · noun
+- 量（りょう） — quantity, volume · noun
+- 大量（たいりょう） — large quantity, great volume · noun
+- 年配（ねんぱい） — age, elderly age · noun
+- 送金（そうきん） — money transfer, remittance · verbal noun
+- 郵送（ゆうそう） — mailing · verbal noun
+- わざわざ — go to a lot of trouble · adverb
+- 取り上げる（とりあげる） — take up, confiscate · verb
+- 取り入れる（とりいれる） — take in, adopt · verb
+- 取り決め（とりきめ） — decision, agreement · noun
+- 取れる（とれる） — be harvested, be cultivated · verb
+- 取り消す（とりけす） — cancel, nullify · verb
+- 取消し（とりけし） — cancellation, annulment · verbal noun
+- パイロット — pilot · noun
+- 取り出す（とりだす） — take out, pull out · verb
+- 届け（とどけ） — report, delivery · noun
+- 物覚え（ものおぼえ） — memory · noun
+- 体重（たいじゅう） — body weight · noun
+- 手軽（てがる） — easy, light · adjective
+- 多量（たりょう） — large quantity, great deal · noun
+- 量る（はかる） — measure, weigh · verb
+- 物理（ぶつり） — physics, natural law · noun
+- 物事（ものごと） — things, everything · noun
+- 名物（めいぶつ） — specialty, noted product · noun
+- 物知り（ものしり） — knowledgeable person, know-it-all · noun
+- なかなか — rather, pretty · adverb
+- 都心（としん） — heart of a city · noun
+- ミス — mistake · verbal noun
+- 都（と） — metropolis of Tokyo · noun
+- 都会（とかい） — city, town · noun
+- 都（みやこ） — capital, city · noun
+- 様子（ようす） — appearance, aspect · noun
+- 物価（ぶっか） — prices · noun
+- ヨット — sailboat, yacht · noun
+- 物体（ぶったい） — object, physical body · noun
+- 本物（ほんもの） — real thing, genuine article · noun
+- 不良（ふりょう） — bad, defective · adjectival noun
+- 不合格（ふごうかく） — failure, disqualification · noun
+- マーケット — market · noun
+- 不通（ふつう） — interruption of service · noun
+- 便り（たより） — news, correspondence · noun
+- 大便（だいべん） — stool, feces · verbal noun
+- 番（ばん） — one's turn, watch · noun
+- 長所（ちょうしょ） — strong point, merit · noun
+- ファッション — fashion · noun
+- 短所（たんしょ） — shortcoming, defect · noun
+- 所々（ところどころ） — here and there, at places · noun
+- 名（な） — name, reputation · noun
+- 名人（めいじん） — master, master hand · noun
+- 地名（ちめい） — place name · noun
+- 名所（めいしょ） — noted place, sights · noun
+- ブレーキ — brake · noun
+- 町外れ（まちはずれ） — outskirts of a town · noun
+- 町中（まちなか） — the downtown area, the central area of a town · noun
+- 村（むら） — village, hamlet · noun
+- 都内（とない） — in the metropolitan area of Tokyo · noun
+- 未知（みち） — unknown · noun
+- 通知（つうち） — notification · verbal noun
+- 無知（むち） — ignorance · adjectival noun
+- テーマ — the theme, the subject · noun
+- 知人（ちじん） — acquaintance, friend · noun · forgotten 3×
+- 天才（てんさい） — genius · noun
+- 本能（ほんのう） — instinct · noun
+- 有能（ゆうのう） — able, competent · adjectival noun
+- 知能（ちのう） — intelligence, mental capacity · noun
+- 無能（むのう） — inefficiency, incompetence · adjectival noun
+- ムード — mood · noun
+- 能（のう） — noh play · noun
+- 能（のう） — ability, capability · noun
+- 不安（ふあん） — uneasiness, anxiety · adjectival noun
+- 不満（ふまん） — dissatisfaction, discontent · adjectival noun
+- 不足（ふそく） — insufficiency, lack · verbal noun
+- どく — move out of the way · verb
+- 不可能（ふかのう） — impossible · adjectival noun
+- 不十分（ふじゅうぶん） — insufficiency, lack · adjectival noun
+- 不明（ふめい） — unknown · adjectival noun
+- 費やす（ついやす） — expend, waste · verb
+- 安売り（やすうり） — sale · verbal noun
+- 売買（ばいばい） — buying and selling, trade · verbal noun
+- 閉店（へいてん） — shop closing · verbal noun
+- 本店（ほんてん） — head office · noun
+- パイプ — pipe · noun
+- 部品（ぶひん） — parts, accessories · noun
+- 日用品（にちようひん） — groceries, daily necessities · noun
+- 段（だん） — step, grade · noun
+- 値上がり（ねあがり） — price rise · verbal noun
+- 値上げ（ねあげ） — price hike · verbal noun
+- 値下がり（ねさがり） — fall in price · verbal noun
+- たちまち — in a moment, instantly · adverb
+- 値下げ（ねさげ） — price reduction · verbal noun
+- 地価（ちか） — price of land · noun
+- 体格（たいかく） — physique, build · noun
+- 冬季（とうき） — winter season · noun
+- 熱する（ねっする） — heat, become hot · verb
+- プラス — plus, advantage · verbal noun
+- 低温（ていおん） — low temperature · noun
+- 体温（たいおん） — body temperature · noun
+- 友情（ゆうじょう） — friendship · noun
+- 人情（にんじょう） — human feelings, humanity · noun
+- 情けない（なさけない） — pitiful, shameful · adjective
+- リード — the lead, take a lead · verbal noun
+- 報道（ほうどう） — news, report · verbal noun
+- 電報（でんぽう） — telegram · noun
+- 中古（ちゅうこ） — secondhand goods · noun
+- 古本（ふるほん） — secondhand book · noun
+- 昔（むかし） — old times, the old days · noun
+- 悪口（わるくち） — slander, abuse · noun
+- たとえ — even if, granting that · adverb
+- 熱心（ねっしん） — enthusiasm, zeal · adjectival noun
+- 良心（りょうしん） — conscience · noun
+- 内心（ないしん） — back of one's mind, one's real intention · noun
+- 用心（ようじん） — care, caution · verbal noun · forgotten 5×
+- 忘年会（ぼうねんかい） — year-end party · noun
+- なるべく — as...as possible, if possible · adverb
+- 度忘れ（どわすれ） — memory lapse, mental block · verbal noun
+- 知事（ちじ） — governor · noun
+- どうも — for some reason, somehow · adverb
+- 無理（むり） — impossibility · noun
+- 無料（むりょう） — no charge, free · noun
+- 無事（ぶじ） — safely, peacefully · adverb
+- 無口（むくち） — not speaking much, reticence · adjectival noun
+- 間も無く（まもなく） — soon, in a short time · adverb
+- 無言（むごん） — silence, muteness · noun
+- ハード — hard · adjective
+- 無茶（むちゃ） — reckless, excessive · adjectival noun · forgotten 3×
+- 無理やり（むりやり） — by force, against one's will · adverb
+- 作り上げる（つくりあげる） — make up, build up · verb
+- 作り話（つくりばなし） — fable, fiction · noun
+- 大使（たいし） — ambassador · noun
+- マイナス — minus, below zero · verbal noun
+- 使い道（つかいみち） — use, application · noun
+- 使い（つかい） — errand · noun
+- 用（よう） — things to do · noun
+- 無用（むよう） — useless, unnecessary · adjectival noun
+- 費用（ひよう） — expenses · noun
+- とにかく — in any case, anyway · adverb
+- 鉄道（てつどう） — railway · noun
+- どうか — please · adverb
+- 鉄（てつ） — iron · noun
+- 肉体（にくたい） — body, flesh · noun
+- 白菜（はくさい） — nappa cabbage · noun
+- 日米（にちべい） — Japan and U.S. · noun
+- 味方（みかた） — friend, ally · noun
+- 年末（ねんまつ） — end of year · noun
+- プロ — pro, professional · noun
+- 末（まつ） — last part, end · noun
+- 料金（りょうきん） — charge, fee · noun
+- 地理（ちり） — geography · noun
+- 理解（りかい） — understanding, comprehension · verbal noun
+- 解く（とく） — solve · verb
+- チャンス — chance · noun
+- 分解（ぶんかい） — taking apart · verbal noun
+- 解ける（とける） — solve, resolve · verb
+- 有力（ゆうりょく） — powerful, influential · adjectival noun
+- 有する（ゆうする） — have, possess · verb
+- 有料（ゆうりょう） — fee-charging, pay · noun
+- 広まる（ひろまる） — spread, be in general circulation · verb
+- 広める（ひろめる） — spread, extend · verb
+- トンネル — tunnel · noun
+- 全力（ぜんりょく） — all one's might, full capacity · noun
+- 部門（ぶもん） — division, department · noun
+- 本部（ほんぶ） — head office, headquarters · noun
+- 部長（ぶちょう） — section chief, department head · noun
+- 内部（ないぶ） — interior, inner parts · noun
+- 部下（ぶか） — subordinate · noun
+- バランス — balance · noun
+- 大部分（だいぶぶん） — most, greater part · noun
+- 大国（たいこく） — world power, large country · noun
+- 入国（にゅうこく） — entry into a country, immigration · verbal noun
+- 本国（ほんごく） — one's native country · noun
+- 天国（てんごく） — paradise · noun
+- どうしても — by any means, really · adverb
+- 世の中（よのなか） — the world, society · noun
+- 中世（ちゅうせい） — Middle Ages · noun
+- 世（よ） — world, public, · noun
+- 明白（めいはく） — clear, plain · adjectival noun

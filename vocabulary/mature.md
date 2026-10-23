@@ -1,0 +1,3657 @@
+# Vocabulary: mature (well known)
+
+Japanese words from the Core 2k/6k deck, in frequency order. Format: word（reading）— meaning · part of speech. Reviewed successfully at intervals of 21 days or more.
+
+3651 items.
+
+- それ — that, that one · pronoun
+- 一つ（ひとつ） — one (thing) · noun
+- 一（いち） — one · noun
+- 二（に） — two · noun
+- 二つ（ふたつ） — two (things) · noun
+- 三（さん） — three · noun
+- 三つ（みっつ） — three (things) · noun
+- 四つ（よっつ） — four (things) · noun
+- 四（し） — four · noun
+- これ — this, this one · noun
+- 四（よん） — four · noun
+- 五つ（いつつ） — five (things) · noun
+- 五（ご） — five · noun
+- 六つ（むっつ） — six (things) · noun
+- 六（ろく） — six · noun
+- 七（なな） — seven · noun
+- 七つ（ななつ） — seven (things) · noun
+- 八（はち） — eight · noun
+- 八つ（やっつ） — eight (things) · noun
+- なる — become · verb
+- 九（きゅう） — nine · noun
+- 九つ（ここのつ） — nine (things) · noun · forgotten 3×
+- 十（じゅう） — ten · noun
+- 百（ひゃく） — hundred · noun
+- 千（せん） — thousand · noun
+- 万（まん） — ten thousand · noun
+- 円（えん） — circle · noun
+- 円（えん） — yen · noun
+- 時（とき） — time · noun
+- する — do, make · verb
+- 時々（ときどき） — sometimes · adverb
+- 日（にち） — day · noun
+- 六日（むいか） — six days, 6th of the month · noun
+- 三日（みっか） — three days, 3rd of the month · noun
+- 五日（いつか） — five days, 5th of the month · noun
+- 二十日（はつか） — 20 days, 20th of the month · noun
+- 二日（ふつか） — two days, 2nd of the month · noun
+- 九日（ここのか） — nine days, 9th of the month · noun · forgotten 4×
+- ところ — place · noun
+- 一日（ついたち） — 1st of the month · noun
+- 十日（とおか） — ten days, 10th of the month · noun · forgotten 3×
+- 七日（なのか） — seven days, 7th of the month · noun
+- 月（つき） — moon · noun
+- 水（みず） — water · noun
+- 金（かね） — money · noun
+- 日曜日（にちようび） — Sunday · noun
+- 土曜日（どようび） — Saturday · noun
+- やる — do · verb
+- 金曜日（きんようび） — Friday · noun
+- 月曜日（げつようび） — Monday · noun
+- 木曜日（もくようび） — Thursday · noun
+- 曜日（ようび） — day of the week · noun
+- 火曜日（かようび） — Tuesday · noun
+- 水曜日（すいようび） — Wednesday · noun
+- 週（しゅう） — week · noun
+- 年（とし） — year, age · noun
+- 分かる（わかる） — understand · verb
+- そう — in such manner, that way · adverb
+- 何（なに） — what, which · noun
+- 先（さき） — ahead, first · noun
+- 今年（ことし） — this year · noun · forgotten 3×
+- 今（いま） — now · adverb
+- 今日（きょう） — today · noun
+- 今月（こんげつ） — this month · noun
+- 今週（こんしゅう） — this week · noun
+- 来る（くる） — come · verb
+- 来年（らいねん） — next year · noun
+- もう — already, yet · adverb
+- 行く（いく） — go · verb
+- 帰る（かえる） — return, go back · verb
+- 大きい（おおきい） — big · adjective
+- 小さい（ちいさい） — small · adjective
+- 少ない（すくない） — few, little · adjective
+- 少し（すこし） — a bit, a little while · adverb
+- 多い（おおい） — lots of · adjective
+- 多分（たぶん） — probably, perhaps · adverb
+- 上げる（あげる） — raise, improve · verb
+- よく — often · adverb
+- 上る（のぼる） — go up · verb
+- 上（うえ） — up, above · noun
+- 下（した） — under, below · noun
+- 右（みぎ） — right · noun
+- 左（ひだり） — left · noun
+- 方（ほう） — direction, side · noun
+- 大人（おとな） — adult · noun
+- 人（ひと） — person · noun
+- 一人（ひとり） — one, one person · noun
+- どう — how, what · adverb
+- 入れる（いれる） — put in · verb
+- 入る（はいる） — enter · verb
+- 出る（でる） — go out, leave · verb
+- 出来る（できる） — can do, be good at · verb
+- 出す（だす） — take out · verb
+- 本（ほん） — book, volume · noun
+- 休む（やすむ） — take a day off, take a break · verb
+- 体（からだ） — body, health · noun
+- 目（め） — eye · noun
+- どこ — where · noun
+- 口（くち） — mouth · noun
+- 耳（みみ） — ear, hearing · noun
+- 上手（じょうず） — good, skilled · adjectival noun
+- 手（て） — hand · noun
+- 足（あし） — leg, foot · noun
+- 空く（すく） — be empty · verb
+- 男（おとこ） — man, male · noun
+- 女（おんな） — woman, girl · noun
+- 子供（こども） — child, kid · noun
+- あげる — give · verb
+- 好き（すき） — favorite, liked · adjectival noun
+- 大好き（だいすき） — love · adjective
+- 私（わたし） — I · noun
+- 友達（ともだち） — friend, companion · noun
+- 家（うち） — house, home · noun
+- 気（き） — spirit, temperament · noun
+- 元気（げんき） — healthy, energetic · adjective
+- 天気（てんき） — weather · noun
+- 晴れる（はれる） — be sunny, clear up · verb
+- こう — like this, this kind of · adverb
+- 昨日（きのう） — yesterday · noun
+- 開ける（あける） — open, unlock · verb
+- 開く（ひらく） — open · verb
+- 閉じる（とじる） — close · verb · forgotten 3×
+- 閉める（しめる） — shut, close · verb
+- 閉まる（しまる） — be shut, be closed · verb
+- 聞く（きく） — hear, ask · verb
+- 時間（じかん） — time, hour · noun
+- 高い（たかい） — high, tall · adjective
+- くれる — be given · verb
+- 安い（やすい） — inexpensive, cheap · adjective
+- 低い（ひくい） — low, short · adjective
+- 前（まえ） — front, before · noun
+- 後（あと） — after · adverb
+- 後ろ（うしろ） — back, behind · noun
+- 午後（ごご） — afternoon, p.m. · noun
+- 午前（ごぜん） — morning, a.m. · noun
+- 朝（あさ） — morning · noun
+- 昼（ひる） — daytime, midday · noun
+- かなり — fairly, rather · adverb
+- 晩（ばん） — evening (usually from sunset to bedtime) · noun
+- 今晩（こんばん） — this evening, tonight · noun
+- 夜（よる） — night (from sunset to sunrise) · noun
+- 食べる（たべる） — eat · verb
+- 飲む（のむ） — drink · verb
+- ご飯（ごはん） — cooked rice, meal · noun
+- 買う（かう） — buy · verb
+- 見る（みる） — see, look at · verb
+- 見せる（みせる） — show · verb
+- もっと — more · adverb
+- 見つける（みつける） — find · verb
+- 見える（みえる） — be visible · verb
+- 見つかる（みつかる） — be found, be caught · verb
+- 言う（いう） — say, tell · verb
+- 話す（はなす） — speak, tell · verb
+- 読む（よむ） — read · verb
+- 漢字（かんじ） — character, kanji · noun
+- 書く（かく） — write · verb
+- 覚える（おぼえる） — memorize, learn · verb
+- そこ — there · pronoun
+- 会う（あう） — meet · verb
+- 仕事（しごと） — work, job · noun
+- 場合（ばあい） — situation, case · noun
+- 車（くるま） — car, automobile · noun
+- 電車（でんしゃ） — train · noun
+- 駅（えき） — railway station · noun
+- 道（みち） — road, street · noun
+- 他（ほか） — other · noun
+- 止める（やめる） — stop, give up, abolish · verb
+- ここ — here · pronoun
+- 歩く（あるく） — walk, go on foot · verb
+- 走る（はしる） — run · verb
+- 近く（ちかく） — near, close to · adverb
+- 近い（ちかい） — near, soon · adjective
+- 近く（ちかく） — vicinity, nearby · noun
+- 遠い（とおい） — far, distant · adjective
+- 長い（ながい） — long · adjective
+- 短い（みじかい） — short, brief · adjective
+- 広い（ひろい） — wide, big · adjective
+- もらう — receive · verb
+- 全部（ぜんぶ） — all, wholly · adverb
+- 国（くに） — country · noun
+- 白い（しろい） — white, blank · adjective
+- 赤い（あかい） — red · adjective
+- 部屋（へや） — room · noun
+- 米（こめ） — rice (grain) · noun
+- 未だ（まだ） — yet, more · adverb
+- 有る（ある） — exist, possess · verb
+- 無い（ない） — to not be · adjective
+- とても — very · adverb
+- 作る（つくる） — make, create · verb
+- 使う（つかう） — use · verb
+- 消す（けす） — switch off, turn off · verb
+- 売る（うる） — sell · verb
+- 店（みせ） — shop, store · noun
+- 春（はる） — spring · noun
+- 夏（なつ） — summer · noun
+- 秋（あき） — autumn, fall · noun
+- 冬（ふゆ） — winter · noun
+- みんな — all, everybody · noun
+- 暑い（あつい） — hot, warm (temperature of the air) · adjective
+- 熱い（あつい） — hot (things, touch) · adjective
+- 寒い（さむい） — cold (temperature of the air) · adjective
+- 暖かい（あたたかい） — warm · adjective
+- 新しい（あたらしい） — new · adjective
+- 古い（ふるい） — old · adjective
+- 良い（いい） — good · adjective
+- 悪い（わるい） — bad · adjective
+- 思う（おもう） — think · verb
+- いつも — always · adverb
+- 忘れる（わすれる） — forget, leave behind · verb
+- 考える（かんがえる） — think, consider · verb
+- 決める（きめる） — decide, agree upon · verb
+- 決まる（きまる） — be decided · verb
+- 知る（しる） — know · verb
+- 一番（いちばん） — most · adverb
+- 住む（すむ） — live, reside · verb
+- 名前（なまえ） — name · noun
+- 食べ物（たべもの） — food · noun
+- いつ — when · noun
+- 飲み物（のみもの） — beverage, drink · noun
+- 重い（おもい） — heavy · adjective
+- 軽い（かるい） — light, light weight · adjective
+- 送る（おくる） — send · verb
+- 取る（とる） — take, get · verb
+- 待つ（まつ） — wait, wait for · verb
+- 持つ（もつ） — have, possess · verb
+- 気持ち（きもち） — feeling, sensation · noun
+- 生きる（いきる） — live (one's life) · verb
+- どちら — which · noun
+- 先生（せんせい） — teacher · noun
+- 大学（だいがく） — university, college · noun
+- 学生（がくせい） — student · noun
+- 大学生（だいがくせい） — university student · noun
+- 学校（がっこう） — school · noun
+- 高校生（こうこうせい） — high school student · noun
+- 教える（おしえる） — teach, tell · verb
+- 勉強（べんきょう） — study · verbal noun
+- 強い（つよい） — strong · adjective
+- どれ — what, which · noun
+- 弱い（よわい） — weak · adjective
+- 引く（ひく） — draw, pull · verb
+- 質問（しつもん） — question · verbal noun
+- 難しい（むずかしい） — difficult · adjective
+- 数（かず） — number · noun
+- 勝つ（かつ） — win · verb
+- 負ける（まける） — lose · verb
+- 本当に（ほんとうに） — really, truly · adverb
+- 要る（いる） — need, require · verb
+- ドア — door · noun
+- 時計（とけい） — clock, watch · noun
+- 払う（はらう） — pay · verb
+- 切る（きる） — cut · verb
+- 変える（かえる） — change · verb
+- 乗る（のる） — ride, take · verb
+- 着る（きる） — wear, put on · verb
+- 立つ（たつ） — stand, rise · verb
+- 座る（すわる） — sit, sit down · verb
+- 次（つぎ） — next · noun
+- しゃべる — chat, talk · verb
+- 動く（うごく） — move · verb
+- 働く（はたらく） — work · verb
+- 早い（はやい） — early · adjective
+- 速い（はやい） — fast · adjective
+- 遅い（おそい） — slow, late · adjective
+- 始める（はじめる） — begin, start · verb
+- 始まる（はじまる） — begin · verb
+- 終わる（おわる） — finish, end · verb
+- 終わり（おわり） — end, conclusion · noun
+- テーブル — table · noun
+- 去年（きょねん） — last year · noun
+- 紙（かみ） — paper · noun
+- 楽しむ（たのしむ） — enjoy · verb
+- 楽しい（たのしい） — fun, enjoyable · adjective
+- 歌う（うたう） — sing · verb
+- 欲しい（ほしい） — want, desire · adjective
+- 色（いろ） — color · noun
+- 茶色（ちゃいろ） — light brown · noun
+- 直ぐ（すぐ） — at once, soon · adverb
+- ゲーム — game · noun
+- 書き直す（かきなおす） — rewrite · verb
+- 直る（なおる） — be repaired, return to normal · verb
+- 線（せん） — line · noun
+- 曲がる（まがる） — turn · verb
+- 同じ（おなじ） — same, identical · adjectival noun
+- 違う（ちがう） — differ, be wrong · verb
+- 図書館（としょかん） — library · noun
+- 泊まる（とまる） — stay overnight · verb
+- 遊ぶ（あそぶ） — play · verb
+- どうして — why · adverb
+- 服（ふく） — clothes · noun
+- お父さん（おとうさん） — father · noun
+- 父（ちち） — (speaker's)father · noun
+- お母さん（おかあさん） — mother · noun
+- 母（はは） — (speaker's)mother · noun
+- 親（おや） — parent · noun
+- 姉（あね） — older sister · noun
+- お姉さん（おねえさん） — older sister · noun
+- 妹（いもうと） — younger sister · noun
+- おなか — stomach · noun
+- 兄（あに） — older brother · noun
+- お兄さん（おにいさん） — older brother · noun
+- 弟（おとうと） — younger brother · noun
+- 娘（むすめ） — daughter, girl · noun
+- 息子（むすこ） — son · noun
+- 若い（わかい） — young · adjective
+- 彼女（かのじょ） — she, one's girlfriend · pronoun
+- 彼（かれ） — he, one's boyfriend · noun
+- 結婚（けっこん） — marriage · verbal noun
+- ミーティング — meeting · noun
+- 自転車（じてんしゃ） — bicycle · noun
+- 自分（じぶん） — self, oneself · noun
+- ご主人（ごしゅじん） — (your) husband · noun
+- 答える（こたえる） — answer, reply · verb
+- 別（べつ） — another, different · adjectival noun
+- 病気（びょうき） — illness · verbal noun
+- 死ぬ（しぬ） — die · verb
+- 痛い（いたい） — painful · adjective
+- 酒（さけ） — alcoholic drink, Japanese rice wine · noun
+- つける — switch on · verb
+- 一杯（いっぱい） — full · adverb
+- 飛ぶ（とぶ） — fly · verb
+- 飛行機（ひこうき） — airplane · noun
+- お願い（おねがい） — favor · verbal noun
+- 続く（つづく） — continue, follow · verb
+- 日記（にっき） — diary · noun
+- 首（くび） — neck · noun
+- 頭（あたま） — head · noun
+- 顔（かお） — face · noun
+- あれ — that over there · noun
+- 感じる（かんじる） — feel, sense · verb
+- 探す（さがす） — search for, look for · verb
+- 落ちる（おちる） — fall, sink · verb
+- お手洗い（おてあらい） — toilet, bathroom · noun
+- 冷たい（つめたい） — cold (things, touch) · adjective
+- 汚い（きたない） — dirty · adjective
+- 太い（ふとい） — thick, fat · adjective
+- 曇る（くもる） — become cloudy · verb
+- 神（かみ） — god, spirit · noun
+- まずい — bad-tasting, bad · adjective
+- 建てる（たてる） — build, erect · verb
+- 置く（おく） — put, leave · verb
+- 辺（へん） — vicinity, part · noun
+- 黄色い（きいろい） — yellow · adjective
+- 一緒に（いっしょに） — together, at the same time · adverb
+- 緑（みどり） — green, foliage · noun
+- 易しい（やさしい） — easy, simple · adjective
+- 留学生（りゅうがくせい） — student studying abroad · noun
+- 戻る（もどる） — return, turn back · verb
+- そば — side, vicinity · noun
+- 起きる（おきる） — get up, get out of bed · verb
+- 起こる（おこる） — happen · verb
+- 起こす（おこす） — wake up · verb
+- 起きる（おきる） — occur · verb
+- 寝る（ねる） — sleep, go to sleep · verb
+- 細い（ほそい） — thin, slender, narrow · adjective
+- 載せる（のせる） — place, put on · verb
+- 締める（しめる） — tighten, fasten · verb
+- 甘い（あまい） — sweet · adjective
+- こっち — here · pronoun
+- 辛い（からい） — spicy, salty · adjective
+- 優しい（やさしい） — gentle, kind · adjective
+- 夫（おっと） — husband · noun
+- 妻（つま） — wife · noun
+- 誰（だれ） — who, whom · noun
+- 愛する（あいする） — love, care for · verb
+- 笑う（わらう） — laugh, smile · verb
+- 酸っぱい（すっぱい） — sour · adjective
+- 言葉（ことば） — word, language · noun
+- よう — way, like, kind · noun
+- 呼ぶ（よぶ） — call, name · verb
+- 胸（むね） — chest · noun
+- 腰（こし） — hip, lower back · noun
+- 背（せ） — height, stature · noun
+- 片仮名（かたかな） — katakana · noun
+- 平仮名（ひらがな） — hiragana · noun
+- 悲しい（かなしい） — sad · adjective
+- 美しい（うつくしい） — beautiful · adjective
+- 授業（じゅぎょう） — class, lesson · verbal noun
+- あそこ — over there · pronoun
+- 手伝う（てつだう） — help, assist · verb
+- 狭い（せまい） — narrow, restricted · adjective
+- 触る（さわる） — touch, feel · verb
+- 嫌い（きらい） — dislike · adjective
+- 浴びる（あびる） — take (a shower) · verb
+- 渇く（かわく） — be thirsty · verb
+- 髪の毛（かみのけ） — hair · noun
+- 肩（かた） — shoulder · noun
+- 鼻（はな） — nose · noun
+- おいしい — tasty · adjective
+- 腕（うで） — arm · noun
+- 掛ける（かける） — hang, put on · verb · forgotten 3×
+- 僕（ぼく） — I (young male) · noun
+- 駄目（だめ） — no good · adjectival noun
+- 大丈夫（だいじょうぶ） — alright, OK · adjectival noun
+- 風邪（かぜ） — cold (illness) · noun
+- 奇麗（きれい） — beautiful · adjectival noun
+- 嬉しい（うれしい） — happy, glad · adjective
+- なる — become · verb
+- ため — sake, purpose · noun
+- より — more, further · adverb
+- 七（しち） — seven · noun
+- 九（く） — nine · noun
+- 億（おく） — hundred million · noun
+- 寺（てら） — buddhist temple · noun
+- ドル — dollar · noun
+- 日（ひ） — sun, sunlight, day · noun
+- 火（ひ） — fire · noun
+- 木（き） — tree, wood · noun
+- 金（きん） — gold, sum of money, Friday · noun
+- システム — system · noun
+- 十分（じゅうぶん） — full, plentiful · adjectival noun
+- 分（ぶん） — amount, part, share · noun
+- 分ける（わける） — divide into parts, sort, share · verb
+- 分かれる（わかれる） — be divided, disperse, branch off · verb
+- コンピューター — computer · noun
+- 何か（なにか） — something, some · noun
+- 何（なん） — what, which · noun
+- 先ず（まず） — first · adverb
+- 先月（せんげつ） — last month · noun
+- やる — give (to an inferior) · verb
+- 先週（せんしゅう） — last week · noun
+- 今まで（いままで） — until now, so far · adverb
+- 来月（らいげつ） — next month · noun
+- 来週（らいしゅう） — next week · noun
+- ロボット — robot · noun
+- 行う（おこなう） — do, carry out · verb
+- 行き（いき） — going · noun
+- 行き（ゆき） — going · noun
+- 帰り（かえり） — return, going home · noun
+- ほとんど — almost, hardly · adverb
+- 大きさ（おおきさ） — size, dimensions · noun
+- 大分（だいぶ） — very, greatly · adverb · forgotten 3×
+- 中（なか） — inside, middle · noun
+- 少年（しょうねん） — boy · noun
+- パソコン — personal computer · noun
+- 少しも（すこしも） — at all · adverb
+- 少々（しょうしょう） — a little, a few · adverb
+- 多く（おおく） — much, largely · adverb
+- 上がる（あがる） — go up, rise · verb
+- もう — another, again · adverb
+- 上がる（あがる） — get nervous, get stage fright · verb
+- 年上（としうえ） — older, senior · noun
+- 上り（のぼり） — going up, ascent · noun
+- 下げる（さげる） — lower, turn down · verb
+- プログラム — program · noun
+- 下がる（さがる） — come down, hang down, fall · verb · forgotten 3×
+- 下りる（おりる） — go down, come down · verb
+- 下ろす（おろす） — bring down, take down, pull down · verb
+- 下り（くだり） — downhill, going down · noun
+- よく — well · adverb
+- 年下（としした） — younger, junior · noun
+- 下る（くだる） — go down, go down or away from a central place · verb
+- 一方（いっぽう） — one way · noun
+- 方（かた） — person （polite form) · noun
+- まま — as is, still (in the current state) · noun
+- 二人（ふたり） — two persons · noun
+- 大人しい（おとなしい） — gentle, quiet, subdued · adjective
+- 人々（ひとびと） — people · noun
+- 一人で（ひとりで） — by oneself · adverb
+- テレビ — television · noun
+- 外人（がいじん） — foreigner, alien · noun
+- 外（そと） — outside, open air · noun
+- 休日（きゅうじつ） — holiday, day off · noun
+- 休み（やすみ） — rest, holiday, absence · noun
+- ソフト — software, programme · noun
+- 力（ちから） — strength, power · noun
+- 協力（きょうりょく） — cooperation, collaboration · verbal noun
+- 人口（じんこう） — population · noun
+- 出口（でぐち） — exit, exit ramp · noun
+- ただ — free · noun
+- 入り口（いりぐち） — entrance · noun
+- 右手（みぎて） — right hand · noun
+- 左手（ひだりて） — left hand · noun
+- 下手（へた） — not good at · adjectival noun
+- これら — these · noun
+- 足りる（たりる） — suffice, serve, be satisfied · verb
+- 足す（たす） — add, supplement · verb
+- 山（やま） — mountain · noun
+- 川（かわ） — river, stream · noun
+- いずれ — eventually, sometime · adverb · forgotten 5×
+- 空く（あく） — become available or vacant · verb
+- 空手（からて） — karate, empty hand · noun
+- 空（そら） — sky, weather · noun
+- 海外（かいがい） — overseas, abroad · noun
+- あまり — (not) much · adverb
+- 海（うみ） — sea, ocean · noun
+- 毎日（まいにち） — every day · noun
+- 毎年（まいとし） — every year · noun
+- 毎年（まいねん） — every year · noun
+- なお — still, in addition · adverb
+- 毎週（まいしゅう） — every week · noun
+- 毎月（まいつき） — every month · noun
+- 石（いし） — stone, small rock · noun · forgotten 4×
+- 田んぼ（たんぼ） — rice field · noun
+- ほぼ — almost, nearly · adverb
+- 花（はな） — flower · noun
+- 林（はやし） — woods, grove · noun
+- 森（もり） — thick woods, forest · noun
+- 子（こ） — child, kid · noun
+- サービス — service, on the house · verbal noun
+- 女の子（おんなのこ） — girl, daughter · noun
+- 男の子（おとこのこ） — boy, baby boy · noun
+- 私たち（わたしたち） — we · noun
+- 達する（たっする） — attain, reach · verb
+- グループ — group · noun
+- 家（いえ） — house, home · noun
+- 家内（かない） — my wife · noun
+- 客（きゃく） — visitor, customer · noun
+- 空気（くうき） — air, atmosphere · noun
+- ホテル — hotel · noun
+- 気に入る（きにいる） — like, be pleased with · verb
+- 人気（にんき） — popularity, temperament of the people, business conditions · noun
+- 雨（あめ） — rain · noun
+- 雪（ゆき） — snow, snowfall · noun
+- まとめる — gather together, put in order · verb
+- 青い（あおい） — blue · adjective
+- 青（あお） — blue, green, green light · noun
+- 晴れ（はれ） — fine weather, clear sky · noun
+- 明らか（あきらか） — clear, obvious · adjective
+- やはり — as expected, also, still · adverb
+- 明るい（あかるい） — bright, cheerful · adjective
+- 明日（あした） — tomorrow · noun
+- 暗い（くらい） — dark, dreary, shadowy · adjective
+- 昨年（さくねん） — last year · noun
+- はっきり — clearly · adverb
+- 一昨年（おととし） — the year before last · noun
+- 一昨日（おととい） — day before yesterday · noun
+- 東（ひがし） — east, eastern · noun
+- 西（にし） — west, western · noun
+- つまり — in short, basically · adverb
+- 南（みなみ） — south · noun
+- 北（きた） — north · noun
+- 方向（ほうこう） — direction, course · noun · forgotten 3×
+- 向かう（むかう） — face, confront, head toward · verb
+- ビル — building · noun
+- 向こう（むこう） — the other side, the other party, opponent · noun · forgotten 3×
+- 向く（むく） — turn, face, look · verb
+- 開く（あく） — open · verb
+- 聞こえる（きこえる） — hear, be heard · verb
+- もちろん — of course, no doubt · adverb
+- 年間（ねんかん） — period of one year · noun
+- この間（このあいだ） — the other day, recently · noun
+- 間（あいだ） — interval · noun
+- 人間（にんげん） — human being, people · noun
+- 高さ（たかさ） — height · noun
+- 最大（さいだい） — biggest, largest · noun
+- 初めて（はじめて） — for the first time · adverb
+- 最初（さいしょ） — first, outset · noun
+- スポーツ — sport · noun
+- 初め（はじめ） — beginning · noun
+- 今後（こんご） — after this, in the future · noun
+- 後（のち） — after, afterwards · noun
+- 最後（さいご） — last, final · noun
+- なぜ — why, for what reason · adverb
+- 明後日（あさって） — day after tomorrow · noun
+- 牛（うし） — cattle, cow · noun
+- 半分（はんぶん） — half · noun
+- 半年（はんとし） — half a year · noun
+- そのまま — like that, unchanged · adverb
+- 半月（はんつき） — half a month · noun
+- 半日（はんにち） — half a day · noun
+- 毎朝（まいあさ） — every morning · noun
+- 今朝（けさ） — this morning · noun
+- もし — if, in case of · adverb
+- 昼休み（ひるやすみ） — noon recess, lunch break · noun
+- 昼前（ひるまえ） — in the morning, before noon · noun
+- 昼間（ひるま） — daytime, day · noun
+- 毎晩（まいばん） — every evening · noun
+- つもり — intention, purpose · noun
+- 今夜（こんや） — tonight, this evening · noun
+- 昨夜（ゆうべ） — last night, last evening · noun
+- 夜中（よなか） — midnight, dead of night · noun
+- 夕方（ゆうがた） — evening · noun
+- やっと — at last, finally · adverb
+- 昼食（ちゅうしょく） — lunch · noun
+- 朝食（ちょうしょく） — breakfast · noun
+- 夕食（ゆうしょく） — supper · noun
+- 夕飯（ゆうはん） — evening meal, supper · noun
+- ニュース — news · noun
+- 見方（みかた） — view, way of looking · noun
+- 花見（はなみ） — flower viewing · noun
+- 言い方（いいかた） — way of speaking, expression · noun
+- 話（はなし） — talk, story · noun
+- ずっと — all day, from start to finish · adverb
+- 読み（よみ） — reading, judgment, foresight · noun
+- 読み方（よみかた） — way of reading, reading · noun
+- 語る（かたる） — tell, talk · verb
+- 言語（げんご） — language, speech · noun
+- ビデオ — video · noun
+- 英語（えいご） — English · noun
+- 文字（もじ） — character, letter · noun
+- ローマ字（ろーまじ） — Roman alphabet · noun
+- 字（じ） — character, letter · noun
+- マンション — apartment, apartment block, condominium · noun
+- 書き方（かきかた） — how to write, way of writing · noun
+- 覚める（さめる） — awake, wake up · verb
+- 覚ます（さます） — awaken, wake up · verb
+- 大会（たいかい） — mass meeting, tournament · noun
+- しばらく — awhile, long time, for the time being · adverb
+- 会話（かいわ） — conversation · verbal noun
+- 話し合う（はなしあう） — discuss, talk over · verb
+- 合う（あう） — fit · verb
+- 間に合う（まにあう） — be in time, answer the purpose, can do without · verb
+- ガス — gas · noun
+- 会社（かいしゃ） — company, corporation · noun
+- 社会（しゃかい） — society · noun
+- 社員（しゃいん） — staff member, employee · noun
+- 仕方（しかた） — way, method · noun
+- うまい — good at · adjective
+- 食事（しょくじ） — meal, dinner · verbal noun
+- 火事（かじ） — fire · noun
+- 大事（だいじ） — importance · adjectival noun
+- 事故（じこ） — accident, incident · noun
+- サラリーマン — office worker, salaried worker, company employee · noun
+- 工事（こうじ） — construction · verbal noun
+- 工場（こうじょう） — factory, plant · noun
+- 電話（でんわ） — telephone, phone call · verbal noun
+- 電気（でんき） — electricity, electric light · noun
+- バス — bus · noun
+- 車（くるま） — car · noun
+- 駅員（えきいん） — station employee · noun
+- 通り（とおり） — passage, street · noun
+- 通る（とおる） — pass, take, go through · verb
+- クラス — class · noun
+- 通う（かよう） — go to and from, frequent a place · verb
+- 交通事故（こうつうじこ） — traffic accident · noun
+- 水道（すいどう） — water service, channel · noun
+- 車道（しゃどう） — road, roadway · noun
+- トラック — truck, lorry · noun
+- 道路（どうろ） — road, street · noun
+- 土地（とち） — land · noun
+- 地図（ちず） — map, atlas · noun
+- 他（た） — others, other things · noun
+- パーティー — party · verbal noun
+- 止める（とめる） — stop, turn off · verb
+- 止まる（とまる） — come to a stop, cease · verb
+- 止む（やむ） — stop, abate · verb
+- 歩道（ほどう） — sidewalk, footpath · noun
+- うまい — delicious, tasty · adjective
+- 渡す（わたす） — carry across, hand over · verb
+- 渡る（わたる） — cross, ford, go across · verb
+- 年度（ねんど） — year, school year · noun
+- 今度（こんど） — this time, next time · noun
+- ガラス — glass · noun
+- 何度（なんど） — how many degrees, how many times · noun
+- 最近（さいきん） — late, recent · noun
+- 遠く（とおく） — great distance · adverb
+- 社長（しゃちょう） — president (of a company) · noun
+- コース — course, route · noun
+- 会長（かいちょう） — president, chairperson · noun · forgotten 4×
+- 長さ（ながさ） — length · noun
+- 長男（ちょうなん） — eldest son · noun
+- 長女（ちょうじょ） — eldest daughter · noun
+- アパート — apartment, flat, apartment house · noun
+- 広がる（ひろがる） — spread out, reach · verb
+- 広さ（ひろさ） — area, extent · noun
+- 全体（ぜんたい） — whole, total · noun
+- 全く（まったく） — entirely, truly, indeed · adverb
+- レコード — record · noun
+- 安全（あんぜん） — safety, security · adjectival noun
+- 一部（いちぶ） — part · noun
+- 部分（ぶぶん） — part, section · noun
+- 国内（こくない） — domestic, internal · noun
+- どんどん — knock · adverb
+- 全国（ぜんこく） — the whole country · noun
+- 外国（がいこく） — foreign country · noun
+- 国会（こっかい） — National Diet, parliament · noun · forgotten 6×
+- 帰国（きこく） — return to one's country · verbal noun · forgotten 4×
+- カメラ — camera · noun
+- 外国人（がいこくじん） — foreigner · noun
+- 外国語（がいこくご） — foreign language · noun
+- 世界（せかい） — world · noun
+- 白（しろ） — white · noun
+- テープ — tape, cassette · noun
+- 黒い（くろい） — black, dark · adjective
+- 黒（くろ） — black · noun
+- 赤ちゃん（あかちゃん） — baby · noun
+- 赤（あか） — red, crimson · noun
+- ビール — beer, lager · noun
+- 銀行（ぎんこう） — bank · noun
+- 銀（ぎん） — silver · noun
+- 地下鉄（ちかてつ） — subway · noun
+- 牛肉（ぎゅうにく） — beef · noun
+- ページ — page · noun
+- 肉（にく） — flesh, meat · noun
+- 魚（さかな） — fish · noun
+- 分野（ぶんや） — field, sphere · noun
+- 野菜（やさい） — vegetable · noun
+- グラフ — chart, graph · noun
+- 本屋（ほんや） — bookstore, bookseller · noun
+- 八百屋（やおや） — vegetable store, greengrocer · noun
+- そば屋（そばや） — soba restaurant · noun
+- たばこ屋（たばこや） — cigarette shop, tobacco store · noun
+- ポスト — post box, letter box · noun
+- 茶（ちゃ） — tea (plain form) · noun
+- お茶（おちゃ） — tea (polite) · noun
+- 茶わん（ちゃわん） — tea cup, rice bowl · noun
+- 味（あじ） — taste, flavor · noun
+- テスト — test, exam · verbal noun
+- 未来（みらい） — future · noun
+- 週末（しゅうまつ） — weekend · noun
+- 料理（りょうり） — cooking, handling · verbal noun
+- 無理（むり） — unreasonable, impossible, forced · adjectival noun
+- あちこち — all over · noun
+- 無くす（なくす） — lose, get rid of · verb
+- 無くなる（なくなる） — disappear, run short, get lost · verb
+- 作文（さくぶん） — composition, essay · noun · forgotten 3×
+- 用いる（もちいる） — use, make use of · verb · forgotten 4×
+- ゴルフ — golf · noun
+- 用事（ようじ） — things to do, errand, business · noun
+- 交通費（こうつうひ） — traveling expense, transportation cost · noun
+- 消える（きえる） — be extinguished, disappear · verb
+- 消しゴム（けしごむ） — eraser · noun
+- ラジオ — radio · noun
+- 売れる（うれる） — sell, be in demand · verb
+- 売り場（うりば） — sales floor, department · noun
+- 店員（てんいん） — clerk, salesperson · noun
+- 売店（ばいてん） — booth, store · noun
+- タクシー — taxi, cab · noun
+- 商品（しょうひん） — goods, commodities · noun
+- 作品（さくひん） — work of art, piece · noun
+- 販売（はんばい） — sale, selling · verbal noun
+- 二階（にかい） — second floor, upstairs · noun
+- ゆっくり — slowly · adverb
+- 段階（だんかい） — stage · noun
+- 階段（かいだん） — steps, flight of stairs · noun
+- 段々（だんだん） — gradually, one after another · adverb
+- 値段（ねだん） — price · noun
+- レストラン — restaurant · noun
+- 価格（かかく） — price, cost · noun · forgotten 3×
+- 合格（ごうかく） — passing an examination, eligibility · verbal noun · forgotten 3×
+- 夏休み（なつやすみ） — summer vacation · noun
+- 冬休み（ふゆやすみ） — winter vacation · noun
+- カード — card, credit card · noun
+- 四季（しき） — the four seasons · noun
+- 暑さ（あつさ） — heat, summer heat · noun
+- 熱（ねつ） — heat, fever · noun
+- 寒さ（さむさ） — coldness, cold · noun
+- アルバイト — casual job, student job, part-time job · verbal noun
+- 暖める（あたためる） — warm, warm up, heat up · verb
+- 暖まる（あたたまる） — get warm · verb
+- 温度（おんど） — temperature · noun
+- 気温（きおん） — temperature · noun
+- コピー — copy, photocopy · verbal noun
+- 台（だい） — stand, platform · noun
+- 風（かぜ） — wind · noun
+- 台風（たいふう） — typhoon · noun
+- 事情（じじょう） — circumstances, conditions · noun · forgotten 5×
+- ぶつかる — hit, bump into · verb
+- 情報（じょうほう） — information · noun · forgotten 6×
+- 報告（ほうこく） — report · verbal noun · forgotten 4×
+- 新聞（しんぶん） — newspaper · noun
+- 新年（しんねん） — New Year · noun
+- フィルム — film · noun
+- 良い（よい） — good, suitable, preferable · adjective
+- 中心（ちゅうしん） — center, middle · noun
+- 安心（あんしん） — peace of mind, relief · verbal noun
+- 思い出す（おもいだす） — recollect, recall · verb
+- デパート — department store, department · noun
+- 思い出（おもいで） — recollections, memory · noun
+- 考え（かんがえ） — thought, view, idea · noun
+- 解決（かいけつ） — solution, settlement · verbal noun
+- 知らせる（しらせる） — let know, inform · verb · forgotten 4×
+- ベッド — bed · noun
+- 能力（のうりょく） — ability, capacity · noun
+- 可能（かのう） — possible, potential · adjectival noun
+- 可（か） — permitted, OK · noun
+- 郵便（ゆうびん） — mail service, postal matter · noun
+- コート — coat, jacket · noun
+- 不便（ふべん） — inconvenient · adjectival noun
+- 郵便屋さん（ゆうびんやさん） — mailman · noun
+- 郵便局（ゆうびんきょく） — post office · noun
+- 交番（こうばん） — police box · noun
+- ノート — note book, laptop · noun
+- 番地（ばんち） — lot number, address · noun
+- 番号（ばんごう） — number, serial number · noun
+- 場所（ばしょ） — place, space · noun
+- 近所（きんじょ） — neighborhood · noun
+- ワイン — wine · noun
+- 台所（だいどころ） — kitchen · noun
+- 住所（じゅうしょ） — one's dwelling, address · noun
+- 便所（べんじょ） — lavatory, bathroom · noun
+- 有名（ゆうめい） — famous · adjectival noun
+- おかしい — strange, peculiar, suspicious · adjective
+- 名字（みょうじ） — surname, family name · noun
+- 氏名（しめい） — name · noun
+- 各国（かっこく） — every country · noun
+- 町（まち） — town, machi, city quarter · noun
+- トイレ — toilet · noun
+- 都市（とし） — cities, urban community · noun
+- 都合（つごう） — circumstances · noun
+- 朝御飯（あさごはん） — breakfast · noun
+- 買い物（かいもの） — shopping, purchase · verbal noun
+- キャンプ — camping, camp · verbal noun
+- 荷物（にもつ） — baggage, load · noun
+- 品物（しなもの） — article, thing · noun
+- 見物（けんぶつ） — sightseeing, visit · verbal noun · forgotten 4×
+- 物（もの） — thing, object · noun
+- プラスチック — plastic · noun
+- 忘れ物（わすれもの） — something left behind, lost item · noun
+- 重さ（おもさ） — weight · noun
+- 配る（くばる） — hand out, distribute, allot · verb
+- 配達（はいたつ） — delivery · verbal noun
+- カラー — color · noun
+- 心配（しんぱい） — anxiety, worry, good offices · verbal noun
+- 見送る（みおくる） — see (someone) off · verb
+- 見送り（みおくり） — seeing someone off · verbal noun
+- 受ける（うける） — receive, accept · verb
+- ピアノ — piano · noun
+- 受け取る（うけとる） — receive, understand · verb
+- 取れる（とれる） — come off, be removed · verb
+- 書き取る（かきとる） — write down, note down · verb
+- 届く（とどく） — reach, be received · verb
+- スキー — ski, skiing · noun
+- 届ける（とどける） — deliver, give notice · verb
+- 持つ（もつ） — maintain, last long · verb
+- 金持ち（かねもち） — wealthy person · noun
+- 持って行く（もっていく） — take · verb
+- なかなか — not at all, hardly · adverb · forgotten 3×
+- 持って来る（もってくる） — bring · verb
+- 打つ（うつ） — hit, strike · verb
+- 投げる（なげる） — throw, abandon · verb
+- 生まれる（うまれる） — be born, come into existence · verb
+- プール — pool · noun
+- 生む（うむ） — have children · verb
+- 女性（じょせい） — woman, female · noun
+- 生産（せいさん） — production · verbal noun · forgotten 8×
+- お土産（おみやげ） — souvenir · noun
+- ホーム — platform · noun
+- 生活（せいかつ） — life, living · verbal noun
+- 生徒（せいと） — pupil, student · noun
+- 中学（ちゅうがく） — junior high school · noun
+- 入学（にゅうがく） — enter a school, matriculate · verbal noun
+- エレベーター — elevator · noun
+- 中学生（ちゅうがくせい） — junior high school student · noun
+- 小学生（しょうがくせい） — schoolchildren, schoolboy · noun
+- 見学（けんがく） — observation tour, study tour, field trip · verbal noun
+- 通学（つうがく） — attending school, going to school · verbal noun · forgotten 3×
+- メモ — memorandum, memo pad · noun
+- 高校（こうこう） — high school · noun
+- 小学校（しょうがっこう） — elementary school · noun
+- 中学校（ちゅうがっこう） — junior high school · noun
+- 校長（こうちょう） — principal, schoolmaster · noun
+- パン — bread · noun
+- 休校（きゅうこう） — temporary closure of school · verbal noun
+- 教会（きょうかい） — church · noun · forgotten 4×
+- 教育（きょういく） — education · verbal noun
+- 育てる（そだてる） — bring up, breed · verb
+- びっくりする — surprised · verb
+- 育つ（そだつ） — be brought up, grow · verb
+- 制度（せいど） — system, organization · noun
+- 強さ（つよさ） — strength, power · noun
+- 取引（とりひき） — transaction, dealings · verbal noun
+- ズボン — trousers, pants · noun
+- 引き出し（ひきだし） — drawer, withdrawal · noun
+- 押さえる（おさえる） — hold down · verb · forgotten 5×
+- 押し入れ（おしいれ） — closet · noun
+- 練習（れんしゅう） — practice, training · verbal noun
+- おもちゃ — toy, plaything · noun
+- 習う（ならう） — learn, practice · verb
+- 慣れる（なれる） — grow accustomed to · verb
+- 習慣（しゅうかん） — custom, habit · none
+- 研究（けんきゅう） — research, study · verbal noun
+- グラム — gram · noun
+- 試験（しけん） — test, examination · verbal noun
+- 問題（もんだい） — problem, question · noun
+- 簡単（かんたん） — simple, easy · adjectival noun
+- 複雑（ふくざつ） — complicated, intricate · adjectival noun
+- コーヒー — coffee · noun
+- 数字（すうじ） — figure, numeral · noun
+- 数学（すうがく） — mathematics · noun
+- 数える（かぞえる） — count, calculate · verb
+- 今回（こんかい） — this time · noun
+- テント — tent · noun
+- 回る（まわる） — turn round, go round, detour · verb
+- 回す（まわす） — turn, rotate · verb
+- 個人（こじん） — individual · noun
+- 担当（たんとう） — person in charge · verbal noun
+- ボート — boat · noun
+- 当たる（あたる） — hit, strike · verb
+- 当時（とうじ） — at that time, at the present time · noun
+- 本当（ほんとう） — truth, reality · noun
+- 当然（とうぜん） — natural, as a matter of course · adjectival noun
+- ボール — ball · noun
+- 全然（ぜんぜん） — wholly, at all · adverb
+- 方法（ほうほう） — method, procedure · noun
+- 法律（ほうりつ） — law · noun
+- 規則（きそく） — rule, regulation · noun
+- オートバイ — motorbike, motorcycle · noun
+- 経験（けいけん） — experience · verbal noun
+- 経つ（たつ） — pass, elapse · verb
+- 経済（けいざい） — economy, economics · noun
+- 経営（けいえい） — management, operation · verbal noun
+- ひどい — cruel, severe · adjective
+- 株（かぶ） — stocks, shares · noun
+- 企業（きぎょう） — corporation, business · noun · forgotten 6×
+- 作業（さぎょう） — work, operation · verbal noun
+- 産業（さんぎょう） — industry · noun
+- あなた — you · noun
+- 工業（こうぎょう） — industry, manufacturing industry · noun
+- 商業（しょうぎょう） — commerce, trade · noun
+- 利用（りよう） — utilization, usage · verbal noun
+- 便利（べんり） — convenience, handiness · adjectival noun
+- スイッチ — switch · noun
+- 技術（ぎじゅつ） — skill, technology · noun · forgotten 3×
+- 手術（しゅじゅつ） — surgical operation · verbal noun
+- 製造（せいぞう） — production, manufacture · verbal noun · forgotten 5×
+- 必ず（かならず） — without fail, certainly · adverb
+- プレゼント — present, gift · verbal noun
+- 必要（ひつよう） — need, necessity · adjectival noun
+- 重要（じゅうよう） — important, essential · adjectival noun
+- 要求（ようきゅう） — requirement, demand · verbal noun · forgotten 3×
+- 目覚まし時計（めざましどけい） — alarm clock · noun
+- いつでも — always, at all times · adverb
+- 計算（けいさん） — calculation · verbal noun
+- 引き算（ひきざん） — subtraction · verbal noun
+- 足し算（たしざん） — addition · verbal noun
+- 交差点（こうさてん） — crossing, intersection · noun
+- テニス — tennis · verbal noun
+- 割る（わる） — divide, crack, split · verb
+- 割れる（われる） — crack, be divided, split · verb
+- 割り算（わりざん） — division · verbal noun
+- 残る（のこる） — remain, be left over · verb
+- こちら — here, this way · noun
+- 残す（のこす） — leave, reserve, leave undone · verb
+- 返す（かえす） — return, repay · verb
+- 返事（へんじ） — answer, reply · verbal noun
+- 借りる（かりる） — borrow · verb
+- ボタン — button · noun
+- 貸す（かす） — lend, lease · verb
+- 貸し出す（かしだす） — lend, lend out · verb
+- 申し込む（もうしこむ） — apply, make a proposal · verb
+- 期待（きたい） — expectation, anticipation · verbal noun · forgotten 3×
+- おかしい — funny, amusing, comical · adjective
+- 期間（きかん） — term, period · noun · forgotten 3×
+- 限る（かぎる） — be limited to · verb
+- 急ぐ（いそぐ） — hurry, hasten · verb
+- コート — court · noun
+- 急に（きゅうに） — suddenly, unexpectedly · adverb
+- 急（きゅう） — urgent, dire, pressing · adjectival noun
+- 急行（きゅうこう） — express train, going in a hurry · noun
+- 切れる（きれる） — run out, expire, can cut · verb
+- ドラマ — drama, theater, soap opera · noun
+- 切手（きって） — postage stamp · noun
+- 売り切れる（うりきれる） — be sold out, go out of stock · verb
+- 売り切れ（うりきれ） — sellout, sold out · noun
+- 大切（たいせつ） — important, valuable · adjectival noun
+- ビザ — visa · noun
+- 切符（きっぷ） — ticket · noun
+- 入場券（にゅうじょうけん） — entrance ticket · noun
+- 家賃（やちん） — rent · noun
+- 時代（じだい） — age, antiquity · noun
+- ポケット — pocket · noun
+- 代わる（かわる） — substitute, be substituted for · verb
+- 代える（かえる） — substitute, use in place of · verb
+- 指（ゆび） — finger, toe · noun
+- 決定（けってい） — decision, settlement · verbal noun · forgotten 3×
+- そろそろ — soon, quietly · adverb · forgotten 5×
+- 一定（いってい） — constant, standard · verbal noun · forgotten 3×
+- 定期券（ていきけん） — commuter's pass · noun
+- 予定（よてい） — schedule, plan · verbal noun
+- 天気予報（てんきよほう） — weather forecast · noun
+- ぶどう — grapes · noun
+- 予習（よしゅう） — preparation, previewing (a lesson) · verbal noun · forgotten 7×
+- 予約（よやく） — reservation, subscription · verbal noun
+- 約束（やくそく） — promise, vow · verbal noun
+- 変わる（かわる） — change · verb
+- めったに — rarely · adverb
+- 大変（たいへん） — awful, serious · adjectival noun
+- 変（へん） — strange, weird, funny · adjectival noun
+- 変化（へんか） — change · verbal noun
+- 強化（きょうか） — strengthening · verbal noun · forgotten 6×
+- クリスマス — Christmas · noun
+- 文化（ぶんか） — culture · noun
+- 増える（ふえる） — increase, accrue · verb
+- 増やす（ふやす） — increase, add · verb
+- 減る（へる） — decrease, diminish · verb
+- ネクタイ — tie, necktie · noun
+- 減らす（へらす） — decrease, reduce · verb
+- 乗り物（のりもの） — vehicle, conveyance · noun
+- 降りる（おりる） — get off, land · verb
+- 降ろす（おろす） — unload, set down · verb
+- バイオリン — violin · noun
+- 降る（ふる） — fall, come down · verb
+- 着く（つく） — arrive, make contact, settle · verb
+- 着物（きもの） — clothes, kimono · noun
+- 下着（したぎ） — underwear · noun
+- パスポート — passport · noun
+- 上着（うわぎ） — coat, jacket · noun
+- 着せる（きせる） — dress, put on clothes · verb
+- 脱ぐ（ぬぐ） — remove clothes, take off · verb
+- 立場（たちば） — standpoint, position · noun
+- バッグ — bag · noun
+- 目立つ（めだつ） — stand out, be conspicuous · verb
+- 立てる（たてる） — stand, set up, establish · verb
+- 役に立つ（やくにたつ） — be useful, be helpful · verb
+- 出席（しゅっせき） — attendance, presence · verbal noun
+- ゴム — elastic · noun
+- 席（せき） — seat, one's place · noun
+- 欠席（けっせき） — absence, nonattendance · verbal noun
+- 次男（じなん） — second son · noun
+- 次女（じじょ） — second daughter · noun
+- ギター — guitar · noun
+- 運ぶ（はこぶ） — carry, transport · verb
+- 運転（うんてん） — drive · verbal noun
+- 運転手（うんてんしゅ） — driver · noun
+- 転ぶ（ころぶ） — tumble down, fall over · verb
+- セーター — sweater, pullover · noun
+- 移る（うつる） — move, shift · verb
+- 移す（うつす） — move, shift, transfer · verb
+- 動き（うごき） — movement, motion · noun
+- 運動（うんどう） — movement, exercise · verbal noun
+- やっぱり — just as I thought, after all · adverb
+- 活動（かつどう） — activity · verbal noun
+- 動物（どうぶつ） — animal · noun
+- 動かす（うごかす） — move, operate · verb
+- 不動産屋（ふどうさんや） — real estate agent, realtor · noun
+- カーテン — curtain · noun
+- 早く（はやく） — early, soon · adverb
+- 早口（はやくち） — fast talking · noun
+- 速さ（はやさ） — speed · noun
+- 速達（そくたつ） — special delivery, express mail · noun
+- シャツ — shirt · noun
+- 遅れる（おくれる） — be late · verb
+- 開始（かいし） — beginning · verbal noun
+- 始めに（はじめに） — in the beginning, early in · adverb
+- 現在（げんざい） — the present, present time · noun · forgotten 3×
+- ナイフ — knife · noun
+- 実現（じつげん） — implementation, realization · verbal noun
+- 実施（じっし） — enforcement, implementation · verbal noun
+- 事実（じじつ） — fact, truth · noun
+- 実行（じっこう） — practice, execution · verbal noun · forgotten 17×
+- バイク — motorbike, motor cycle · noun
+- 実験（じっけん） — experiment · verbal noun
+- 通過（つうか） — passing, passage · verbal noun · forgotten 5×
+- 過ぎる（すぎる） — pass by, exceed · verb
+- 昼過ぎ（ひるすぎ） — early afternoon · noun
+- いつか — some time, some day · adverb
+- 過去（かこ） — the past · noun
+- 開発（かいはつ） — development · verbal noun
+- 発生（はっせい） — occurrence, happening · verbal noun · forgotten 7×
+- 発言（はつげん） — utterance, speech · verbal noun
+- オレンジ — orange · noun
+- 発見（はっけん） — discovery, revelation · verbal noun
+- 出発（しゅっぱつ） — departure, starting · verbal noun
+- 発車（はっしゃ） — start, leave · verbal noun
+- 発表（はっぴょう） — announcement · verbal noun
+- きつい — tight, difficult · adjective
+- 表現（ひょうげん） — expression · verbal noun · forgotten 5×
+- 代表（だいひょう） — representative · verbal noun
+- 表（おもて） — front side, face, outside · noun
+- 表（ひょう） — table, list · noun
+- さっき — some time ago, only a moment ago · adverb
+- 手紙（てがみ） — letter · noun
+- 絵（え） — picture, painting, drawing · noun
+- 雑誌（ざっし） — magazine, journal · noun
+- 音（おと） — sound, noise · noun
+- テキスト — text, text file · noun
+- 音（おと） — sound, speech sound, Chinese pronunciation of a character · noun
+- 音楽（おんがく） — music · noun
+- 薬（くすり） — drug, remedy, chemical · noun
+- 歌（うた） — song · noun
+- ビニール — plastic bag · noun
+- 歌手（かしゅ） — singer · noun
+- 欲しがる（ほしがる） — desire, wish for, covet · verb
+- 計画（けいかく） — plan, project · verbal noun · forgotten 4×
+- 映画（えいが） — movie · noun
+- りんご — apple · noun
+- 面白い（おもしろい） — interesting, amusing · adjective
+- 写る（うつる） — be taken, be seen through · verb
+- 写す（うつす） — copy, photograph · verb
+- 写真（しゃしん） — photograph · noun
+- アルバム — album · noun
+- 真っ赤（まっか） — deep red · adjectival noun
+- 真面目（まじめ） — serious, sober, earnest · adjectival noun
+- 真ん中（まんなか） — center, middle · noun
+- 真っ白（まっしろ） — pure-white · adjectival noun
+- スカート — skirt · noun
+- 真っ暗（まっくら） — pitch-dark · adjectival noun
+- 真っ黒（まっくろ） — deep-black, jet-black · adjectival noun
+- 真っ青（まっさお） — deep-blue, pale (skin) · adjectival noun
+- 色々（いろいろ） — in various ways · adjectival noun
+- ペン — pen · noun
+- 人形（にんぎょう） — doll · noun
+- 形（かたち） — shape, form · noun
+- 大型（おおがた） — large, large scale · noun
+- 種類（しゅるい） — kind, species · noun
+- おしゃべり — chatter, talkative · verbal noun
+- 直す（なおす） — repair, cure, alter · verb
+- 真っ直ぐ（まっすぐ） — dead straight, honestly · adverb
+- 直接（ちょくせつ） — directly · adverb
+- 角（かど） — corner, edge, angle · noun
+- きっと — surely, certainly · adverb · forgotten 3×
+- 三角（さんかく） — triangle · noun
+- 四角（しかく） — square, quadrilateral · adjectival noun
+- 四角い（しかくい） — square, four-sided · adjective
+- 四つ角（よつかど） — street corner, intersection · noun
+- メニュー — menu, bill of fare · noun
+- 曲（きょく） — song, melody, tune · noun
+- 曲げる（まげる） — bend, curve · verb
+- 曲がり角（まがりかど） — corner · noun
+- 同様（どうよう） — similar · adjectival noun
+- アイスクリーム — ice cream · noun
+- 間違い（まちがい） — mistake, error · noun
+- 間違える（まちがえる） — mistake, confuse · verb
+- 間違う（まちがう） — be mistaken, be incorrect · verb
+- 似ている（にている） — look like, resemble · verb
+- おしゃれ — dressing up smartly, trendy · verbal noun
+- 以上（いじょう） — not less than, more than · noun
+- 旅行（りょこう） — travel, trip · verbal noun
+- 大使館（たいしかん） — embassy · noun
+- 旅館（りょかん） — Japanese inn · noun
+- ジュース — juice, soft drink · noun
+- 映画館（えいがかん） — movie theater · noun
+- 宿題（しゅくだい） — homework · noun
+- 泊める（とめる） — lodge, give shelter · verb
+- 遊び（あそび） — play, amusement · noun
+- ゼロ — zero · noun
+- 洋服（ようふく） — clothes · noun
+- 教室（きょうしつ） — classroom, class · noun
+- 図書室（としょしつ） — library · noun
+- 窓（まど） — window, windowpane · noun
+- ピンク — pink · noun
+- 親しい（したしい） — intimate, familiar · adjective
+- 親切（しんせつ） — kind, friendly · adjectival noun
+- 不親切（ふしんせつ） — unkind, inattentive · adjectival noun
+- 家族（かぞく） — family, household · noun
+- グラス — glass · noun
+- 万歳（ばんざい） — Banzai! Hurrah! Long live...! · verbal noun
+- 二十歳（はたち） — 20 years old · noun · forgotten 3×
+- 姉さん（ねえさん） — older sister, girl, miss · noun
+- 兄さん（にいさん） — older brother · noun
+- ダンス — dance, dancing · verbal noun
+- 兄弟（きょうだい） — sibling · noun
+- 若者（わかもの） — young person, youth · noun
+- 彼ら（かれら） — they · noun
+- おじ — uncle · noun
+- 結合（けつごう） — combination, joining · verbal noun · forgotten 4×
+- 結果（けっか） — result, outcome · noun
+- 果物（くだもの） — fruit · noun
+- 課題（かだい） — task, problem · noun
+- サッカー — soccer, football · noun
+- 課（か） — section, division, lesson · noun
+- 効果（こうか） — effect, result · noun
+- 自動車（じどうしゃ） — automobile · noun
+- 自然（しぜん） — nature · noun
+- スープ — soup, broth · noun
+- 自然（しぜん） — natural, naturally · adjectival noun
+- 自習（じしゅう） — self-study, self-teaching · verbal noun · forgotten 9×
+- 理由（りゆう） — reason, cause · noun
+- 自由（じゆう） — freedom · adjectival noun
+- バナナ — banana · noun
+- 信じる（しんじる） — believe, trust, have faith in · verb
+- 信号（しんごう） — signal, traffic light · noun
+- 頼む（たのむ） — ask, request · verb
+- 市民（しみん） — citizens, townsmen · noun
+- うるさい — noisy, annoying, pesky · adjective
+- 住民（じゅうみん） — residents, dwellers · noun
+- 主人（しゅじん） — master, husband · noun
+- 議員（ぎいん） — legislator · noun
+- 会議（かいぎ） — conference, meeting · verbal noun
+- パトカー — police car, patrol car · noun
+- 対する（たいする） — face, be in response to · verb
+- 対立（たいりつ） — opposition, antagonism · verbal noun
+- 反対（はんたい） — oppose, object · verbal noun
+- 答え（こたえ） — answer, solution · noun
+- ハンバーガー — hamburger · noun
+- 特に（とくに） — specially, particularly · adverb
+- 特急（とっきゅう） — super-express · noun
+- 特別（とくべつ） — special, extraordinary · adjectival noun
+- 別々（べつべつ） — separately · adjectival noun
+- エスカレーター — escalator · noun
+- 別れる（わかれる） — separate, part from · verb
+- 一般（いっぱん） — general, common · noun
+- 目的（もくてき） — object, purpose · noun
+- 普通（ふつう） — normal, regular · adjectival noun
+- タオル — towel · noun
+- 並ぶ（ならぶ） — line up, be parallel · verb
+- 並べる（ならべる） — line up, display, set up · verb
+- 平和（へいわ） — peace, harmony · adjectival noun
+- 高等学校（こうとうがっこう） — senior high school · noun
+- パチンコ — pachinko (vertical pinball) · noun
+- 病院（びょういん） — hospital · noun
+- 入院（にゅういん） — be hospitalized · verbal noun
+- 大学院（だいがくいん） — graduate school · noun
+- 医者（いしゃ） — doctor · noun
+- みかん — tangerine, mandarin orange · noun
+- お医者さん（おいしゃさん） — doctor · noun
+- 歯医者（はいしゃ） — dentist · noun
+- 歯（は） — tooth, cog · noun
+- 歯ブラシ（はぶらし） — toothbrush · noun
+- ケーキ — cake · noun
+- 科学（かがく） — science · noun
+- 教科書（きょうかしょ） — textbook, schoolbook · noun
+- 理科（りか） — science · noun
+- 亡くなる（なくなる） — die, pass away · verb
+- コップ — cup, glass · noun
+- 忙しい（いそがしい） — busy, occupied · adjective
+- 疲れる（つかれる） — get tired, become fatigued · verb
+- 禁煙（きんえん） — no smoking, giving up smoking · verbal noun
+- 酔っ払い（よっぱらい） — drunkard, boozer · noun
+- ナイロン — nylon · noun
+- 酔っ払う（よっぱらう） — get drunk · verb
+- 危ない（あぶない） — dangerous, uncertain · adjective
+- 危険（きけん） — danger, dangerous · adjectival noun
+- 存在（そんざい） — existence, being · verbal noun · forgotten 3×
+- スーツ — suit · noun
+- 注目（ちゅうもく） — attention, notice · verbal noun
+- 注文（ちゅうもん） — order, request · verbal noun
+- 意味（いみ） — meaning, significance · noun
+- 意見（いけん） — opinion · noun
+- チケット — ticket · noun
+- 注意（ちゅうい） — attention, care, watch out · verbal noun
+- 用意（ようい） — prepare, ready oneself · verbal noun · forgotten 6×
+- 確認（かくにん） — confirmation · verbal noun
+- チョコレート — chocolate · noun
+- 機能（きのう） — function, feature · verbal noun
+- ジェット機（ジェットき） — jet airplane · noun
+- 機械（きかい） — machine · noun · forgotten 5×
+- 材料（ざいりょう） — material, factor · noun
+- チャンネル — channel · noun
+- 具体的（ぐたいてき） — concrete, specific · adjectival noun
+- 基づく（もとづく） — be based on · verb
+- 基本（きほん） — basis, foundation · noun · forgotten 5×
+- 基準（きじゅん） — standard, criterion · noun
+- つまらない — boring, dull · adjective
+- 備える（そなえる） — provide for, furnish · verb
+- 準備（じゅんび） — provide for, prepare for · verbal noun
+- 設計（せっけい） — design, plan · verbal noun · forgotten 7×
+- 施設（しせつ） — facilities, institution · noun · forgotten 5×
+- マッチ — match, matchbox · noun
+- 設ける（もうける） — set up, establish · verb · forgotten 3×
+- 説明（せつめい） — explanation, description · verbal noun
+- 小説（しょうせつ） — novel, story · noun
+- 公開（こうかい） — opening (to the public) · verbal noun · forgotten 7×
+- いとこ — cousin · noun
+- 公園（こうえん） — park, public garden · noun
+- 動物園（どうぶつえん） — zoo · noun
+- 祭り（まつり） — festival · noun
+- 国際（こくさい） — international · noun
+- ストーブ — paraffin heater, stove · noun
+- 実際（じっさい） — truth, actual state · adverb · forgotten 8×
+- 飛行場（ひこうじょう） — airport, airfield · noun
+- 航空便（こうくうびん） — airmail · noun
+- 船便（ふなびん） — surface mail, shipping service · noun
+- ガソリンスタンド — gas station · noun
+- 船（ふね） — ship, boat, vessel · noun
+- 空港（くうこう） — airport · noun
+- 港（みなと） — port, harbor · noun
+- 島（しま） — island, isle · noun
+- デート — date · verbal noun
+- 完成（かんせい） — completion, finish · verbal noun · forgotten 10×
+- 平成（へいせい） — Heisei era · noun
+- 成功（せいこう） — success · verbal noun · forgotten 9×
+- 原因（げんいん） — cause, origin · noun
+- ふすま — sliding door, fusuma · noun
+- 資金（しきん） — funds, capital · noun
+- 投資（とうし） — investment · verbal noun
+- 願う（ねがう） — wish, ask a favor, apply for · verb
+- 正確（せいかく） — accurate, precise · adjectival noun · forgotten 7×
+- レモン — lemon · noun
+- 正しい（ただしい） — correct, righteous, lawful · adjective
+- 正月（しょうがつ） — New Year · noun
+- 正直（しょうじき） — honest, upright · adjectival noun · forgotten 4×
+- 異なる（ことなる） — differ · verb
+- チーズ — cheese · noun
+- 通常（つうじょう） — common, ordinary · noun
+- 非常に（ひじょうに） — very, extremely · adverb
+- 調べる（しらべる） — investigate, check · verb
+- 強調（きょうちょう） — emphasis, stress · verbal noun
+- ドライブ — drive · verbal noun
+- 季節（きせつ） — season · noun
+- 調査（ちょうさ） — investigation, inquiry · verbal noun
+- 提供（ていきょう） — offer, provide · verbal noun · forgotten 6×
+- 提案（ていあん） — proposition, proposal · verbal noun · forgotten 4×
+- ラケット — racket · noun
+- 案内（あんない） — guide, inform · verbal noun
+- 示す（しめす） — show, indicate · verb
+- 連れて行く（つれていく） — take (a person) along · verb
+- 連れて来る（つれてくる） — bring (a person) · verb
+- スチュワーデス — flight attendant · noun
+- 続ける（つづける） — continue, keep up · verb
+- 相手（あいて） — opponent · noun
+- 会談（かいだん） — conversation, meeting · verbal noun
+- 相談（そうだん） — consultation, advice · verbal noun
+- テープレコーダー — tape recorder, cassette recorder · noun
+- 記者（きしゃ） — journalist, reporter · noun
+- 記録（きろく） — record, documentation · verbal noun
+- 録音（ろくおん） — sound recording · verbal noun
+- 登る（のぼる） — climb, mount, go up · verb
+- ひげ — moustache, beard · noun
+- 関する（かんする） — concern, relate to · verb
+- 関連（かんれん） — connection, relation · verbal noun
+- 関係（かんけい） — relation, relationship · verbal noun
+- 状況（じょうきょう） — state of affairs, conditions · noun
+- ぐっすり — soundly · adverb
+- 状態（じょうたい） — state, appearance · noun
+- 治る（なおる） — be cured, get well · verb
+- 政治（せいじ） — politics · noun
+- 治す（なおす） — cure, heal · verb
+- ソース — sauce, Worcestershire sauce · noun
+- 政府（せいふ） — government, administration · noun
+- 党（とう） — political party · noun
+- 対策（たいさく） — measure, action · noun
+- 政策（せいさく） — policy, political measures · noun · forgotten 4×
+- タイプライター — typewriter · noun
+- 選ぶ（えらぶ） — choose, elect · verb
+- 選手（せんしゅ） — representative athlete · noun
+- 選挙（せんきょ） — election · verbal noun
+- 候補（こうほ） — candidacy, candidate · noun · forgotten 9×
+- トマト — tomato · noun
+- 首相（しゅしょう） — prime minister · noun · forgotten 3×
+- 首都（しゅと） — capital · noun
+- 改革（かいかく） — reform · verbal noun · forgotten 3×
+- 革（かわ） — leather · noun
+- バター — butter · noun
+- 命令（めいれい） — command, order · verbal noun
+- 番組（ばんぐみ） — program · noun
+- 組み立てる（くみたてる） — build, set up, construct · verb
+- 組織（そしき） — organization, constitution, tissue · verbal noun
+- バレーボール — volleyball · noun
+- 進める（すすめる） — advance, promote · verb
+- 進む（すすむ） — advance, move forward · verb
+- 進学（しんがく） — entering a school of higher grade · verbal noun
+- 拡大（かくだい） — magnification, enlargement · verbal noun
+- おかず — side dish · noun
+- 責任（せきにん） — responsibility, liability · noun
+- 辞める（やめる） — resign, retire · verb
+- 辞書（じしょ） — dictionary · noun
+- 通勤（つうきん） — commuting, commutation · verbal noun · forgotten 4×
+- カレンダー — calendar · noun
+- 勤める（つとめる） — serve, hold a job · verb
+- 事務所（じむしょ） — office, one's place of business · noun
+- 事務室（じむしつ） — office · noun
+- 従来（じゅうらい） — former, old · noun
+- ハンドバッグ — handbag · noun
+- 成績（せいせき） — results, record · noun · forgotten 4×
+- 集める（あつめる） — collect, gather · verb
+- 集まる（あつまる） — gather, be collected · verb
+- 採用（さいよう） — employment · verbal noun · forgotten 5×
+- ベル — bell · noun
+- 給料（きゅうりょう） — salary, pay · noun
+- 卒業（そつぎょう） — graduation · verbal noun
+- 就職（しゅうしょく） — finding employment · verbal noun
+- 退院（たいいん） — discharge from a hospital · verbal noun
+- インク — ink · noun
+- 契約（けいやく） — contract, agreement · verbal noun
+- 交渉（こうしょう） — negotiation, bargaining · verbal noun · forgotten 10×
+- 事件（じけん） — affair, case · noun · forgotten 3×
+- 条件（じょうけん） — condition, item · noun
+- クーラー — air conditioning, cooler · noun
+- 参加（さんか） — participation · verbal noun
+- 増加（ぞうか） — increase, gain · verbal noun
+- 加える（くわえる） — add, include · verb
+- 加工（かこう） — processing, manufacturing · verbal noun · forgotten 6×
+- ミルク — milk, baby milk · noun
+- 比べる（くらべる） — compare, contrast · verb
+- 批判（ひはん） — criticism, comment · verbal noun
+- 評価（ひょうか） — evaluation, appraisal · verbal noun · forgotten 3×
+- 対象（たいしょう） — target, object · noun · forgotten 3×
+- サラダ — salad · noun
+- 故障（こしょう） — malfunction, fault, breakdown · verbal noun · forgotten 6×
+- 乗り換える（のりかえる） — change, transfer · verb
+- 乗り換え（のりかえ） — change, transfer · verbal noun
+- おじさん — uncle · noun
+- 換える（かえる） — exchange, convert · verb
+- 着替える（きがえる） — change clothes · verb
+- 被る（かぶる） — wear, put on · verb
+- 破る（やぶる） — tear, break through, breach · verb
+- ベルト — belt · noun
+- 破れる（やぶれる） — tear, rip open · verb
+- 壊す（こわす） — break, destroy, smash · verb
+- 壊れる（こわれる） — break, break down, get out of order · verb
+- 救急車（きゅうきゅうしゃ） — ambulance · noun
+- ラーメン — ramen (Chinese noodles) · noun
+- 助ける（たすける） — help, save · verb
+- 立派（りっぱ） — fine, excellent · adjectival noun
+- 警察（けいさつ） — police · noun
+- 管理（かんり） — management, administration · verbal noun
+- ライター — lighter · noun
+- 盗む（ぬすむ） — steal, rob · verb
+- 殺す（ころす） — kill, smother · verb
+- 逮捕（たいほ） — arrest, capture · verbal noun
+- 逃げる（にげる） — escape, run away · verb
+- ワイシャツ — (business) shirt, (white) shirt · noun
+- 戦争（せんそう） — war, battle · verbal noun
+- 競争（きょうそう） — competition · verbal noun · forgotten 4×
+- 混む・込む（こむ・こむ） — be crowded, be congested · verb
+- 大統領（だいとうりょう） — president (of a country) · noun
+- シャワー — shower · noun
+- 捨てる（すてる） — discard, abandon · verb
+- 拾う（ひろう） — pick up, find · verb
+- 池（いけ） — pond · noun
+- 電池（でんち） — electric cell, battery · noun
+- うどん — noodles, Japanese wheat noodles · noun
+- 深い（ふかい） — deep, profound, intimate · adjective
+- 深さ（ふかさ） — depth, profundity · noun
+- 浅い（あさい） — shallow, superficial · adjective
+- ごみ — rubbish, trash · noun
+- 泳ぐ（およぐ） — swim · verb
+- 水泳（すいえい） — swimming · verbal noun
+- 流れる（ながれる） — flow, pass, drift away · verb
+- 流行る（はやる） — be in fashion, be popular · verb
+- スーパーマーケット — supermarket · noun
+- 洗う（あらう） — wash · verb
+- 洗面所（せんめんじょ） — washroom, bathroom · noun
+- 油（あぶら） — oil, animal oil · noun
+- 沈む（しずむ） — sink, set · verb
+- ハンカチ — handkerchief · noun
+- 久しぶり（ひさしぶり） — after a long time · adjectival noun
+- 氷（こおり） — ice · noun
+- 冷える（ひえる） — cool down, feel chilly · verb
+- 冷やす（ひやす） — cool, chill · verb
+- ビデオテープ — videotape · noun
+- 冷める（さめる） — cool off, subside · verb
+- 凍る（こおる） — freeze, congeal · verb
+- 冷蔵庫（れいぞうこ） — refrigerator · noun
+- 涼しい（すずしい） — cool, refreshing · adjective
+- 汚す（よごす） — make dirty, soil · verb
+- 汚れ（よごれ） — dirt, filth · noun
+- 汚れる（よごれる） — become dirty, become defiled · verb
+- 景色（けしき） — scenery, landscape · noun
+- アナウンサー — news reader, announcer · noun
+- 影響（えいきょう） — influence, effect · verbal noun
+- 光る（ひかる） — shine, emit light · verb
+- 太る（ふとる） — grow fat, fatten · verb
+- 太陽（たいよう） — sun · noun
+- スプーン — spoon · noun
+- 星（ほし） — star, planet, spot · noun
+- 地球（ちきゅう） — the Earth · noun
+- 野球（やきゅう） — baseball · noun
+- 雲（くも） — cloud · noun
+- ブラウス — blouse · noun
+- 曇り（くもり） — cloudiness, cloudy weather · noun
+- 地震（じしん） — earthquake · noun
+- 震える（ふるえる） — tremble, quiver, shake · verb
+- 振る（ふる） — wave, shake, brandish · verb
+- リボン — ribbon · noun
+- 揺れる（ゆれる） — shake, sway, rock · verb
+- 神社（じんじゃ） — Shinto shrine · noun
+- 秘密（ひみつ） — secret, privacy · adjectival noun
+- 厳しい（きびしい） — strict, severe, intense · adjective
+- いかが — how, what · adverb
+- 年寄り（としより） — old person, older councilor · noun
+- 歴史（れきし） — history · noun
+- 世紀（せいき） — century · noun
+- 建設（けんせつ） — construction, building · verbal noun · forgotten 3×
+- ステレオ — stereo · noun
+- 建物（たてもの） — building, structure · noun
+- 建つ（たつ） — be built, be erected · verb
+- 構成（こうせい） — organization · verbal noun · forgotten 4×
+- 構造（こうぞう） — construction, structure · noun · forgotten 3×
+- フォーク — fork · noun
+- 橋（はし） — bridge · noun
+- 柱（はしら） — pillar, prop · noun
+- 位置（いち） — position, place · verbal noun
+- 離婚（りこん） — divorce · verbal noun
+- おば — aunt · noun
+- 停車（ていしゃ） — stoppage · verbal noun
+- バス停（ばすてい） — bus stop · noun
+- 周辺（しゅうへん） — environs, circumference · noun
+- 隣（となり） — neighboring house, next seat · noun
+- きらきら — shining, sparkling · adverb
+- 黄色（きいろ） — yellow · noun
+- 横（よこ） — side, width across · noun
+- 横書き（よこがき） — horizontal writing · noun
+- 判断（はんだん） — judgment, decision · verbal noun
+- どうぞ — please · adverb
+- 断る（ことわる） — refuse, turn down · verb
+- 横断歩道（おうだんほどう） — pedestrian crossing, crosswalk · noun
+- 大幅（おおはば） — drastically, substantially · adverb
+- 訪れる（おとずれる） — visit, call on · verb · forgotten 3×
+- ネックレス — necklace · noun
+- 訪ねる（たずねる） — visit, call on · verb
+- 冷房（れいぼう） — air conditioning · verbal noun
+- 暖房（だんぼう） — heating · verbal noun
+- 文房具（ぶんぼうぐ） — stationery, writing materials · noun
+- パジャマ — pajamas · noun
+- 諸国（しょこく） — various countries · noun
+- 緑色（みどりいろ） — green · noun
+- 貿易（ぼうえき） — trade, commerce · verbal noun
+- 輸入（ゆにゅう） — import · verbal noun
+- ボールペン — ballpoint pen · noun
+- 輸出（ゆしゅつ） — export · verbal noun · forgotten 3×
+- 指輪（ゆびわ） — ring · noun
+- 往復（おうふく） — going and returning, round trip · noun
+- 復習（ふくしゅう） — review · verbal noun
+- すいか — watermelon · noun
+- 繰り返す（くりかえす） — repeat · verb
+- 留学（りゅうがく） — studying abroad · verbal noun
+- 停留所（ていりゅうじょ） — stop, station · noun
+- 書留（かきとめ） — registered mail · noun
+- そちら — there, that way · noun
+- 守る（まもる） — protect, observe · verb
+- 留守（るす） — not at home · noun
+- 住宅（じゅうたく） — housing, residence · noun
+- 自宅（じたく） — one's house, one's home · noun
+- そば — buckwheat noodles, soba · noun
+- お宅（おたく） — your home, you, fan, geek · noun
+- 早起き（はやおき） — early rising · verbal noun
+- 昼寝（ひるね） — siesta, nap · verbal noun
+- 静か（しずか） — quiet, tranquil · adjectival noun
+- どっち — which · noun
+- 暇（ひま） — free time, spare time · noun
+- 趣味（しゅみ） — hobby, interest · noun
+- 両方（りょうほう） — both · noun
+- 両替（りょうがえ） — money changing, exchange of money · verbal noun
+- バスケットボール — basketball · noun
+- 両親（りょうしん） — parents · noun
+- 片道（かたみち） — one way · noun
+- 内側（うちがわ） — inside, interior · noun
+- 向こう側（むこうがわ） — other side · noun
+- サンドイッチ — sandwich · noun
+- 外側（そとがわ） — exterior, outside · noun
+- 左側（ひだりがわ） — left side · noun
+- 右側（みぎがわ） — right side · noun
+- 裏（うら） — rear, reverse, inside · noun
+- にこにこ — smile · adverb
+- 裏返す（うらがえす） — turn over, turn inside out · verb
+- 週刊誌（しゅうかんし） — weekly magazine · noun
+- 朝刊（ちょうかん） — morning edition · noun
+- 夕刊（ゆうかん） — evening edition · noun
+- ウール — wool · noun
+- 詳しい（くわしい） — detailed, complete · adjective
+- 細かい（こまかい） — minute, elaborate · adjective
+- 細か（こまか） — minute, elaborate · adjectival noun
+- 積もる（つもる） — accumulate, get accumulated · verb
+- コーラ — cola, coke · noun
+- 訳（やく） — translation, rendering · noun
+- 訳す（やくす） — translate · verb
+- 検討（けんとう） — consideration, inspection · verbal noun · forgotten 3×
+- 塗る（ぬる） — spread on, paint · verb
+- トイレットペーパー — toilet paper · noun
+- 付く（つく） — attach itself to, be connected with, come in contact with · verb
+- 付ける（つける） — attach, set, apply · verb
+- 受け付ける（うけつける） — receive, accept · verb
+- 片付ける（かたづける） — put in order, dispose of, do away with · verb
+- どなた — who · noun
+- 受付（うけつけ） — receptionist, information office · noun
+- 近付く（ちかづく） — approach, get acquainted · verb
+- 片付く（かたづく） — be put in order, be settled · verb
+- 気を付ける（きをつける） — take care of, pay attention to · verb
+- ハイキング — hiking · verbal noun
+- 貼る（はる） — stick, paste · verb · forgotten 3×
+- 記念日（きねんび） — memorial day, anniversary · noun
+- 残念（ざんねん） — regretful, disappointing · adjectival noun
+- 例えば（たとえば） — for example · adverb
+- ハム — ham · noun
+- 例文（れいぶん） — illustrative sentence, example · noun
+- 例（れい） — example, precedent · noun
+- 余る（あまる） — remain over, be in excess · verb
+- 除く（のぞく） — rid of, exclude · verb
+- ボーイフレンド — boyfriend · noun
+- 削る（けずる） — grind down, trim, scale back · verb
+- 遅刻（ちこく） — tardiness, lateness · verbal noun
+- 緩い（ゆるい） — slack, loose · adjective
+- 苦しい（くるしい） — painful, difficult · adjective
+- アイロン — iron · noun
+- 苦い（にがい） — bitter, sour · adjective
+- 苦手（にがて） — person that is hard to deal with, weak point · adjectival noun
+- 困る（こまる） — be at a loss, in a jam, in trouble · verb
+- 貧乏（びんぼう） — poverty, destitution · adjectival noun
+- カレーライス — curried rice · noun
+- 不幸（ふこう） — unhappiness, misfortune, bereavement · adjectival noun
+- 幸せ（しあわせ） — happiness, good fortune · adjectival noun
+- 塩（しお） — salt · noun
+- 塩辛い（しおからい） — salty · adjective
+- キャッシュカード — cash card · noun
+- 砂糖（さとう） — sugar · noun
+- 規模（きぼ） — scale, scope · noun
+- 農業（のうぎょう） — agriculture · noun
+- 濃い（こい） — thick, concentrated, dark-colored · adjective
+- イヤリング — earrings · noun
+- 薄い（うすい） — thin, weak, pale · adjective
+- 厚い（あつい） — thick, bulky · adjective
+- 厚さ（あつさ） — thickness · noun
+- 迫る（せまる） — press, close in on, be imminent · verb
+- ガールフレンド — girlfriend · noun
+- 伸びる（のびる） — stretch, grow · verb
+- 引っ越す（ひっこす） — move, change quarters · verb
+- 越える（こえる） — go over, go across, go beyond · verb
+- 引っ越し（ひっこし） — moving · verbal noun
+- カセットテープ — cassette tape · noun
+- 追い越す（おいこす） — outrun, overtake · verb
+- 上昇（じょうしょう） — ascension, rising · verbal noun · forgotten 8×
+- 改札口（かいさつぐち） — ticket barrier, wicket · noun
+- 失礼（しつれい） — impoliteness, bad manners, I beg your parden/Goodbye · verbal noun
+- かゆい — itchy · adjective
+- お礼（おれい） — thanks, reward, return present · verbal noun
+- 謝る（あやまる） — apologize · verb
+- 注射（ちゅうしゃ） — injection, shot · verbal noun
+- 程度（ていど） — degree, extent · noun
+- ぐらぐら — wobble · adverb · forgotten 5×
+- 誘う（さそう） — invite, ask out · verb · forgotten 3×
+- 導入（どうにゅう） — introduction · verbal noun
+- 努力（どりょく） — endeavor, effort · verbal noun
+- 怒る（おこる） — get angry, scold · verb
+- ジャム — jam · noun
+- 独身（どくしん） — single life, celibacy · noun
+- 占める（しめる） — occupy, hold · verb
+- 処理（しょり） — management, process · verbal noun
+- 紹介（しょうかい） — introduction, presentation · verbal noun
+- スリッパ — slippers · noun
+- 招く（まねく） — invite, beckon, engage · verb
+- 招待（しょうたい） — invitation · verbal noun
+- 夫婦（ふうふ） — husband and wife, married couple · noun
+- 奥（おく） — inner part, the back, inner chamber · noun
+- トランプ — (a pack of) cards, (playing) cards · verbal noun
+- 奥さん（おくさん） — married lady, your wife · noun
+- 皆さん（みなさん） — everybody, ladies and gentlemen · noun
+- 皆様（みなさま） — everyone, ladies and gentlemen · noun
+- 誰か（だれか） — someone · noun
+- よろしい — all right · adjective
+- 国籍（こくせき） — nationality, citizenship · noun · forgotten 3×
+- 愛（あい） — love · verbal noun
+- 可愛い（かわいい） — cute, charming, sweet · adjective
+- 恋人（こいびと） — lover, sweetheart · noun
+- ラッシュアワー — rush hour · noun
+- 誕生日（たんじょうび） — birthday · noun
+- 祝日（しゅくじつ） — holiday, festival day · noun · forgotten 4×
+- お祝い（おいわい） — celebrate · verbal noun
+- 夢（ゆめ） — dream · noun
+- カップ — cup · noun
+- 泣く（なく） — cry, weep · verb
+- 涙（なみだ） — tear · noun
+- 喜ぶ（よろこぶ） — be happy, be delighted · verb
+- 恥ずかしい（はずかしい） — shy, ashamed, disgraceful · adjective
+- スケート — skate, skates · noun
+- 弁当（べんとう） — box lunch, picnic lunch · noun
+- 看護婦（かんごふ） — female nurse · noun
+- 患者（かんじゃ） — patient · noun
+- 述べる（のべる） — state orally, expound, mention · verb
+- たくさん — in large quantity, plenty · adverb
+- 訴える（うったえる） — sue · verb
+- 迷う（まよう） — be perplexed, hesitate, get lost · verb
+- 迷惑（めいわく） — trouble, annoyance · verbal noun
+- 地域（ちいき） — region, area · noun
+- ピクニック — picnic · noun
+- 政権（せいけん） — political power · noun · forgotten 7×
+- 贈る（おくる） — offer, give · verb
+- 贈り物（おくりもの） — present, gift · noun
+- 与える（あたえる） — give · verb · forgotten 8×
+- あちら — way over there · noun
+- 貯金（ちょきん） — savings, deposit · verbal noun
+- 預ける（あずける） — deposit, entrust · verb
+- 預かる（あずかる） — receive on deposit, take charge of · verb
+- 得意（とくい） — one's forte, pride, customer · adjectival noun
+- どきどき — feel excited, feel nervous · adverb
+- 燃える（もえる） — burn, undergo combustion · verb
+- 焼ける（やける） — burn, be scorched, be baked · verb
+- すき焼き（すきやき） — sukiyaki · noun
+- 焼く（やく） — burn, bake, be envious · verb
+- まあまあ — OK, not bad, average · adjective
+- 乾く（かわく） — dry, run dry · verb
+- 乾杯（かんぱい） — a toast · verbal noun
+- 乾かす（かわかす） — dry · verb
+- 新幹線（しんかんせん） — Shinkansen, Bullet Train · noun
+- マフラー — scarf, muffler · noun
+- 素晴らしい（すばらしい） — splendid, excellent · adjective
+- 海岸（かいがん） — seashore, coast · noun
+- 家庭（かてい） — home, family · noun
+- 庭（にわ） — garden, court · noun
+- アクセサリー — accessories, jewelry · noun
+- 桜（さくら） — cherry tree, cherry blossom · noun
+- 咲く（さく） — bloom, blossom · verb
+- 吹く（ふく） — blow, play on a wind instrument · verb
+- 散歩（さんぽ） — walk, stroll · verbal noun
+- あくび — yawn · verbal noun
+- 植える（うえる） — plant, raise · verb
+- 屋根（やね） — roof · noun
+- 黒板（こくばん） — blackboard · noun
+- 掲示板（けいじばん） — notice board, bulletin board · noun
+- からから — thirsty, dry · adjective · forgotten 5×
+- 草（くさ） — grass, weed · noun
+- 葉（は） — leaf, needle · noun
+- 絵葉書（えはがき） — picture postcard · noun
+- 葉書（はがき） — postcard · noun
+- ふらふら — weak · adverb
+- 吸う（すう） — inhale, suck · verb
+- 普及（ふきゅう） — diffusion, spread · verbal noun · forgotten 3×
+- 胃（い） — stomach · noun
+- 皿（さら） — plate, counter for plates or helpings · noun
+- こぼす — spill · verb
+- 血（ち） — blood · noun
+- 内容（ないよう） — contents · noun
+- 背景（はいけい） — background, scenery, setting · noun
+- 骨（ほね） — bone, frame, spirit · noun
+- ランチ — lunch · noun
+- 滑る（すべる） — slide, slip, flunk an examination · verb
+- 折れる（おれる） — snap, be folded, give in · verb
+- 折る（おる） — break off, fold, bend · verb
+- 健康（けんこう） — healthy · adjectival noun
+- レシート — receipt · noun
+- 珍しい（めずらしい） — rare, precious · adjective
+- 撮る（とる） — photograph, shoot, film · verb
+- 再び（ふたたび） — again, a second time · adverb
+- 再来年（さらいねん） — the year after next · noun
+- チョーク — chalk · noun
+- 再来月（さらいげつ） — the month after next · noun
+- 再来週（さらいしゅう） — the week after next · noun
+- 放送（ほうそう） — broadcasting · verbal noun
+- 装置（そうち） — equipment, device · noun
+- ティッシュ — tissue · noun
+- 仮名（かな） — kana, Japanese syllabary · noun
+- 送り仮名（おくりがな） — kana suffix · noun
+- 鏡（かがみ） — mirror · noun
+- 悲しむ（かなしむ） — feel sad, lament · verb
+- ノック — knock · verbal noun
+- 固い（かたい） — stiff, tight · adjective
+- 美術館（びじゅつかん） — art museum · noun
+- 美人（びじん） — beautiful woman · noun
+- 美容院（びよういん） — beauty shop · noun
+- よろしく — properly, one's regards · adverb
+- 博物館（はくぶつかん） — museum · noun
+- 開催（かいさい） — holding (of an event), opening · verbal noun
+- 特徴（とくちょう） — distinctive feature, characteristic · noun
+- 許す（ゆるす） — permit, license, forgive · verb
+- がらがら — empty · adjective · forgotten 3×
+- 免許証（めんきょしょう） — license · noun
+- 教師（きょうし） — teacher, instructor · noun
+- 教授（きょうじゅ） — professor · noun · forgotten 3×
+- 伝える（つたえる） — convey, transmit, hand down · verb
+- ぎらぎら — dazzling, glaring, blinding · adverb
+- 鳥（とり） — bird, poultry · noun
+- 鳴る（なる） — sound, ring, roar · verb
+- 鳴く（なく） — cry, chirp, meow · verb
+- 声（こえ） — voice, sound · noun
+- そっち — there, thou · noun
+- 卵（たまご） — egg · noun
+- 犬（いぬ） — dog · noun
+- 馬（うま） — horse · noun
+- 駐車場（ちゅうしゃじょう） — parking area · noun
+- ピンポン — table tennis, ping pong · verbal noun
+- 騒ぐ（さわぐ） — make a racket, mess around, make a fuss · verb
+- 刺す（さす） — stab, prick, sting · verb
+- 刺身（さしみ） — sashimi, sliced raw meat · noun
+- 激しい（はげしい） — violent, intense · adjective
+- ぺこぺこ — hungry, starving · adjective
+- 驚く（おどろく） — be surprised, be startled · verb
+- 倒れる（たおれる） — fall over, succumb · verb
+- 倒す（たおす） — bring down, overthrow, defeat · verb
+- 傾向（けいこう） — tendency, disposition · noun
+- ぺらぺら — fluently · adjectival noun
+- 柔道（じゅうどう） — judo · noun
+- 柔らかい（やわらかい） — soft · adjective
+- 柔らか（やわらか） — soft, tender, gentle · adjectival noun
+- 主張（しゅちょう） — insistence, assertion · verbal noun · forgotten 6×
+- レインコート — raincoat · noun
+- 引っ張る（ひっぱる） — pull, drag · verb
+- 突き当たる（つきあたる） — hit against, come to the end of · verb
+- 突き当たり（つきあたり） — end of a street · noun
+- 壁（かべ） — wall, partition · noun
+- アイス — popsicle, ice lolly · noun
+- 弾く（ひく） — play on · verb
+- 丸い（まるい） — round · adjective
+- 丸（まる） — circle or sphere, wholeness · noun
+- 攻撃（こうげき） — attack, criticism · verbal noun
+- いつごろ — about when, about what time · noun
+- 絶対に（ぜったいに） — absolutely, unconditionally · adverb
+- 消防車（しょうぼうしゃ） — fire engine · noun
+- 嫌（いや） — dislike, have a dislike for · adjectival noun
+- 大嫌い（だいきらい） — hate · adjectival noun
+- ウィスキー — whisky · noun
+- 大抵（たいてい） — generally, mostly · adverb
+- 大勢（おおぜい） — large numbers, a lot of · noun
+- 姿（すがた） — figure, appearance · noun
+- 姿勢（しせい） — posture, attitude · noun · forgotten 3×
+- エアメール — airmail · noun
+- 恐ろしい（おそろしい） — terrible, awful · adjective
+- 怖い（こわい） — fearful, be afraid · adjective
+- 糸（いと） — thread, yarn · noun
+- 孫（まご） — grandchild · noun
+- シャープペンシル — mechanical pencil · noun
+- 木綿（もめん） — cotton · noun
+- 偉い（えらい） — great, famous, eminent · adjective
+- 爪（つめ） — nail, claw · noun
+- 机（つくえ） — desk, table · noun
+- セロテープ — cellophane tape, Scotch tape, Sellotape · noun
+- 棚（たな） — cupboard, shelf, rack · noun
+- 本棚（ほんだな） — bookshelf · noun
+- 方針（ほうしん） — course, policy · noun · forgotten 3×
+- 釣る（つる） — angle, fish · verb
+- やけど — burn · verbal noun
+- お釣り（おつり） — change · noun
+- 鍵（かぎ） — key, lock · noun
+- 鍋（なべ） — pan, saucepan · noun
+- 寿司（すし） — sushi · noun
+- アイスコーヒー — iced coffee · noun
+- 泥棒（どろぼう） — thief, crook · verbal noun
+- 湯（ゆ） — hot water, hot bath, bathhouse · noun
+- 沸く（わく） — boil, be excited · verb
+- 沸かす（わかす） — boil, excite · verb
+- あっち — other side, there · noun
+- 洗濯機（せんたくき） — washing machine · noun
+- 洗濯（せんたく） — laundering, washing · verbal noun
+- 濡れる（ぬれる） — get wet · verb
+- 喫茶店（きっさてん） — coffee shop, tea house, café · noun
+- あんなに — that, so · adverb
+- 怠ける（なまける） — be lazy, neglect · verb
+- 一生懸命（いっしょうけんめい） — for life, with all one's might · adverb
+- 休憩（きゅうけい） — rest, repose · verbal noun · forgotten 7×
+- 天井（てんじょう） — ceiling · noun
+- いたずら — mischief, prank · verbal noun
+- 納豆（なっとう） — natto (fermented soybeans) · noun
+- 化粧（けしょう） — make up, put on makeup · verbal noun
+- 畑（はたけ） — field, vegetable garden · noun
+- 炊く（たく） — cook, boil · verb
+- ウェートレス — waitress · noun
+- 自炊（じすい） — cooking food for oneself · verbal noun
+- 灰皿（はいざら） — ashtray · noun
+- 灰（はい） — ashes · noun
+- 灰色（はいいろ） — ash color, gray · noun
+- おばさん — aunt · noun
+- 西暦（せいれき） — Christian Era, A.D. · noun · forgotten 3×
+- 毛（け） — hair, wool · noun
+- 髪（かみ） — hair, hairstyle · noun
+- 舌（した） — tongue · noun
+- くし — comb · noun
+- 臭い（くさい） — ill-smelling, stinking · adjective
+- 匂い（におい） — smell, odor · noun
+- 居る（いる） — be present · verb
+- 履く（はく） — put on footwear, wear · verb
+- クリーニング — cleaning, laundry · verbal noun
+- 戸（と） — door, shutter · noun
+- 扇風機（せんぷうき） — electric fan · noun
+- 豚（ぶた） — pig, pork · noun
+- 豚肉（ぶたにく） — pork, hog meat · noun
+- ごちそう — feast, treat · noun
+- 鶏（にわとり） — chicken, hen · noun
+- 腕時計（うでどけい） — wrist watch · noun
+- お菓子（おかし） — sweets, snacks · noun
+- お辞儀（おじぎ） — bow · verbal noun
+- 寝坊（ねぼう） — late riser, oversleeping · verbal noun
+- 旗（はた） — flag, banner · noun
+- 鉛筆（えんぴつ） — pencil · noun
+- 万年筆（まんねんひつ） — fountain pen · noun
+- こぼれる — spill, overflow · verb · forgotten 4×
+- 箱（はこ） — box, case · noun
+- 本箱（ほんばこ） — bookcase · noun
+- 手袋（てぶくろ） — gloves · noun
+- 袋（ふくろ） — bag, sack · noun
+- こんなに — this, so, such · adverb
+- 財布（さいふ） — purse, wallet · noun
+- 毛布（もうふ） — blanket · noun
+- 布団（ふとん） — futon, bedquilt · noun
+- 小包（こづつみ） — parcel, package · noun
+- ざあざあ — heavily, pouring · adverb
+- 包む（つつむ） — wrap, pack · verb
+- 飾る（かざる） — decorate, exhibit · verb
+- 手帳（てちょう） — pocketbook, memo · noun
+- 電話帳（でんわちょう） — telephone book · noun
+- ジャガイモ — potato · noun
+- 牛乳（ぎゅうにゅう） — milk · noun
+- 玄関（げんかん） — entrance, door · noun
+- 眼鏡（めがね） — glasses, judgment · noun
+- 眠い（ねむい） — sleepy · adjective
+- ソファー — sofa, sofa bed · noun
+- 眠る（ねむる） — sleep · verb
+- 封筒（ふうとう） — envelope · noun
+- 出掛ける（でかける） — go out, be about to go out · verb
+- 掛かる（かかる） — hang, splash, require · verb
+- たばこ — tobacco, cigarette · noun
+- 掛け算（かけざん） — multiplication · verbal noun
+- 拍手（はくしゅ） — applause, clapping · verbal noun
+- 掃除（そうじ） — cleaning · verbal noun
+- 掃く（はく） — sweep, brush · verb · forgotten 4×
+- ちょうど — just, as if · adverb
+- 掃除機（そうじき） — vacuum cleaner · noun
+- 握る（にぎる） — grasp, make hand-rolled sushi balls · verb
+- 握手（あくしゅ） — handshake, handshaking · verbal noun
+- 迎える（むかえる） — welcome, go out to meet, invite · verb
+- ちょっと — just a moment, just a little, easily · adverb
+- お巡りさん（おまわりさん） — policeman · noun
+- 幾つ（いくつ） — how many, how old · noun
+- 幾ら（いくら） — how much · noun
+- 冗談（じょうだん） — joke · noun
+- つく — be on, switched on · verb
+- 穴（あな） — hole, cavity · noun
+- 寂しい（さびしい） — lonely, desolate, sad · adjective
+- 丁寧（ていねい） — polite, courteous, careful · adjectival noun
+- 可哀相（かわいそう） — poor, pitiable · adjectival noun
+- てんぷら — tempura, Japanese deep-fried breaded food · noun
+- 怪我（けが） — injury · verbal noun
+- 我慢（がまん） — patience, self-restraint · verbal noun
+- 幼稚園（ようちえん） — kindergarten · noun
+- 隠れる（かくれる） — hide, disappear · verb
+- とんとん — tapping · adverb
+- 日陰（ひかげ） — the shade · noun
+- 随分（ずいぶん） — extremely, considerably · adverb
+- 頑張る（がんばる） — persist, be tenacious · verb
+- 頃（ころ） — time · noun
+- にんじん — carrot · noun
+- この頃（このごろ） — now, these days, recently · noun
+- 消防署（しょうぼうしょ） — fire station · noun
+- 缶詰（かんづめ） — canned goods, cooping-up · noun
+- ぬるい — tepid, lukewarm · adjective · forgotten 3×
+- 缶（かん） — can, tin · noun
+- 腐る（くさる） — rot, corrode · verb
+- 豆腐（とうふ） — tofu · noun
+- 床（ゆか） — floor · noun
+- パーセント — percent · noun
+- 床屋（とこや） — barber, barbershop · noun
+- 畳（たたみ） — tatami, mat · noun
+- 畳む（たたむ） — fold, shut · verb
+- 干す（ほす） — dry, desiccate · verb
+- ひざ — knee · noun
+- 帽子（ぼうし） — cap, hat · noun
+- 是非（ぜひ） — by all means, at any cost · adverb
+- 敬語（けいご） — honorific language, polite speech · noun
+- 尊敬（そんけい） — respect, esteem, honor · verbal noun
+- ひじ — elbow · noun
+- 敷く（しく） — lay, spread · verb
+- 雷（かみなり） — thunder, lightning · noun
+- 零（れい） — zero, naught · noun
+- 仕舞う（しまう） — put away · verb
+- ひも — laces, string, rope · noun
+- 踊る（おどる） — dance · verb
+- 踊り（おどり） — dance, dancing · noun
+- 踏む（ふむ） — step on, tread on · verb
+- まく — scatter, plant · verb
+- 蹴る（ける） — kick · verb
+- 食堂（しょくどう） — dining hall, restaurant · noun
+- 猫（ねこ） — cat, feline · noun
+- 文章（ぶんしょう） — writing, prose · noun
+- やかん — kettle · noun
+- 丈夫（じょうぶ） — healthy, stout · adjectival noun
+- 又（また） — again, also, or · adverb
+- お祖父さん（おじいさん） — grandfather · noun
+- お祖母さん（おばあさん） — grandmother · noun
+- ようこそ — welcome · adverb
+- 祖父（そふ） — grandfather · noun
+- 祖母（そぼ） — grandmother · noun
+- 邪魔（じゃま） — disturbing · adjectival noun
+- 風邪薬（かぜぐすり） — remedy for a cold · noun
+- ウェーター — waiter · noun
+- 風呂屋（ふろや） — bathhouse, public bath · noun
+- 風呂（ふろ） — bath · noun
+- 昭和（しょうわ） — Showa era · noun
+- 紫（むらさき） — purple · noun
+- そんなに — that, so · adverb
+- 紅茶（こうちゃ） — black tea · noun
+- 梅雨（つゆ） — rainy season · noun
+- 桃（もも） — peach, peach tree · noun
+- 遭う（あう） — meet with, encounter · verb
+- 枕（まくら） — pillow · noun
+- 嘘（うそ） — lie · noun
+- 遠慮（えんりょ） — reserve, hesitation, forethought · verbal noun
+- 叱る（しかる） — scold, tell off, reprimand · verb
+- 傘（かさ） — umbrella, parasol · noun
+- お嬢さん（おじょうさん） — young lady, your daughter · noun
+- 年賀状（ねんがじょう） — New Year's card · noun
+- 賑やか（にぎやか） — lively, exciting · adjectival noun
+- 蚊（か） — mosquito · noun
+- 拭く（ふく） — wipe, dry · verb
+- 挨拶（あいさつ） — greet, greeting · verbal noun
+- 伴う（ともなう） — accompany, go with · verb
+- 巻く（まく） — roll up, wind, wrap · verb
+- 靴（くつ） — shoes, boots · noun
+- 靴下（くつした） — socks, stockings · noun
+- 磨く（みがく） — polish, grind · verb
+- 歯磨き（はみがき） — toothpaste, brushing one's teeth · noun
+- 廊下（ろうか） — hallway, corridor · noun
+- 瓶（びん） — bottle, flask · noun
+- 褒める（ほめる） — praise, commend · verb
+- 元旦（がんたん） — New Year's Day · noun
+- 袖（そで） — sleeve · noun
+- 長袖（ながそで） — clothes with long sleeves · noun
+- 半袖（はんそで） — short-sleeved shirt · noun
+- 馬鹿（ばか） — fool, nonsense · adjectival noun
+- 凄い（すごい） — wonderful, great, incredible · adjective
+- 剃る（そる） — shave · verb
+- 喧嘩（けんか） — fight, quarrel, argument · verbal noun
+- 叩く（たたく） — tap, hit · verb
+- 噛む（かむ） — bite, chew · verb
+- 味噌汁（みそしる） — miso soup · noun
+- 姪（めい） — niece · noun
+- 苺（いちご） — strawberry · noun
+- 茄子（なす） — eggplant · noun
+- 逢う（あう） — meet · verb
+- 椅子（いす） — chair · noun
+- 痩せる（やせる） — lose weight, become thin · verb
+- 箸（はし） — chopsticks · noun
+- 糊（のり） — glue, starch · noun
+- 醤油（しょうゆ） — soy sauce · noun
+- 鋏（はさみ） — scissors, pincers, tongs · noun
+- 鞄（かばん） — bag, handbag, briefcase · noun
+- 顎（あご） — jaw, chin · noun
+- 飴（あめ） — candy, sweets · noun
+- 石鹸（せっけん） — soap · noun
+- 一時（いちじ） — temporarily · adverb
+- 月日（がっぴ） — date · noun
+- 金もうけ（かねもうけ） — making money · verbal noun
+- 先に（さきに） — before, ahead · adverb
+- 先日（せんじつ） — the other day, a few days ago · noun · forgotten 3×
+- 今日（こんにち） — today, these days · noun
+- 今ごろ（いまごろ） — about this time · noun
+- ケース — case · noun
+- 今にも（いまにも） — at any moment · adverb
+- 今に（いまに） — before long, someday · adverb · forgotten 3×
+- 行き来（いきき） — comings and goings, communication · verbal noun
+- 行（ぎょう） — line, row · noun
+- 帰す（かえす） — send home, see out · verb
+- 大いに（おおいに） — very, greatly · adverb
+- 大げさ（おおげさ） — exaggerate · adjective
+- イメージ — image · verbal noun
+- 大水（おおみず） — flood, inundation · noun
+- 水中（すいちゅう） — in the water, underwater · noun
+- 小（しょう） — smallness, small size · noun
+- 少なくとも（すくなくとも） — at least · adverb
+- 上がる（あがる） — be completed · none
+- せい — cause, fault · noun
+- 上（じょう） — upper, best · noun
+- 上（かみ） — superiors, people in authority · noun
+- 下さる（くださる） — give, favor with · verb
+- 下水（げすい） — sewerage, drainage · noun
+- 上下（じょうげ） — top and bottom · verbal noun
+- 上下（うえした） — above and below · noun
+- 下（げ） — low class, inferiority, below · noun
+- 左右（さゆう） — right and left · noun
+- いつも — always, usually · noun
+- 四方（しほう） — all directions, far and wide · noun · forgotten 3×
+- 方々（かたがた） — people · noun
+- 大人（おとな） — adult · adjective
+- 外出（がいしゅつ） — outing · verbal noun · forgotten 5×
+- 内（うち） — inside · noun
+- 週休（しゅうきゅう） — weekend · noun · forgotten 4×
+- 一体（いったい） — what on earth, what the… · adverb
+- きっかけ — chance, opportunity · noun
+- 出力（しゅつりょく） — output · verbal noun
+- 火力（かりょく） — heating power, heat · noun
+- 水力（すいりょく） — waterpower, hydraulic power · noun
+- 口げんか（くちげんか） — quarrel · verbal noun
+- 大手（おおて） — major companies · noun
+- 足下（あしもと） — step, under foot · noun
+- 火山（かざん） — volcano · noun
+- すっかり — all, completely · adverb · forgotten 3×
+- 小川（おがわ） — brook, stream · noun
+- 空中（くうちゅう） — in the air, in the sky · noun
+- 空ける（あける） — empty, clear out · verb
+- 空っぽ（からっぽ） — empty · adjectival noun
+- 空き（あき） — vacancy, free time · noun
+- 空（から） — emptiness, hollow · noun
+- 海水（かいすい） — seawater · noun
+- 海上（かいじょう） — maritime · noun · forgotten 4×
+- シリーズ — series · noun
+- 水田（すいでん） — paddy field, rice field · noun
+- 森林（しんりん） — forest, woodland · noun
+- 男らしい（おとこらしい） — manly, masculine · adjective
+- 女らしい（おんならしい） — womanly, feminine · adjective
+- 少女（しょうじょ） — girl · noun
+- 女子（じょし） — woman, girl · noun
+- 好む（このむ） — like, be fond of · verb
+- エイズ — AIDS · noun
+- 好み（このみ） — taste, preference · noun
+- 上達（じょうたつ） — progress, proficiency · verbal noun · forgotten 3×
+- 一家（いっか） — household, family · noun
+- 家出（いえで） — running away from home · verbal noun
+- 大家（おおや） — landlord · noun
+- 元来（がんらい） — originally, essentially · adverb
+- 元日（がんじつ） — New Year's Day · noun
+- エンジン — engine · noun
+- お中元（おちゅうげん） — mid-year gift, summer gift · noun
+- 天の川（あまのがわ） — Milky Way · noun
+- 気分（きぶん） — feeling, mood · noun
+- 元気（げんき） — vigor, spirits · noun
+- 気体（きたい） — gas, vapor · noun
+- 気力（きりょく） — energy, vitality · noun
+- 大雨（おおあめ） — heavy rain · noun
+- クラス — class, lesson · noun
+- 小雨（こさめ） — drizzle · noun
+- 雨天（うてん） — rainy weather · noun
+- 大雪（おおゆき） — heavy snow · noun
+- 青年（せいねん） — youth, young man · noun
+- 青空（あおぞら） — blue sky · noun
+- 明日（あす） — tomorrow · noun
+- 明ける（あける） — to dawn · verb · forgotten 3×
+- 明かり（あかり） — light · noun
+- スピード — speed · noun
+- 一昨年（いっさくねん） — the year before last · noun
+- 昨日（さくじつ） — yesterday · noun
+- 一向に（いっこうに） — absolutely, at all · adverb
+- 開き（あき） — gap, vacancy · noun
+- いかに — how, in what way · adverb
+- 聞かす（きかす） — tell, read aloud · verb
+- 聞き手（ききて） — listener, audience · noun
+- 客間（きゃくま） — guest room, parlor · noun
+- 間（かん） — interval, duration of time · noun
+- 空間（くうかん） — space, room · noun
+- 円高（えんだか） — appreciation of the yen · noun
+- 最高（さいこう） — maximum, supreme · noun
+- スタート — start, begin · verbal noun
+- 最低（さいてい） — lowest · noun
+- 最小（さいしょう） — the smallest, minimum · noun
+- 最上（さいじょう） — best, highest · noun
+- 最中（さいちゅう） — in the middle of, during · noun
+- 初日（しょにち） — first day, opening day · noun
+- お前（おまえ） — you, darling · noun
+- 前後（ぜんご） — before and after, order · noun
+- 後方（こうほう） — back, rear · noun · forgotten 7×
+- セット — set · verbal noun
+- 後ろ向き（うしろむき） — facing backward · noun
+- 明々後日（しあさって） — three days from today · noun
+- 後半（こうはん） — latter half, second half · noun
+- 朝日（あさひ） — morning sun · noun
+- 昨晩（さくばん） — last night, last evening · noun · forgotten 3×
+- 昨夜（さくや） — last night · noun
+- 食う（くう） — eat, live on · verb
+- アップ — close-up · verbal noun
+- 外食（がいしょく） — eating out, dining out · verbal noun
+- 食パン（しょくぱん） — bread, loaf of bread · noun
+- 一見（いっけん） — at a glance · adverb
+- 言い出す（いいだす） — begin to speak · verb
+- 外来語（がいらいご） — loanword, foreign word · noun
+- 英文（えいぶん） — English, English writing · noun
+- 漢語（かんご） — Chinese-character compounds · noun
+- エネルギー — energy · noun
+- 下書き（したがき） — draft · verbal noun · forgotten 3×
+- 後書き（あとがき） — postscript, afterword · noun
+- 覚え（おぼえ） — recollection, memory · noun
+- 開会（かいかい） — opening, start a meeting · verbal noun
+- 会（かい） — meeting, association · noun
+- 合わす（あわす） — match, add · verb
+- 社会人（しゃかいじん） — member of society, working person · noun
+- かえって — on the contrary, rather · adverb
+- 会員（かいいん） — member · noun
+- 一員（いちいん） — member · noun
+- 仕上げ（しあげ） — completion, finishing · verbal noun
+- 仕上げる（しあげる） — finish, complete · verb
+- 人事（じんじ） — human affairs, personnel affairs · noun
+- 行事（ぎょうじ） — event, function · noun · forgotten 3×
+- 事（こと） — thing, incident · noun
+- コンクリート — concrete · noun
+- 家事（かじ） — housework, domestic duties · noun
+- 人工（じんこう） — artificial · noun
+- 会場（かいじょう） — venue, meeting place · noun
+- 出場（しゅつじょう） — participation · verbal noun · forgotten 13×
+- 車内（しゃない） — inside a vehicle · noun
+- 下車（げしゃ） — get off, stopover · verbal noun · forgotten 3×
+- 駅前（えきまえ） — in front of the station · noun
+- いよいよ — finally, any moment · adverb · forgotten 3×
+- 外交（がいこう） — diplomacy, foreign relations · noun · forgotten 5×
+- 交わす（かわす） — exchange · verb
+- 交通（こうつう） — traffic, transportation · verbal noun
+- 大通り（おおどおり） — main street · noun
+- 書道（しょどう） — Japanese calligraphy · noun
+- 十字路（じゅうじろ） — crossroads · noun
+- 空き地（あきち） — unoccupied ground, vacant lot · noun · forgotten 3×
+- オリンピック — the Olympics · noun
+- 図（ず） — figure, map · noun
+- 合図（あいず） — signal, sign · verbal noun
+- 行き止まり（いきどまり） — dead end · noun · forgotten 3×
+- 初歩（しょほ） — first steps, beginning · noun
+- 高度（こうど） — high degree · adjectival noun · forgotten 4×
+- 一度に（いちどに） — at a time, at once · adverb
+- 遠足（えんそく） — excursion, hike · noun
+- 駅長（えきちょう） — stationmaster · noun
+- ストップ — stop · verbal noun
+- 全員（ぜんいん） — all members, entire staff · noun
+- 全て（すべて） — all, entirely · adverb
+- 一部分（いちぶぶん） — part, portion · noun
+- 国家（こっか） — state, country · noun · forgotten 3×
+- 国々（くにぐに） — nations, countries · noun
+- 国外（こくがい） — abroad, outside the country · noun
+- きちんと — properly, neatly · adverb
+- 出国（しゅっこく） — departure, emigration · verbal noun · forgotten 4×
+- 国土（こくど） — country, territory · noun
+- 国語（こくご） — national language, Japanese · noun
+- 国交（こっこう） — diplomatic relations, national friendship · noun · forgotten 9×
+- 国道（こくどう） — national highway · noun
+- 世間（せけん） — world, the public · noun · forgotten 5×
+- 世話（せわ） — take care of, provide service · verbal noun
+- クラブ — club · noun
+- 出世（しゅっせ） — success, promotion · verbal noun
+- 青白い（あおじろい） — pale, pallid · adjective
+- 黒字（くろじ） — the black, surplus · noun
+- 赤道（せきどう） — equator · noun
+- 赤字（あかじ） — deficit, in the red · noun
+- 国鉄（こくてつ） — Japan National Railways · noun
+- 私鉄（してつ） — private railway · noun
+- 家屋（かおく） — house, building · noun
+- じっと — without moving, still · adverb
+- 屋上（おくじょう） — housetop, roof · noun
+- 味わう（あじわう） — taste, appreciate · verb
+- 地味（じみ） — plain, sober · adjectival noun
+- 月末（げつまつ） — end of the month · noun
+- 末っ子（すえっこ） — youngest child · noun
+- 末（すえ） — (after) the end · noun
+- 飲料水（いんりょうすい） — drinking water · noun
+- コンサート — concert · noun
+- 食料（しょくりょう） — food supplies · noun
+- 有りのまま（ありのまま） — as it is, unchanged · adjectival noun
+- 作家（さっか） — writer, novelist · noun
+- 使用（しよう） — usage · verbal noun
+- 作用（さよう） — action, effect · verbal noun · forgotten 9×
+- 使用人（しようにん） — servant · noun
+- いけない — wrong, must not · adjective
+- 私用（しよう） — private business, private use · noun
+- 会費（かいひ） — fee, membership fee · noun · forgotten 3×
+- 食費（しょくひ） — food expenses, board · noun
+- 私費（しひ） — private expense · noun · forgotten 5×
+- 消費（しょうひ） — consumption, spending · verbal noun · forgotten 8×
+- 消火（しょうか） — fire fighting · verbal noun · forgotten 6×
+- 売り上げ（うりあげ） — sales, proceeds · noun
+- あらかじめ — in advance · adverb
+- 売り出す（うりだす） — put on sale · verb
+- 書店（しょてん） — bookstore · noun
+- 開店（かいてん） — opening of a store, setting up · verbal noun
+- 小売店（こうりてん） — retail store, outlet · noun
+- 商社（しょうしゃ） — trading firm · noun · forgotten 6×
+- 商店（しょうてん） — shop, store · noun
+- 商売（しょうばい） — trade, business · verbal noun · forgotten 4×
+- しばしば — often, frequently · adverb · forgotten 3×
+- 商人（しょうにん） — merchant, trader · noun · forgotten 9×
+- 品（しな） — article, item · noun
+- 上品（じょうひん） — elegance, refinement · adjectival noun
+- 下品（げひん） — vulgar, low · adjective
+- 手段（しゅだん） — means, way · noun · forgotten 6×
+- 一段と（いちだんと） — greater, further · adverb
+- ショック — shock, surprise · adjectival noun
+- 値（あたい） — value, worth · noun
+- 値する（あたいする） — be worth, deserve · verb
+- 価値（かち） — value, merit · noun
+- 高価（こうか） — high-priced · adjectival noun · forgotten 6×
+- 人格（じんかく） — character, personality · noun · forgotten 5×
+- 格好（かっこう） — shape, appearance · verbal noun · forgotten 3×
+- 青春（せいしゅん） — youth · noun · forgotten 6×
+- アンテナ — antenna · noun
+- 春分（しゅんぶん） — vernal equinox · noun
+- 初夏（しょか） — early summer · noun · forgotten 4×
+- 秋分（しゅうぶん） — autumnal equinox · noun · forgotten 4×
+- 春夏秋冬（しゅんかしゅうとう） — four seasons, all year round · noun
+- 夏季（かき） — summer, summer season · noun · forgotten 5×
+- 寒気（さむけ） — chill · noun
+- 暖か（あたたか） — warm, warmhearted · adjective
+- 高温（こうおん） — high temperature · noun · forgotten 4×
+- あえて — boldly · adverb · forgotten 4×
+- 温暖（おんだん） — warm, mild · adjectival noun
+- 北風（きたかぜ） — north wind · noun
+- 秋風（あきかぜ） — autumn breeze · noun
+- 情熱（じょうねつ） — passion, enthusiasm · noun
+- 広告（こうこく） — public notice, advertisement · verbal noun · forgotten 4×
+- 新た（あらた） — new, fresh · adjective
+- 新聞社（しんぶんしゃ） — newspaper office · noun
+- カバー — cover, covering · verbal noun
+- 新人（しんじん） — newcomer, freshman · noun
+- 最悪（さいあく） — the worst · adjectival noun
+- 悪用（あくよう） — abuse, misuse · noun · forgotten 3×
+- 悪（あく） — evil, badness · noun
+- 心理（しんり） — mental state, psychology · noun · forgotten 4×
+- 心（こころ） — heart, mind · noun
+- ジャーナリスト — journalist · noun
+- 思わず（おもわず） — unintentionally, unconsciously · adverb · forgotten 6×
+- 思いがけない（おもいがけない） — unexpected, accidental · adjective
+- 思いやり（おもいやり） — thoughtfulness, kindness · noun
+- 決して（けっして） — never, by no means · adverb
+- 決心（けっしん） — determination, resolve · verbal noun · forgotten 6×
+- 決まり（きまり） — settlement, rule · noun
+- 知り合う（しりあう） — get acquainted with · verb
+- スタイル — style · noun
+- 知れる（しれる） — become known, be found out · verb
+- 知り合い（しりあい） — acquaintance · noun
+- 知らせ（しらせ） — information, notice · noun
+- 知らず知らず（しらずしらず） — unawares, without knowing it · adverb · forgotten 4×
+- 才能（さいのう） — talent, ability · noun
+- 小便（しょうべん） — urine, pee · verbal noun
+- インタビュー — interview · verbal noun
+- 氏（し） — Mr. · noun
+- 人名（じんめい） — personal name, name · noun
+- 国名（こくめい） — country name · noun
+- 各地（かくち） — every place, various parts · noun · forgotten 3×
+- 県（けん） — prefecture · noun
+- 市内（しない） — in the city · noun
+- シーズン — season · noun
+- 市長（しちょう） — mayor · noun
+- 市場（いちば） — market, marketplace · noun · forgotten 3×
+- 市場（しじょう） — market, exchange · noun · forgotten 6×
+- 市外（しがい） — city outskirts, suburbs · noun
+- 市（し） — city · noun
+- 区分（くぶん） — division, section · verbal noun
+- 区（く） — ward · noun
+- アイデア — idea · noun
+- 様々（さまざま） — various, diverse · adjective
+- 出荷（しゅっか） — shipping, dispatch · verbal noun · forgotten 5×
+- 人物（じんぶつ） — character, person · noun
+- 見物人（けんぶつにん） — spectator, sightseer · noun
+- 入れ物（いれもの） — receptacle, container · noun
+- 作物（さくもつ） — crop · noun · forgotten 3×
+- 食物（しょくもつ） — food · noun · forgotten 3×
+- いかにも — indeed, as if · adverb · forgotten 3×
+- 書物（しょもつ） — book, volume · noun · forgotten 5×
+- 重ねる（かさねる） — pile up, repeat · verb
+- 重なる（かさなる） — be piled up, come one after another · verb
+- 重大（じゅうだい） — important, serious · adjective · forgotten 3×
+- 重み（おもみ） — weight, importance · noun
+- 重たい（おもたい） — heavy · adjective
+- 気軽（きがる） — lighthearted, easy · adjectival noun · forgotten 4×
+- いきなり — all of a sudden, without warning · adverb · forgotten 3×
+- 重量（じゅうりょう） — weight · noun
+- 少量（しょうりょう） — small quantity · noun
+- 小量（しょうりょう） — small amount · noun
+- 受け入れる（うけいれる） — accept, accommodate · verb
+- 受け止める（うけとめる） — catch, receive · verb
+- 受かる（うかる） — pass · verb
+- 受け取り（うけとり） — receipt · noun
+- いつまでも — forever · adverb
+- 聞き取り（ききとり） — listening comprehension, dictation · noun
+- 書き取り（かきとり） — dictation · noun
+- 受け持つ（うけもつ） — have charge of · verb
+- 打ち上げる（うちあげる） — shoot up · verb
+- 打ち合わせ（うちあわせ） — meeting, arrangement · verbal noun
+- 打ち明ける（うちあける） — confide in, reveal · verb
+- しっかり — mature, reliable · adverb
+- 市役所（しやくしょ） — municipal office, city hall · noun
+- 区役所（くやくしょ） — ward office · noun
+- 重役（じゅうやく） — executive · noun · forgotten 6×
+- 人生（じんせい） — human life, life · noun
+- 生まれ（うまれ） — birth, origin · noun
+- 一生（いっしょう） — a lifetime · noun
+- アンケート — questionnaire · noun
+- 生み出す（うみだす） — generate, produce · verb · forgotten 3×
+- 生き方（いきかた） — way of life, lifestyle · noun
+- 生かす（いかす） — take advantage of, make use of · verb · forgotten 7×
+- 生き物（いきもの） — living creature · noun
+- 生け花（いけばな） — flower arrangement · noun
+- 生年月日（せいねんがっぴ） — date of birth · noun
+- 生理（せいり） — period, menstruation · noun
+- スケジュール — schedule · noun
+- 生（せい） — life · noun
+- 生物（せいぶつ） — living creature, lifeform · noun
+- 生き生きと（いきいきと） — lively, vividly · adverb
+- 性能（せいのう） — performance, capacity · noun
+- 性格（せいかく） — character, personality · noun
+- 性（せい） — sex, nature · noun
+- 国産（こくさん） — domestically produced · noun
+- ガソリン — gasoline · noun
+- 産地（さんち） — production center · noun
+- 出産（しゅっさん） — birth, delivery · verbal noun · forgotten 3×
+- 活字（かつじ） — printed type · noun · forgotten 4×
+- 学会（がっかい） — academic association, academic conference · noun
+- 学年（がくねん） — school year, grade · noun
+- 工学（こうがく） — engineering · noun
+- カット（かっと） — cut · verbal noun
+- 学長（がくちょう） — college president · noun
+- 語学（ごがく） — language study · noun
+- 工学部（こうがくぶ） — department of engineering · noun
+- 学費（がくひ） — school expenses, tuition · noun
+- 学部（がくぶ） — faculty, department · noun
+- 学力（がくりょく） — scholastic performance, academic ability · noun
+- 休学（きゅうがく） — leave of absence, absence · verbal noun
+- スター — star · noun
+- キリスト教（きりすときょう） — Christianity · noun
+- イスラム教（イスラムきょう） — Islam, Muslim religion · noun
+- 教わる（おそわる） — be taught, learn · verb · forgotten 6×
+- 教え（おしえ） — lesson, teachings · noun
+- 制御（せいぎょ） — control, command · verbal noun · forgotten 6×
+- 強力（きょうりょく） — powerful · adjectival noun · forgotten 4×
+- 強制（きょうせい） — compulsion, force · verbal noun · forgotten 7×
+- カメラマン — photographer, cameraman · noun
+- 最強（さいきょう） — strongest · noun
+- 心強い（こころづよい） — reassuring, heartening · adjective
+- 引用（いんよう） — quotation, citation · verbal noun · forgotten 5×
+- 字引（じびき） — dictionary · noun
+- 学習（がくしゅう） — study, learning · verbal noun · forgotten 5×
+- 試合（しあい） — match, game · verbal noun
+- アルコール — alcohol, alcoholic beverage · noun
+- 試みる（こころみる） — try, attempt · verb
+- 受験（じゅけん） — take an examination · verbal noun
+- 性質（せいしつ） — nature, property · noun · forgotten 6×
+- 悪質（あくしつ） — bad, malignant · adjectival noun
+- 質（しつ） — quality, nature · noun
+- 学問（がくもん） — learning, scholarship · verbal noun
+- 有り難い（ありがたい） — welcome, grateful · adjective
+- せめて — at least · adverb
+- 重点（じゅうてん） — important point, emphasis · noun
+- 弱点（じゃくてん） — weak point · noun
+- 少数（しょうすう） — small number, minority · noun
+- 小数（しょうすう） — decimal · noun
+- 回路（かいろ） — circuit · noun
+- 回数（かいすう） — frequency, number of times · noun
+- 前回（ぜんかい） — last time · noun
+- ストレス — stress · noun
+- 個性（こせい） — individuality · noun · forgotten 7×
+- 勝手（かって） — selfish, self-centered · adjective · forgotten 3×
+- 決勝（けっしょう） — final, final game · noun · forgotten 6×
+- 勝ち（かち） — win, victory · noun
+- 勝負（しょうぶ） — match · verbal noun
+- 担ぐ（かつぐ） — shoulder, carry · verb
+- コード — cord · noun
+- 当てる（あてる） — guess, hit the jackpot · verb · forgotten 4×
+- 当たり前（あたりまえ） — of course, obvious · adjectival noun
+- 見当（けんとう） — estimate, aim · noun
+- 当たり（あたり） — hit, success · noun
+- 規制（きせい） — regulation, control · verbal noun · forgotten 3×
+- 経費（けいひ） — expense · noun · forgotten 7×
+- 済む（すむ） — be settled, complete · verb · forgotten 3×
+- コーチ — coach · verbal noun
+- 済ませる（すませる） — finish off, get done with · verb
+- 済ます（すます） — settle, complete · verb
+- 株式（かぶしき） — stock · noun
+- 式（しき） — ceremony · noun
+- 業界（ぎょうかい） — industry, business world · noun · forgotten 5×
+- 営業（えいぎょう） — business, sales · verbal noun
+- 休業（きゅうぎょう） — suspension of business, closure · verbal noun
+- ステージ — stage · noun
+- 事業（じぎょう） — business, achievement · noun · forgotten 3×
+- 金利（きんり） — interest, interest rate · noun · forgotten 4×
+- 利く（きく） — work, function · verb · forgotten 5×
+- 収入（しゅうにゅう） — income, earnings · noun · forgotten 5×
+- 芸術（げいじゅつ） — art, arts and crafts · noun · forgotten 3×
+- 製品（せいひん） — manufactured goods · noun · forgotten 3×
+- 製作（せいさく） — manufacture, production · verbal noun · forgotten 3×
+- アドバイス — advice · verbal noun
+- 必ずしも（かならずしも） — not always, not necessarily · adverb
+- 求人（きゅうじん） — recruiting · verbal noun · forgotten 5×
+- 額（がく） — picture frame · noun
+- 金額（きんがく） — amount of money, sum · noun
+- 計（けい） — total · noun
+- 合計（ごうけい） — sum total · verbal noun
+- 家計（かけい） — family finances · noun
+- アルミニウム — aluminum · noun
+- 会計（かいけい） — account, finance · noun
+- 寒暖計（かんだんけい） — thermometer · noun
+- 差（さ） — difference · noun
+- 格差（かくさ） — gap, disparity · noun
+- 差し出す（さしだす） — submit, stretch out · verb
+- 時差（じさ） — time difference · noun · forgotten 3×
+- 差す（さす） — open (an umbrella) · verb
+- オーケストラ — orchestra, orchestral music · noun
+- 差し上げる（さしあげる） — respectfully give · verb
+- 学割（がくわり） — student discount · noun
+- 残業（ざんぎょう） — overtime · verbal noun
+- 残暑（ざんしょ） — lingering summer heat · noun
+- 支店（してん） — branch · noun
+- 支持（しじ） — support, maintenance · verbal noun · forgotten 7×
+- 支出（ししゅつ） — expenditure, disbursement · verbal noun · forgotten 7×
+- おじさん — Mister, middle-aged man · noun
+- 支配（しはい） — control, management · verbal noun · forgotten 4×
+- 収支（しゅうし） — earnings and expenses · noun · forgotten 7×
+- 支える（ささえる） — support, maintain · verb · forgotten 6×
+- 支社（ししゃ） — branch office · noun · forgotten 6×
+- 支払う（しはらう） — pay · verb
+- 支払い（しはらい） — payment, payout · verbal noun
+- コンクール — contest, competition · noun
+- 言い返す（いいかえす） — talk back, retort · verb
+- 返る（かえる） — be restored to, return to · verb
+- 借り（かり） — borrowing, debt · noun
+- 借金（しゃっきん） — borrowing money, debt · verbal noun · forgotten 4×
+- 貸し出し（かしだし） — lending service, checking out · verbal noun
+- 貸し（かし） — loan, renting · noun
+- 申請（しんせい） — application, petition · verbal noun · forgotten 8×
+- アマチュア — amateur · noun
+- 込める（こめる） — put in, concentrate on · verb
+- 思い込む（おもいこむ） — assume, believe · verb · forgotten 4×
+- 初期（しょき） — early days, initial · noun
+- 学期（がっき） — school term · noun
+- 後期（こうき） — latter period · noun · forgotten 4×
+- 前期（ぜんき） — previous term, last semester · noun
+- きつい — severe, hard, strict · adjective
+- 新学期（しんがっき） — new term, new semester · noun
+- 限り（かぎり） — limit, as far as possible · noun
+- 制限（せいげん） — restriction, limit · verbal noun
+- 限界（げんかい） — boundary, limit · noun · forgotten 6×
+- 期限（きげん） — time limit, term · noun · forgotten 3×
+- 限度（げんど） — limit, bounds · noun
+- 大急ぎ（おおいそぎ） — in a great hurry · adjectival noun
+- コーナー — corner · noun
+- 急用（きゅうよう） — urgent business · noun · forgotten 5×
+- 一切（いっさい） — not at all, not one bit · adverb · forgotten 5×
+- 区切る（くぎる） — punctuate, divide · verb
+- 思い切って（おもいきって） — boldly, decisively · adverb
+- 品切れ（しなぎれ） — run out, sell out · noun
+- 思い切り（おもいきり） — to one's heart's content, with all one's might · adverb
+- 切れ（きれ） — sharpness · noun
+- ぎりぎり — just in time, barely · adverb
+- 券（けん） — voucher, ticket · noun
+- 回数券（かいすうけん） — book of tickets · noun
+- 世代（せだい） — generation · noun
+- 代わり（かわり） — substitution · noun
+- 近代（きんだい） — modern times · noun
+- 古代（こだい） — ancient times, antiquity · noun
+- ウサギ — rabbit, hare · noun
+- 指す（さす） — point to, aim at · verb
+- 小指（こゆび） — little finger, little toe · noun
+- 規定（きてい） — regulation, provision · verbal noun · forgotten 3×
+- 定める（さだめる） — fix, determine · verb · forgotten 5×
+- 悪化（あっか） — worsening, aggravation · verbal noun
+- 化学（かがく） — chemistry · noun
+- グラウンド — sports field · noun
+- 消化（しょうか） — digestion, consumption · verbal noun
+- 更に（さらに） — furthermore, still more · adverb
+- 急増（きゅうぞう） — sudden increase · verbal noun
+- 乗車券（じょうしゃけん） — railway ticket, bus ticket · noun
+- 乗車（じょうしゃ） — boarding, getting on board · verbal noun
+- さっぱり — completely, not at all · adverb
+- 乗客（じょうきゃく） — passenger · noun
+- 雨降り（あめふり） — rainfall, rainy weather · noun
+- 税金（ぜいきん） — tax · noun
+- 税（ぜい） — tax, duty · noun
+- 私立（しりつ） — private · noun
+- 市立（しりつ） — municipal, city · noun
+- シャッター — shutter · noun
+- 国立（こくりつ） — national · noun
+- 座席（ざせき） — seat · noun
+- 客席（きゃくせき） — seat, passenger seat · noun
+- 欠点（けってん） — weak point, defect · noun · forgotten 3×
+- 欠ける（かける） — be chipped, be missing · verb · forgotten 4×
+- 欠く（かく） — lack · verb · forgotten 7×
+- 次回（じかい） — next time · noun · forgotten 6×
+- スピーカー — speaker · noun
+- 運営（うんえい） — operation, management · verbal noun
+- 運賃（うんちん） — passenger fare · noun
+- 運（うん） — fortune, fate · noun
+- 運送（うんそう） — shipping, transportation · verbal noun · forgotten 3×
+- 回転（かいてん） — revolution, rotation · verbal noun
+- 転がる（ころがる） — roll over, tumble · verb
+- 転がす（ころがす） — roll, roll over · verb
+- セールスマン — sales representative, salesperson · noun
+- 移転（いてん） — transfer, change of address · verbal noun · forgotten 7×
+- 移動（いどう） — movement, shift · verbal noun
+- 行動（こうどう） — action, conduct · verbal noun
+- 運動会（うんどうかい） — sports festival, athletic meet · noun
+- 運動場（うんどうじょう） — playground, sports field · noun
+- 運動場（うんどうじょう） — playground, sports field · noun
+- 高速（こうそく） — high speed · noun
+- おしゃべり — chatter, idle talk · noun
+- 急速（きゅうそく） — rapid, swift · adjective
+- 高速道路（こうそくどうろ） — freeway, highway · noun
+- 早速（さっそく） — immediately · adverb
+- 時速（じそく） — speed per hour · noun
+- 全速力（ぜんそくりょく） — full speed, full steam · noun
+- 遅れ（おくれ） — delay, being late · noun
+- 遅らす（おくらす） — delay, put off · verb · forgotten 3×
+- カラオケ — karaoke · noun
+- 終える（おえる） — end, finish · verb
+- 終点（しゅうてん） — last stop, terminus · noun
+- 始終（しじゅう） — from beginning to end, at all times · adverb · forgotten 6×
+- 終電（しゅうでん） — last train · noun
+- 現地（げんち） — actual site, in the field · noun · forgotten 3×
+- 現代（げんだい） — present age, modern times · noun
+- 現金（げんきん） — cash · adjectival noun
+- こっそり — stealthily, secretly · adverb
+- 現れる（あらわれる） — appear, emerge · verb
+- 現場（げんば） — actual spot, job site · noun
+- 現住所（げんじゅうしょ） — present address · noun
+- 現す（あらわす） — show, reveal · verb
+- 在学（ざいがく） — attendance at school · verbal noun
+- 現実（げんじつ） — actuality, reality · noun · forgotten 4×
+- ジョギング — jogging · verbal noun
+- 実は（じつは） — actually · none
+- 実用（じつよう） — practical use, utility · noun
+- 実力（じつりょく） — real ability, capability · noun
+- 実習（じっしゅう） — practice, training · verbal noun · forgotten 9×
+- 実物（じつぶつ） — real thing, actual object · noun
+- 実に（じつに） — truly, surely · adverb
+- 過ごす（すごす） — pass, let pass · verb
+- あれこれ — this and that, one thing or another · noun
+- 経過（けいか） — progression, lapse · verbal noun · forgotten 10×
+- 過ち（あやまち） — fault, mistake · noun
+- 去る（さる） — go away, leave · verb · forgotten 3×
+- 活発（かっぱつ） — lively, active · adjectival noun
+- 始発（しはつ） — first departure · noun · forgotten 5×
+- 表す（あらわす） — express, represent · verb
+- 絵本（えほん） — picture book · noun
+- およそ — just about · adverb
+- 雑音（ざつおん） — noise, interference · noun
+- 足音（あしおと） — sound of footsteps · noun
+- 音読み（おんよみ） — Chinese-derived kanji reading · verbal noun
+- 五十音（ごじゅうおん） — Japanese syllabary · noun
+- 気楽（きらく） — easygoing, comfortable · adjectival noun · forgotten 7×
+- 行楽（こうらく） — excursion, outing · noun · forgotten 7×
+- サークル — circle, club · noun
+- 食欲（しょくよく） — appetite · noun
+- 映る（うつる） — be reflected, appear · verb · forgotten 4×
+- 映す（うつす） — reflect, project · verb
+- 企画（きかく） — plan, project · verbal noun · forgotten 7×
+- 画家（がか） — artist, painter · noun
+- 区画（くかく） — division, section · noun · forgotten 6×
+- 画面（がめん） — screen · noun
+- キリスト — Christ, Christianity · noun
+- 地面（じめん） — surface, ground · noun
+- 水面（すいめん） — surface of the water · noun
+- 一面（いちめん） — whole surface · noun
+- 真実（しんじつ） — truth, reality · noun
+- 金色（きんいろ） — golden color · noun
+- 小型（こがた） — small-sized · noun
+- あっさり — plainly, matter-of-factly · adverb
+- 型（かた） — type, mold · noun
+- 一種（いっしゅ） — a kind of, a sort of · noun
+- 各種（かくしゅ） — each kind, various · noun · forgotten 3×
+- 一種（いっしゅ） — a kind of, of sorts · adverb
+- 人種（じんしゅ） — race · noun · forgotten 6×
+- 種目（しゅもく） — item, event · noun · forgotten 6×
+- せっせと — hard, diligently · adverb
+- 書類（しょるい） — documents, papers · noun
+- 接近（せっきん） — approach, proximity · verbal noun · forgotten 5×
+- 接する（せっする） — come in contact, adjoin · verb · forgotten 4×
+- 角度（かくど） — angle · noun
+- 三角形（さんかくけい） — triangle · noun
+- 曲線（きょくせん） — curve, curved line · noun
+- カタログ — catalogue · noun
+- 作曲（さっきょく） — composition · verbal noun · forgotten 3×
+- 共通語（きょうつうご） — common language, lingua franca · noun
+- 共同（きょうどう） — joint, commonality · verbal noun · forgotten 3×
+- 合同（ごうどう） — combination, joint · verbal noun · forgotten 4×
+- 一同（いちどう） — everybody, all · noun · forgotten 4×
+- 以前（いぜん） — before, ago · noun
+- ジャズ — jazz · noun
+- 以下（いか） — below · noun
+- 以降（いこう） — hereafter · noun · forgotten 5×
+- 以来（いらい） — since · noun
+- 以後（いご） — from now on, after that · noun
+- 下宿（げしゅく） — lodging, boarding house · verbal noun · forgotten 3×
+- 漢和（かんわ） — Chinese and Japanese · noun
+- 英和（えいわ） — English-Japanese · noun
+- 西洋（せいよう） — the West, the Occident · noun
+- サイン — signature, autograph · verbal noun
+- 海洋（かいよう） — ocean, sea · noun · forgotten 3×
+- 西洋人（せいようじん） — Westerner · noun
+- 制服（せいふく） — uniform · noun
+- 室内（しつない） — indoors · noun
+- 親子（おやこ） — parent and child · noun
+- 親類（しんるい） — relatives, kin · noun · forgotten 4×
+- 親しむ（したしむ） — get close to, get familiar with · verb
+- ごまかす — deceive, evade · verb
+- 親切（しんせつ） — kindness · noun
+- 親友（しんゆう） — close friend · noun
+- 親指（おやゆび） — thumb · noun
+- 親しみ（したしみ） — intimacy, familiarity · noun
+- 水族館（すいぞくかん） — aquarium · noun
+- 歳末（さいまつ） — year end · noun · forgotten 4×
+- 姉妹（しまい） — sisters · noun
+- インテリ — intelligent · noun
+- 次第に（しだいに） — gradually, by degrees · adverb
+- 次第（しだい） — as soon as · noun · forgotten 4×
+- 息（いき） — breath · noun
+- 休息（きゅうそく） — rest, break · verbal noun · forgotten 3×
+- 消費者（しょうひしゃ） — consumer · noun
+- 学者（がくしゃ） — scholar · noun
+- 後者（こうしゃ） — the latter · noun
+- 作者（さくしゃ） — author, writer · noun
+- いちいち — one by one, in detail · adverb
+- 前者（ぜんしゃ） — the former · noun
+- 結局（けっきょく） — after all, finally · adverb
+- 新婚（しんこん） — newlywed · noun
+- 婚約（こんやく） — engagement, betrothal · verbal noun
+- 課長（かちょう） — section chief · noun
+- 効く（きく） — be effective · verb
+- 効力（こうりょく） — effect, validity · noun · forgotten 6×
+- ストライキ — strike · noun
+- 効き目（ききめ） — effect, efficacy · noun · forgotten 3×
+- 自動（じどう） — automatic operation · noun
+- 自国（じこく） — one's own country · noun
+- 各自（かくじ） — each one, every individual · noun · forgotten 3×
+- 自然に（しぜんに） — naturally, instinctively · adverb
+- 経由（けいゆ） — via, through · verbal noun · forgotten 3×
+- 自信（じしん） — self-confidence · noun
+- あんまり — (not) that much, (not) so much · adverb
+- 信用（しんよう） — trust, credit · verbal noun · forgotten 6×
+- 信頼（しんらい） — reliance, confidence · verbal noun · forgotten 4×
+- 人民（じんみん） — the people, populace · noun
+- 国民（こくみん） — the people, nation · noun
+- 主要（しゅよう） — main, principal · adjectival noun · forgotten 4×
+- 主に（おもに） — mainly, mostly · adverb
+- 主役（しゅやく） — leading part, starring role · noun · forgotten 4×
+- うるさい — noisy, bothersome · adjective
+- 主体（しゅたい） — agent, main constituent · noun · forgotten 5×
+- 主題（しゅだい） — subject, theme · noun
+- 自主（じしゅ） — independence, autonomy · noun
+- 主食（しゅしょく） — staple food · noun · forgotten 3×
+- 主（おも） — main, chief · adjective
+- 主義（しゅぎ） — principle, -ism · noun
+- 共産主義（きょうさんしゅぎ） — Communism · noun
+- カーブ — curve, bend · verbal noun
+- 義理（ぎり） — sense of duty, justice · noun
+- 議会（ぎかい） — assembly, council · noun · forgotten 4×
+- 議長（ぎちょう） — chairman, president · noun
+- 議題（ぎだい） — topic for discussion, agenda · noun · forgotten 4×
+- 議論（ぎろん） — argument, discussion · verbal noun · forgotten 3×
+- 結論（けつろん） — conclusion · verbal noun
+- ガイド — guide · verbal noun
+- 言論（げんろん） — speech, discussion · noun
+- 世論（せろん） — public opinion · noun
+- 応じる（おうじる） — answer, comply with · verb · forgotten 6×
+- 応用（おうよう） — application · verbal noun · forgotten 6×
+- 一応（いちおう） — tentatively · adverb · forgotten 10×
+- 回答（かいとう） — reply, answer · verbal noun
+- かえる — frog · noun
+- 解答（かいとう） — solution, answer · verbal noun
+- 区別（くべつ） — distinction, classification · verbal noun · forgotten 3×
+- 差別（さべつ） — discrimination · verbal noun
+- 性別（せいべつ） — sex, gender · noun
+- 一般に（いっぱんに） — generally, in general · adverb
+- 経済的（けいざいてき） — economical, economic · adjective
+- 自主的（じしゅてき） — autonomous, voluntary · adjective
+- 合理的（ごうりてき） — rational, logical · adjective
+- ずれる — off track, out of line · verb
+- 形式的（けいしきてき） — formal · adjective
+- 実用的（じつようてき） — practical · adjective
+- 女性的（じょせいてき） — feminine, womanly · adjective
+- 水平（すいへい） — horizontal, level · adjectival noun
+- 水平線（すいへいせん） — horizon · noun
+- 高等（こうとう） — higher, high-grade · adjectival noun
+- 上等（じょうとう） — first-class, premium · adjectival noun
+- オーバー — exaggerate · verbal noun
+- 急病（きゅうびょう） — sudden illness · noun
+- 医学（いがく） — medical science, medicine · noun
+- 科学者（かがくしゃ） — scientist · noun
+- 科目（かもく） — subject · noun
+- 学科（がっか） — subject, department · noun
+- 外科（げか） — surgery · noun
+- 歯科（しか） — dentistry · noun
+- エアコン — air-conditioning, air conditioner · noun
+- 自然科学（しぜんかがく） — natural science · noun
+- 社会科学（しゃかいかがく） — social sciences · noun
+- 死（し） — death · noun
+- 死者（ししゃ） — dead person, the deceased · noun
+- 死体（したい） — corpse, body · noun
+- 生死（せいし） — life and death · noun · forgotten 5×
+- 死亡（しぼう） — death · verbal noun
+- しょっちゅう — frequently, repeatedly · adverb
+- 痛み（いたみ） — pain, ache · noun
+- 痛む（いたむ） — feel pain, hurt · verb
+- 禁止（きんし） — prohibition, forbiddance · verbal noun
+- 禁じる（きんじる） — prohibit, forbid · verb
+- 煙（けむり） — smoke, fumes · noun
+- 酒屋（さかや） — liquor store · noun
+- スタンド — table lamp, desk lamp · noun
+- 険しい（けわしい） — steep, craggy · adjective
+- 証券（しょうけん） — bill, bond · noun · forgotten 4×
+- 証明（しょうめい） — proof, evidence · verbal noun · forgotten 3×
+- 生存（せいぞん） — existence, survival · verbal noun · forgotten 3×
+- ご存じ（ごぞんじ） — know · noun
+- 合意（ごうい） — mutual agreement · verbal noun · forgotten 3×
+- 意向（いこう） — intention, inclination · noun · forgotten 7×
+- がっかり — feel disappointed · adverb
+- 意欲（いよく） — volition, motivation · noun · forgotten 6×
+- 決意（けつい） — resolution, determination · verbal noun · forgotten 3×
+- 意図（いと） — intention, aim · verbal noun
+- 意外（いがい） — unexpected, unforeseen · adjectival noun
+- 意義（いぎ） — meaning, significance · noun
+- 好意（こうい） — favor, affection · noun
+- 意地悪（いじわる） — nastiness, ill-natured person · verbal noun
+- 確保（かくほ） — securement · verbal noun · forgotten 6×
+- スライド — slide · verbal noun
+- 確立（かくりつ） — establishment · verbal noun · forgotten 10×
+- 確定（かくてい） — decision, confirmation · verbal noun · forgotten 5×
+- 確信（かくしん） — firm belief, conviction · verbal noun · forgotten 4×
+- 効率（こうりつ） — efficiency · noun · forgotten 5×
+- 確率（かくりつ） — probability, rate · noun · forgotten 4×
+- 軽率（けいそつ） — rash, light-headed · adjective
+- 機会（きかい） — opportunity, occasion · noun
+- 危機（きき） — crisis, emergency · noun
+- 時機（じき） — opportunity, chance · noun
+- 楽器（がっき） — musical instrument · noun
+- 食器（しょっき） — tableware, dinner set · noun
+- 器用（きよう） — skillful, clever · adjectival noun
+- クラシック — classical music, the classics · adjectival noun
+- 受話器（じゅわき） — receiver · noun
+- 器（うつわ） — vessel, dish · noun
+- 器械（きかい） — instrument, apparatus · noun
+- 取材（しゅざい） — collection of data, gathering of news · verbal noun
+- 材木（ざいもく） — timber, wood · noun
+- 具合（ぐあい） — condition, health · noun
+- さっと — quickly, suddenly · adverb
+- 器具（きぐ） — utensil, implement · noun
+- 家具（かぐ） — furniture · noun
+- 雨具（あまぐ） — rain gear, rainwear · noun
+- 基地（きち） — base, military base · noun
+- 水準（すいじゅん） — level, standard · noun · forgotten 4×
+- 基準（きじゅん） — standard, criterion · noun
+- 準急（じゅんきゅう） — local express · noun · forgotten 4×
+- 設立（せつりつ） — establishment, foundation · verbal noun
+- キャンセル — cancellation · verbal noun
+- 設備（せつび） — equipment, facilities · verbal noun · forgotten 3×
+- 説（せつ） — theory, opinion · noun
+- 解説（かいせつ） — explanation, commentary · verbal noun · forgotten 3×
+- 社説（しゃせつ） — editorial · noun
+- 学説（がくせつ） — theory · noun
+- 公式（こうしき） — formal, official · adjectival noun · forgotten 3×
+- 公共（こうきょう） — public society, community · noun · forgotten 4×
+- シーツ — sheet · noun
+- 公平（こうへい） — impartiality, fairness · adjectival noun
+- 公立（こうりつ） — public · noun
+- 学園（がくえん） — educational institution, school · noun
+- 祭日（さいじつ） — national holiday, festival day · noun
+- 国際的（こくさいてき） — international · adjective
+- 国際化（こくさいか） — internationalization · verbal noun
+- 交際（こうさい） — association, friendship · verbal noun · forgotten 3×
+- かかる — catch, get · verb
+- 際（さい） — occasion, time · noun
+- 航空（こうくう） — aviation · noun
+- 航空機（こうくうき） — aircraft, airplane · noun
+- 航空券（こうくうけん） — airline ticket · noun
+- 完全（かんぜん） — perfect, complete · adjectival noun · forgotten 4×
+- 成長（せいちょう） — growth · verbal noun · forgotten 4×
+- 成立（せいりつ） — formation · verbal noun · forgotten 3×
+- 形成（けいせい） — formation · verbal noun · forgotten 3×
+- コック — cook, chef · noun
+- 結成（けっせい） — organization, formation · verbal noun · forgotten 5×
+- 賛成（さんせい） — approval, agreement · verbal noun · forgotten 5×
+- 合成（ごうせい） — composition, synthesis · verbal noun · forgotten 4×
+- 成人（せいじん） — adult, grownup · verbal noun
+- 成年（せいねん） — majority, adult · noun
+- 失う（うしなう） — lose, miss · verb
+- えび — lobster, shrimp · noun
+- 失敗（しっぱい） — failure, mistake · verbal noun
+- 原則（げんそく） — principle, general rule · noun · forgotten 7×
+- 原料（げんりょう） — raw material · noun
+- 原子力（げんしりょく） — atomic energy, nuclear power · noun
+- グリーン — green · noun
+- 高原（こうげん） — plateau, highland · noun
+- 資料（しりょう） — materials, data · noun
+- 資格（しかく） — qualifications, competence · noun
+- 資本主義（しほんしゅぎ） — capitalism · noun
+- 資源（しげん） — resources · noun · forgotten 3×
+- 願書（がんしょ） — application form · noun
+- 正式（せいしき） — formal, regular · adjectival noun · forgotten 8×
+- ジーパン — jeans · noun
+- 正面（しょうめん） — front, face · noun
+- 正午（しょうご） — noon, noontime · noun · forgotten 3×
+- 正義（せいぎ） — justice, righteousness · noun · forgotten 5×
+- 正門（せいもん） — main gate, main entrance · noun
+- 正（せい） — right, positiveness · noun
+- ジャーナリズム — journalism · noun
+- 正座（せいざ） — sitting upright with legs folded under one · verbal noun
+- 正当（せいとう） — just, legal · adjectival noun · forgotten 6×
+- 異性（いせい） — opposite sex · noun
+- 異常（いじょう） — extraordinary, exceptional · adjectival noun
+- 正常（せいじょう） — normality, normalcy · adjectival noun · forgotten 4×
+- 意識（いしき） — consciousness, awareness · verbal noun
+- 常識（じょうしき） — common sense, common knowledge · noun · forgotten 3×
+- スピーチ — speech · noun
+- 調べ（しらべ） — investigation, inquiry · noun
+- 好調（こうちょう） — favorable condition · adjectival noun · forgotten 3×
+- 下調べ（したしらべ） — preliminary investigation, preparation · verbal noun
+- 整備（せいび） — maintenance, servicing · verbal noun
+- 整理（せいり） — disposition, arrangement · verbal noun
+- 節約（せつやく） — economizing, saving · verbal noun
+- 検査（けんさ） — inspection, examination · verbal noun
+- ああ — that kind of · adverb
+- 案（あん） — plan, proposal · noun
+- 案外（あんがい） — unexpectedly · adverb
+- 案の定（あんのじょう） — as feared, sure enough · adverb
+- 国連（こくれん） — United Nations · noun
+- 接続（せつぞく） — connection, joining · verbal noun
+- 外相（がいしょう） — Minister of Foreign Affairs · noun · forgotten 6×
+- 真相（しんそう） — the truth · noun · forgotten 5×
+- 相変わらず（あいかわらず） — as usual, as before · adverb
+- アクセント — accent, stress · noun
+- 雑談（ざつだん） — chat, idle talk · verbal noun
+- 記事（きじ） — article, story · noun
+- 記号（きごう） — symbol, mark · noun
+- 記入（きにゅう） — entry, record · verbal noun
+- 暗記（あんき） — memorization · verbal noun
+- 記憶（きおく） — memory, recollection · verbal noun
+- 関心（かんしん） — concern, interest · noun · forgotten 3×
+- コマーシャル — commercial, advertising · noun
+- 関節（かんせつ） — joint · noun
+- 関わる（かかわる） — involve, concern · verb · forgotten 5×
+- 機関（きかん） — engine, agency · noun
+- 係（かかり） — person in charge · noun
+- 現状（げんじょう） — present condition · noun · forgotten 4×
+- しつこい — persistent · adjective
+- 実態（じったい） — the actual situation, the realities · noun
+- 行政（ぎょうせい） — administration · noun
+- 政治家（せいじか） — politician · noun
+- 治まる（おさまる） — settle down, be cured · verb
+- 政党（せいとう） — political party · noun
+- 策（さく） — scheme, policy · noun
+- 挙げる（あげる） — cite, give (an example) · verb
+- 気候（きこう） — climate · noun · forgotten 3×
+- しゃがむ — squat down · verb
+- 補う（おぎなう） — supplement, replenish · verb · forgotten 3×
+- 足首（あしくび） — ankle · noun
+- 首脳（しゅのう） — head, leader · noun
+- 頭（かしら） — head, chief · noun
+- 頭痛（ずつう） — headache · noun
+- 顔色（かおいろ） — complexion, countenance · noun
+- 朝顔（あさがお） — morning glory · noun
+- コンテスト — contest · noun
+- 改正（かいせい） — revision, amendment · verbal noun · forgotten 4×
+- 改良（かいりょう） — improvement, reform · verbal noun · forgotten 4×
+- 改める（あらためる） — reform, change · verb
+- 改まる（あらたまる） — be renewed, change · verb · forgotten 3×
+- キャベツ — cabbage · noun
+- 生命（せいめい） — life · noun
+- 命（いのち） — life · noun
+- 運命（うんめい） — fate, fortune · noun
+- 組合（くみあい） — union, guild · noun
+- 仕組み（しくみ） — construction, arrangement · noun
+- 組（くみ） — school class · noun
+- 組む（くむ） — pair up, partner with · verb
+- 組み合わせる（くみあわせる） — assort, join together · verb
+- アイドル — idol, pop singer · noun
+- 組み込む（くみこむ） — incorporate, integrate · verb
+- 進歩（しんぽ） — progress, advancement · verbal noun
+- 前進（ぜんしん） — advancement · verbal noun
+- からかう — make fun of, tease · verb
+- 進路（しんろ） — course, route · noun
+- 行進（こうしん） — march, parade · verbal noun · forgotten 3×
+- 推進（すいしん） — promotion · verbal noun
+- 主任（しゅにん） — person in charge, head · noun
+- 辞任（じにん） — resignation · verbal noun
+- お世辞（おせじ） — compliment, flattery · noun
+- 委員会（いいんかい） — committee · noun
+- すっきり — refreshed · adverb
+- 委員（いいん） — committee member, delegate · noun
+- 出勤（しゅっきん） — to go to work, attendance at work · verbal noun
+- 勤務（きんむ） — duty, service · verbal noun
+- 義務（ぎむ） — duty, obligation · noun
+- 事務（じむ） — office duty, clerical work · noun
+- 公務員（こうむいん） — public officer, government worker · noun
+- あいにく — unfortunately · adverb
+- 事務員（じむいん） — clerk, clerical staff · noun
+- 従う（したがう） — follow, obey · verb · forgotten 3×
+- 従業員（じゅうぎょういん） — employee, worker · noun
+- 雇用（こよう） — employment · verbal noun
+- 実績（じっせき） — achievement, performance · noun
+- 業績（ぎょうせき） — achievement, performance · noun · forgotten 4×
+- 応募（おうぼ） — application · verbal noun
+- 集中（しゅうちゅう） — concentration, convergence · verbal noun
+- おばさん — middle-aged woman · noun
+- 集合（しゅうごう） — gathering, assembly · verbal noun · forgotten 3×
+- 集まり（あつまり） — gathering, assembly · noun
+- 収集（しゅうしゅう） — collection, gathering · verbal noun
+- 採算（さいさん） — profit · noun
+- 採点（さいてん） — marking, grading · verbal noun
+- 供給（きょうきゅう） — supply, provision · verbal noun
+- ジャンプ — jump · verbal noun
+- 時給（じきゅう） — hourly wage · noun
+- 需要（じゅよう） — demand · noun
+- 就任（しゅうにん） — inauguration, appointment · verbal noun · forgotten 3×
+- 職員（しょくいん） — staff, employee · noun
+- 職場（しょくば） — place of work, office · noun
+- 職業（しょくぎょう） — occupation, vocation · noun
+- 条約（じょうやく） — treaty · noun
+- あちらこちら — all over, here and there · noun
+- 参考（さんこう） — reference, consultation · noun
+- 参議院（さんぎいん） — House of Councilors, Upper House · noun
+- お参り（おまいり） — visiting a shrine or temple · verbal noun
+- 参考書（さんこうしょ） — reference book · noun
+- 加わる（くわわる） — join in · verb
+- 追う（おう） — chase, pursue · verb
+- 追い出す（おいだす） — turn out, kick out · verb
+- 感じ（かんじ） — feeling, impression · noun
+- 感情（かんじょう） — feeling, emotion · noun
+- 感覚（かんかく） — sense, sensation · noun
+- 感動（かんどう） — emotion, impression · verbal noun
+- 実感（じっかん） — true sense, realization · verbal noun · forgotten 3×
+- 感心（かんしん） — admiration · verbal noun
+- 思想（しそう） — thought, conception · noun · forgotten 3×
+- おごる — treat · verb
+- 感想（かんそう） — thought, impression · noun · forgotten 4×
+- 現像（げんぞう） — developing a film · verbal noun
+- 現象（げんしょう） — phenomenon · noun
+- 障子（しょうじ） — paper sliding-door · noun
+- おやつ — snack, refreshment · noun
+- 傷（きず） — wound, scar · noun
+- 傷める（いためる） — damage, spoil · verb
+- 言い換える（いいかえる） — express in different words, paraphrase · verb
+- 着替え（きがえ） — change of clothes · verbal noun
+- 交替（こうたい） — alternation, shift · verbal noun · forgotten 3×
+- 火災（かさい） — fire, conflagration · noun
+- 災難（さいなん） — calamity, misfortune · noun
+- ごろごろ — rumble · adverb
+- 災害（さいがい） — calamity, disaster · noun
+- 水害（すいがい） — flood damage · noun
+- 害（がい） — harm, damage · verbal noun
+- 被せる（かぶせる） — cover · verb
+- 救う（すくう） — save, relieve · verb
+- シューズ — shoes, sports shoes · noun
+- 救い（すくい） — rescue, relief · noun
+- 救助（きゅうじょ） — rescue, relief · verbal noun
+- 援助（えんじょ） — aid, assistance · verbal noun
+- 応援（おうえん） — support, cheering · verbal noun
+- 小遣い（こづかい） — pocket money, spending money · noun
+- キス — kiss · verbal noun
+- 警告（けいこく） — warning, admonition · verbal noun
+- 警官（けいかん） — police officer, policeman · noun
+- 管（かん） — pipe, tube · noun
+- 犯す（おかす） — offend against, rape · verb
+- 強盗（ごうとう） — robbery · noun
+- 自殺（じさつ） — suicide · verbal noun
+- 殺人（さつじん） — murder, homicide · noun
+- くるくる — round and round, spin · adverb
+- 奪う（うばう） — rob, take by force · verb
+- 戦後（せんご） — postwar period · noun
+- 作戦（さくせん） — tactic, strategy · noun
+- 戦場（せんじょう） — battlefield, front · noun
+- 戦死（せんし） — death in war · verbal noun
+- 争う（あらそう） — compete, fight · verb
+- サボる — blow off, play truant · verb
+- 競技（きょうぎ） — match, sporting event · verbal noun
+- 混雑（こんざつ） — confusion, disorder · verbal noun
+- 混乱（こんらん） — disorder, confusion · verbal noun
+- 捜す（さがす） — look for, search for · verb
+- 索引（さくいん） — index · noun
+- 落ち着く（おちつく） — calm down, settle in · verb
+- 落ち着き（おちつき） — presence of mind, composure · noun
+- ショッピング — shopping · verbal noun
+- 落とし物（おとしもの） — lost property · noun
+- 交流（こうりゅう） — interaction, contact · verbal noun · forgotten 4×
+- 一流（いちりゅう） — top-ranked, world-class · noun
+- 上流（じょうりゅう） — upstream · noun
+- 下流（かりゅう） — downstream · noun
+- 海流（かいりゅう） — ocean current · noun
+- 三流（さんりゅう） — third-rate · noun
+- スマート — sophisticated, skillful · adjective
+- 洪水（こうずい） — flood, inundation · noun
+- 崩れる（くずれる） — crumble, collapse · verb
+- 崩す（くずす） — destroy, break · verb · forgotten 3×
+- 水洗（すいせん） — flushing, washing · verbal noun
+- 洗い物（あらいもの） — dishes to be washed · noun
+- 石油（せきゆ） — petroleum, oil · noun
+- 油絵（あぶらえ） — oil painting · noun
+- ずらり — line up neatly · adverb
+- 浮かべる（うかべる） — set afloat · verb
+- 浮く（うく） — float · verb
+- 沈める（しずめる） — sink, submerge · verb
+- 将来（しょうらい） — future, in the future · noun
+- 永遠（えいえん） — eternity · adjectival noun
+- 永久（えいきゅう） — permanence, eternity · adjectival noun
+- いらっしゃる — come, go · verb
+- 冷ます（さます） — cool, let cool · verb
+- 車庫（しゃこ） — car shed, garage · noun
+- 金庫（きんこ） — strong box, safe · noun
+- 心臓（しんぞう） — heart · adjectival noun
+- 軽快（けいかい） — light, cheerful · adjective
+- ウナギ — eel · noun
+- 最適（さいてき） — optimum · adjectival noun
+- 指摘（してき） — identification, pointing out · verbal noun · forgotten 3×
+- 湿度（しつど） — humidity · noun
+- 湿っぽい（しめっぽい） — damp, gloomy · adjective
+- 湿気（しっけ） — moisture, dampness · noun
+- 湿る（しめる） — get damp, get wet · verb
+- 汚染（おせん） — pollution, contamination · verbal noun
+- 景気（けいき） — economic climate · noun
+- ガード — guard rail · noun
+- 影（かげ） — shadow, shade · noun
+- 境界（きょうかい） — boundary, border · noun · forgotten 3×
+- 環境（かんきょう） — environment, surroundings · noun
+- 国境（こっきょう） — national border · noun
+- 境（さかい） — boundary, border · noun
+- 観察（かんさつ） — observation, supervision · verbal noun · forgotten 4×
+- 外観（がいかん） — external appearance · noun
+- かぼちゃ — pumpkin · noun
+- 客観的（きゃっかんてき） — objective · adjective
+- 主観的（しゅかんてき） — subjective · adjective
+- 観客（かんきゃく） — audience, spectator · noun
+- 観光（かんこう） — sightseeing · noun · forgotten 4×
+- 観測（かんそく） — observation · verbal noun
+- クイズ — quiz, quiz show · noun
+- 宇宙（うちゅう） — universe, space · noun
+- 衛生（えいせい） — hygiene, sanitation · noun
+- 衛生的（えいせいてき） — sanitary, hygienic · adjective
+- 振動（しんどう） — vibration · verbal noun
+- クリーム — cream · noun
+- 神経（しんけい） — sensitivity, nerves · noun · forgotten 3×
+- 神様（かみさま） — god, the divine · noun
+- 神道（しんとう） — Shinto · noun
+- 精神（せいしん） — mind, spirit · noun
+- 精算（せいさん） — settlement of accounts, adjustment · verbal noun
+- 厳重（げんじゅう） — strict, secure · adjective
+- 貴重（きちょう） — precious, valuable · adjectival noun
+- 貴重品（きちょうひん） — article of value, valuables · noun
+- ぐるぐる — round and round · adverb
+- 跡（あと） — trace, track · noun
+- 足跡（あしあと） — footprint, footmark · noun
+- 奇跡（きせき） — miracle, wonder · noun
+- 奇数（きすう） — odd number · noun
+- 経歴（けいれき） — personal history, resume · noun
+- 学歴（がくれき） — educational history · noun
+- 王（おう） — king · noun
+- 王様（おうさま） — king · noun
+- 建築（けんちく） — construction, architecture · verbal noun
+- 新築（しんちく） — new building · verbal noun
+- 構想（こうそう） — conception, design · verbal noun
+- 構える（かまえる） — set up (shop) · verb
+- 結構（けっこう） — all right, no thank you · adjective
+- サングラス — sunglasses · noun
+- 結構（けっこう） — quite · adverb
+- 構う（かまう） — mind, care for · verb
+- 位（くらい） — rank, dignity · noun
+- 設置（せっち） — establishment · verbal noun
+- 一周（いっしゅう） — circle, around · verbal noun
+- 辺り（あたり） — vicinity, around · noun
+- 周囲（しゅうい） — circumference, surroundings · noun
+- きっちり — exactly · adverb
+- 囲む（かこむ） — enclose, encircle · verb
+- 横断（おうだん） — crossing, traversing · verbal noun
+- 州（しゅう） — state · noun
+- 陸（おか） — land, shore · noun
+- 極めて（きわめて） — extremely, very · adverb
+- きゅうり — cucumber · noun
+- 極端（きょくたん） — extreme · adjectival noun
+- 最先端（さいせんたん） — cutting edge, forefront · noun
+- 一緒（いっしょ） — together · verbal noun
+- 貨物（かもつ） — freight, cargo · noun
+- 車輪（しゃりん） — wheel · noun
+- すっと — clear · adverb
+- 回復（かいふく） — recovery, rehabilitation · verbal noun
+- 渋い（しぶい） — bitter, astringent · adjective
+- 渋滞（じゅうたい） — delay, traffic jam · verbal noun · forgotten 3×
+- 一帯（いったい） — area, vicinity · noun
+- 帯（おび） — belt, sash · noun
+- 温帯（おんたい） — temperate zone · noun
+- 守備（しゅび） — defense, fielding · verbal noun
+- 帰宅（きたく） — return home · verbal noun
+- すらすら — unhesitantly, confidently · adverb
+- 住宅地（じゅうたくち） — residential district · noun
+- 宛先（あてさき） — recipient, addressee · noun
+- 宛名（あてな） — name of recipient, addressee · noun
+- 後戻り（あともどり） — turning back, retreat · verbal noun
+- 起こす（おこす） — bring about, cause · verb
+- 起源（きげん） — origin, beginning · noun · forgotten 3×
+- 起き上がる（おきあがる） — get up, rise · verb
+- うろうろ — wander · adverb
+- 寝室（しんしつ） — bedroom · noun · forgotten 4×
+- 静まる（しずまる） — become quiet, calm down · verb
+- 休暇（きゅうか） — holiday, vacation · noun
+- 片手（かたて） — one hand · noun
+- 片方（かたほう） — one side · noun
+- 片側（かたがわ） — one side · noun
+- 裏切る（うらぎる） — betray · verb
+- おまけ — free gift · verbal noun
+- 裏口（うらぐち） — back door, kitchen door · noun
+- 裏返し（うらがえし） — turn over, turn inside out · verbal noun
+- 裏門（うらもん） — back gate · noun
+- 裏表（うらおもて） — inside-out, front and back · noun
+- 印象（いんしょう） — impression · noun
+- 印（しるし） — mark, symbol · noun
+- クッキー — cookie, biscuit · noun
+- 印刷（いんさつ） — printing · verbal noun
+- 週刊（しゅうかん） — published weekly · noun
+- 出版（しゅっぱん） — publishing, publication · verbal noun
+- 出版社（しゅっぱんしゃ） — publishing company · noun
+- 詳細（しょうさい） — details, particulars · adjectival noun · forgotten 4×
+- 掲示（けいじ） — notice, bulletin · verbal noun
+- コンセント — outlet, wall socket · noun
+- 積極的（せっきょくてき） — positive, active · adjective · forgotten 3×
+- 言い訳（いいわけ） — apology, excuse · verbal noun
+- 誤る（あやまる） — make a mistake · verb
+- 誤解（ごかい） — misunderstanding · verbal noun · forgotten 4×
+- 気付く（きづく） — notice, become aware of · verb
+- くっ付く（くっつく） — stick, cling · verb
+- ずるい — cunning, sneaky · adjective
+- 顔付き（かおつき） — face, expression · noun
+- 思い付く（おもいつく） — think of, hit upon · verb
+- 後片付け（あとかたづけ） — cleaning up · verbal noun
+- 傷付く（きずつく） — get injured, be hurt · verb
+- 傷付ける（きずつける） — wound, hurt · verb
+- くっ付ける（くっつける） — join, paste · verb
+- 言付ける（ことづける） — leave a message · verb
+- 金属（きんぞく） — metal · noun
+- 所属（しょぞく） — belonging, attachment · verbal noun
+- 大蔵省（おおくらしょう） — Ministry of Finance · noun · forgotten 4×
+- 外務省（がいむしょう） — Ministry of Foreign Affairs · noun
+- 省略（しょうりゃく） — omission, abbreviation · verbal noun · forgotten 3×
+- 概念（がいねん） — general idea, concept · noun · forgotten 3×
+- うちわ — round paper fan · noun · forgotten 4×
+- 記念（きねん） — commemoration, memory · verbal noun
+- 順調（じゅんちょう） — favorable condition, smooth progress · adjectival noun
+- 順（じゅん） — order, sequence · noun
+- 順位（じゅんい） — order, rank · noun
+- 順々に（じゅんじゅんに） — by turns, in order · adverb
+- うっかり — carelessly, accidentally · adverb
+- 順序（じゅんじょ） — order · noun
+- 逆（ぎゃく） — reverse, inverse · adjectival noun
+- 逆らう（さからう） — disobey, go against · verb
+- 逆さ（さかさ） — reverse, inversion · adjectival noun
+- 逆さま（さかさま） — upside-down, reverse · adjectival noun · forgotten 3×
+- 行列（ぎょうれつ） — queue, line · verbal noun
+- くだらない — worthless, trifling · adjective · forgotten 3×
+- 実例（じつれい） — example, instance · noun
+- 削除（さくじょ） — deletion, elimination · verbal noun
+- 既に（すでに） — already, previously · adverb · forgotten 3×
+- 既製（きせい） — ready-made, ready-to-wear · noun
+- 深刻（しんこく） — serious, grave · adjective · forgotten 3×
+- 刻む（きざむ） — cut fine · verb
+- ずうずうしい — cheeky, impudent · adjective
+- 時刻（じこく） — time, hour · noun
+- 締め切り（しめきり） — deadline, time limit · noun
+- 締め切る（しめきる） — close, fix a deadline · verb
+- 締まる（しまる） — tighten, be compact · verb
+- 栄える（さかえる） — flourish, thrive · verb
+- 栄養（えいよう） — nutrition, nourishment · noun
+- 教養（きょうよう） — culture, education · noun
+- すやすや — peaceful and content · adverb
+- 休養（きゅうよう） — rest, recreation · verbal noun
+- 苦しむ（くるしむ） — suffer, be troubled · verb
+- 苦情（くじょう） — complaint, grievance · noun · forgotten 4×
+- 苦心（くしん） — pains, efforts · verbal noun
+- 苦しみ（くるしみ） — distress, suffering · noun
+- 苦痛（くつう） — pain, agony · noun
+- 苦しめる（くるしめる） — torment, trouble · verb
+- セルフサービス — self-service · noun
+- 苦労（くろう） — difficulty, hardship · verbal noun
+- 勤労（きんろう） — labor, work · verbal noun
+- 過労（かろう） — overwork · noun
+- 困難（こんなん） — difficulty, hardship · verbal noun · forgotten 3×
+- 甘える（あまえる） — depend on, take advantage of · verb
+- 甘やかす（あまやかす） — be indulgent to, spoil · verb
+- 辛い（からい） — strict, severe · adjective
+- アルファベット — alphabet · noun
+- 幸運（こううん） — good fortune, good luck · adjectival noun · forgotten 3×
+- 砂（すな） — sand, grit · noun
+- 砂漠（さばく） — desert · noun
+- 漁業（ぎょぎょう） — fishing industry · noun
+- 薄暗い（うすぐらい） — gloomy, dim · adjective
+- 薄める（うすめる） — thin, dilute · verb
+- 薄着（うすぎ） — light clothing · verbal noun
+- 厚着（あつぎ） — heavy clothing · verbal noun
+- 圧力（あつりょく） — pressure · noun
+- 気圧（きあつ） — atmospheric pressure · noun
+- 高気圧（こうきあつ） — high pressure · noun
+- 縮小（しゅくしょう） — reduction, curtailment · verbal noun
+- 越す（こす） — go over, surmount · verb
+- いやらしい — disgusting, nasty · adjective
+- 追い抜く（おいぬく） — pass, overtake · verb
+- 札（さつ） — bill, paper money · noun
+- 改札（かいさつ） — ticket gate · verbal noun
+- 感謝（かんしゃ） — gratitude, thanks · verbal noun
+- 月謝（げっしゃ） — monthly fee · noun
+- 射す（さす） — shine on · verb
+- 過程（かてい） — process, course · noun
+- イントネーション — intonation · noun
+- 課程（かてい） — course, curriculum · noun
+- 優れる（すぐれる） — be superior to, be fine · verb
+- 女優（じょゆう） — actress · noun
+- 透き通る（すきとおる） — be transparent · verb
+- 指導（しどう） — guide, lead · verbal noun
+- 希望（きぼう） — hope, wish · verbal noun
+- がたがた — rattle · adjective
+- 失望（しつぼう） — disappointment, loss of hope · verbal noun
+- 志す（こころざす） — have an ambition for, aspire · verb
+- 怒り（いかり） — anger, rage · noun
+- 自身（じしん） — self · noun
+- 出身（しゅっしん） — come from, origin · noun
+- 全身（ぜんしん） — the whole body · noun
+- カンニング — cheating · verbal noun
+- 身長（しんちょう） — stature, height · noun
+- 心身（しんしん） — mind and body · noun
+- 受け身（うけみ） — passiveness, passive voice · noun
+- 証拠（しょうこ） — proof, evidence · noun
+- 工夫（くふう） — contrivance, scheme · verbal noun
+- 主婦（しゅふ） — housewife · noun
+- あぐら — sit cross legged · noun
+- 産婦人科（さんふじんか） — obstetrics and gynecology · noun
+- 奥様（おくさま） — married woman, someone's wife · noun
+- お互い（おたがい） — each other · noun
+- 高齢（こうれい） — advanced age, elderly · noun
+- 愛情（あいじょう） — love, affection · noun
+- 可愛らしい（かわいらしい） — lovely, charming · adjective
+- 可愛がる（かわいがる） — love, cherish · verb
+- いやいや — reluctantly · adverb
+- 恋（こい） — love, romance · noun
+- 失恋（しつれん） — broken heart · verbal noun
+- 恋する（こいする） — love, fall in love with · verb
+- 延期（えんき） — postponement, deferment · verbal noun
+- 祝う（いわう） — celebrate, congratulate · verb
+- 祝い（いわい） — celebration, congratulation · noun
+- ウエスト — the waist · noun
+- 笑顔（えがお） — smiling face, smile · noun
+- 大喜び（おおよろこび） — great joy, delight · verbal noun
+- 看護（かんご） — nursing · verbal noun
+- 看病（かんびょう） — nursing, nursing care · verbal noun
+- 肯定（こうてい） — affirmation · verbal noun
+- オルガン — organ, pipe organ · noun
+- 記述（きじゅつ） — description · verbal noun
+- 裁判所（さいばんしょ） — courthouse · noun
+- 訴え（うったえ） — lawsuit, appeal · noun
+- 区域（くいき） — zone · noun
+- 疑い（うたがい） — doubt, suspicion · noun
+- 疑問（ぎもん） — question, doubt · noun
+- からから — roar, laugh loudly · adverb
+- 疑う（うたがう） — doubt, be suspicious · verb
+- 疑わしい（うたがわしい） — doubtful, questionable · adjective
+- 著しい（いちじるしい） — remarkable, conspicuous · adjective
+- 権利（けんり） — right, privilege · noun
+- 権力（けんりょく） — power, authority · noun
+- きっちん — kitchen · noun
+- 侵す（おかす） — invade, violate · verb
+- 賞（しょう） — prize, award · noun
+- 賞品（しょうひん） — prize, trophy · noun
+- くしゃくしゃ — messy, scrunch · adverb
+- 金融（きんゆう） — finance · noun
+- 終了（しゅうりょう） — end, expiry · verbal noun
+- 完了（かんりょう） — completion · verbal noun
+- 修了（しゅうりょう） — completion · verbal noun
+- 承認（しょうにん） — approval, recognition · verbal noun
+- 承知（しょうち） — consent, knowledge · verbal noun
+- けち — stingy, miser · adjectival noun
+- 納める（おさめる） — pay a tax or fee · verb
+- 説得（せっとく） — persuasion · verbal noun
+- 得る（える） — obtain, gain · verb
+- 乾燥（かんそう） — drying up, desiccation · verbal noun
+- 幹部（かんぶ） — executive · noun
+- 素早い（すばやい） — nimble, quick · adjective
+- 石炭（せきたん） — coal · noun
+- 岩（いわ） — rock, crag · noun
+- 岸（きし） — shore, bank · noun
+- スモッグ — smog · noun
+- 植物（しょくぶつ） — plant, vegetation · noun
+- 植民地（しょくみんち） — colony, settlement · noun
+- 植木（うえき） — garden plant, shrub · noun
+- 植物園（しょくぶつえん） — botanical garden · noun
+- 根拠（こんきょ） — grounds, basis · noun
+- 根本（こんぽん） — basis, root · noun
+- 板（いた） — board, plank · noun
+- すり — pickpocket · noun
+- 草花（くさばな） — plants and flowers · noun
+- 草木（くさき） — plants and trees · noun
+- 言葉遣い（ことばづかい） — wording, language · noun
+- 落ち葉（おちば） — fallen leaves · noun
+- 木の葉（このは） — tree leaves · noun
+- 書き言葉（かきことば） — written language · noun
+- おにぎり — rice ball · noun
+- 呼吸（こきゅう） — breathing, respiration · verbal noun
+- 及ぶ（およぶ） — reach to, come up to · verb
+- 高級（こうきゅう） — high rank, high class · adjectival noun
+- 級（きゅう） — grade, class · noun
+- 上級（じょうきゅう） — higher grade, advanced class · noun
+- かみそり — razor · noun
+- 出血（しゅっけつ） — bleeding, hemorrhage · verbal noun
+- 血液（けつえき） — blood · noun
+- 液（えき） — liquid, fluid · noun
+- 背中（せなか） — back · noun
+- がやがや — chatter loudly · adverb
+- 背広（せびろ） — business suit · noun
+- 骨折（こっせつ） — fracture, broken bone · verbal noun
+- 健康（けんこう） — health · noun
+- 診断（しんだん） — diagnosis · verbal noun
+- 診察（しんさつ） — medical examination · verbal noun
+- 清書（せいしょ） — clean copy · verbal noun
+- 清潔（せいけつ） — cleanliness, neatness · adjectival noun
+- 監督（かんとく） — supervisor, film director · verbal noun
+- 活躍（かつやく） — activity, action · verbal noun
+- 再生（さいせい） — playback · verbal noun
+- 再会（さいかい） — reunion · verbal noun
+- 編む（あむ） — knit · verb
+- 解放（かいほう） — release, setting free · verbal noun
+- ぐずぐず — drag one's feet, waste time · adverb
+- 視点（してん） — viewpoint · noun
+- 衣類（いるい） — clothes, garments · noun
+- 衣服（いふく） — clothes, dress · noun
+- 衣料（いりょう） — clothing, garments · noun
+- くすぐったい — ticklish · adjective
+- 仮に（かりに） — supposing that, even if · adverb
+- 仮名遣い（かなづかい） — kana orthography, use of kana · noun
+- 演説（えんぜつ） — speech, address · verbal noun
+- 公演（こうえん） — public performance · verbal noun
+- 演じる（えんじる） — perform, play · verb
+- 出演（しゅつえん） — appearance on stage, performance · verbal noun
+- くたびれる — get tired, be worn out · verb
+- 劇（げき） — drama, play · noun
+- 劇場（げきじょう） — theater · noun
+- 演劇（えんげき） — drama, play · noun
+- 喜劇（きげき） — comedy · noun
+- 悲しみ（かなしみ） — grief, sadness · noun
+- 集団（しゅうだん） — group, mass · noun
+- 固定（こてい） — fixing, stability · verbal noun
+- いらいら — be irritated · adjective
+- 固める（かためる） — harden, strengthen · verb
+- 固まる（かたまる） — harden, solidify · verb
+- 固体（こたい） — solid, solid matter · noun
+- 固有（こゆう） — peculiar to, characteristic · adjectival noun
+- 主催（しゅさい） — sponsorship, promotion · verbal noun · forgotten 3×
+- 促す（うながす） — hasten, urge · verb
+- 催促（さいそく） — demand, urging · verbal noun
+- エチケット — etiquette · noun
+- 古典（こてん） — classics · noun
+- 辞典（じてん） — dictionary · noun
+- 殊に（ことに） — especially, exceptionally · adverb
+- ご免（ごめん） — sorry · noun
+- 許可（きょか） — permission, approval · verbal noun
+- 訓練（くんれん） — training, drill · verbal noun
+- かっと — lose one's temper, fly into a rage · adverb
+- 訓読み（くんよみ） — Japanese pronunciation · verbal noun
+- 訓（くん） — Japanese reading of kanji · noun
+- 形容詞（けいようし） — adjective · noun
+- 上司（じょうし） — boss · noun
+- 司会（しかい） — master of ceremonies, host · verbal noun
+- 購入（こうにゅう） — purchase · verbal noun
+- 講演（こうえん） — lecture · verbal noun
+- 講義（こうぎ） — lecture · verbal noun
+- 休講（きゅうこう） — cancellation of lecture · verbal noun
+- 講師（こうし） — speaker, lecturer · noun
+- 技師（ぎし） — engineer, technician · noun
+- かんかん — furious · adverb
+- お手伝い（おてつだい） — helper, assistant · verbal noun
+- 小鳥（ことり） — small bird · noun
+- 大声（おおごえ） — loud voice · noun
+- 歌声（うたごえ） — singing voice · noun
+- 騒ぎ（さわぎ） — clamor, commotion · noun
+- 騒がしい（さわがしい） — noisy · adjective
+- 飼う（かう） — raise, keep · verb
+- これまで — until now, until here · noun
+- 感激（かんげき） — deep emotion, moving · verbal noun
+- 興味（きょうみ） — interest · noun
+- 驚き（おどろき） — surprise, amazement · noun
+- 驚かす（おどろかす） — surprise, amaze · verb
+- じめじめ — feel damp, clammy · adverb
+- 至る所（いたるところ） — everywhere, all over · noun
+- 一致（いっち） — accord, agreement · verbal noun
+- 致す（いたす） — humbly do · verb
+- じろじろ — stare · adverb
+- 坂（さか） — slope, incline · noun
+- 狭める（せばめる） — narrow, contract · verb
+- 徐行（じょこう） — slow speed · verbal noun
+- 硬さ（かたさ） — hardness · noun
+- あり — ant · noun
+- 緊張（きんちょう） — tension, strain · verbal noun
+- 出張（しゅっちょう） — business trip · verbal noun
+- 衝突（しょうとつ） — collision, conflict · verbal noun
+- 煙突（えんとつ） — chimney, smokestack · noun
+- 避ける（さける） — avoid, evade · verb
+- 軍事（ぐんじ） — military affairs · noun
+- 軍（ぐん） — army, troops · noun
+- 自衛隊（じえいたい） — Self Defense Forces · noun
+- 軍隊（ぐんたい） — army, troops · noun
+- 撃つ（うつ） — fire, shoot · verb
+- 暴れる（あばれる） — act violently, rage about · verb · forgotten 4×
+- 絶対（ぜったい） — absolutely · adverb
+- 気絶（きぜつ） — fainting · verbal noun
+- 消防（しょうぼう） — fire fighting, fire prevention · noun
+- 嫌う（きらう） — dislike · verb
+- 嫌がる（いやがる） — dislike, hate · verb
+- くたくた — exhausted · adjective
+- 好き嫌い（すききらい） — likes and dislikes, taste · noun
+- 抗議（こうぎ） — protest, remonstrance · verbal noun
+- 素敵（すてき） — lovely, nice · adjective
+- 脅かす（おどかす） — threaten, intimidate · verb
+- こしょう — pepper · noun
+- 勢い（いきおい） — vigor, momentum · noun
+- 恐れる（おそれる） — fear, apprehend · verb
+- 怖がる（こわがる） — be afraid of, fear · verb
+- 巨大（きょだい） — huge, gigantic · adjectival noun
+- すべすべ — smooth · adverb
+- 拒否（きょひ） — denial, rejection · verbal noun
+- 系列（けいれつ） — affiliation · noun
+- 系統（けいとう） — system, lineage · noun
+- 子孫（しそん） — descendant, offspring · noun
+- 絹（きぬ） — silk, silk fabrics · noun
+- 偉大（いだい） — great, mighty · adjective
+- 刀（かたな） — sword, blade · noun
+- 柄（がら） — pattern, design · noun
+- 柄（え） — handle, grip · noun
+- 枝（えだ） — branch, twig · noun
+- あきれる — be stunned in disappointment or disbelief · verb · forgotten 3×
+- 枯れる（かれる） — wither, die · verb
+- 木枯らし（こがらし） — cold wintry wind · noun
+- 詩（し） — poetry · noun
+- 詩人（しじん） — poet · noun
+- 兼ねる（かねる） — serve two functions, combine · verb
+- あだな — nickname · noun
+- 鋭い（するどい） — pointed, acute · adjective
+- 鎖（くさり） — chain, tether · noun
+- 鑑賞（かんしょう） — viewing, enjoyment (of art) · verbal noun
+- 鐘（かね） — bell, gong · noun
+- 寿命（じゅみょう） — life span · noun
+- あふれる — over flow, flood · verb
+- 砂浜（すなはま） — sandy beach, sands · noun
+- 沖（おき） — offshore · noun
+- 泉（いずみ） — spring, fountain · noun
+- 温泉（おんせん） — hot spring · noun
+- 叫び（さけび） — shout, cry · noun
+- いか — squid · noun
+- 叫ぶ（さけぶ） — shout, cry out · verb
+- 懸ける（かける） — stake · verb
+- 恩（おん） — debt of gratitude, kindness · noun
+- 市街（しがい） — the streets, downtown · noun
+- 粉（こな） — powder, flour · noun
+- 小麦（こむぎ） — wheat · noun
+- 小麦粉（こむぎこ） — flour · noun
+- いつのまに — when · adverb
+- 大麦（おおむぎ） — barley · noun
+- 暦（こよみ） — calendar, almanac · noun
+- 皮（かわ） — peel, fur · noun
+- 毛皮（けがわ） — fur · noun
+- 尾（お） — tail · noun
+- インフレーション — inflation · noun
+- 白髪（しらが） — white hair, gray hair · noun
+- 唇（くちびる） — lip, lips · noun
+- 解釈（かいしゃく） — interpretation, explanation · verbal noun
+- 居間（いま） — living room · noun
+- 居る（おる） — be present, stay (humble) · verb
+- 一層（いっそう） — more, even more · adverb
+- ウィークエンド — weekend · noun
+- 高層（こうそう） — high altitude, high-rise · noun
+- 戸籍（こせき） — family register · noun
+- ガラス戸（がらすど） — glass door · noun
+- 鮮やか（あざやか） — vivid · adjective
+- うがい — gargling · verbal noun · forgotten 3×
+- 君（きみ） — you · noun
+- 脂（あぶら） — fat, grease · noun
+- 山脈（さんみゃく） — mountain range · noun
+- 暮らす（くらす） — live, earn one's livelihood · verb
+- うきうき — feel excited · adverb
+- 暮らし（くらし） — living, livelihood · noun
+- 茎（くき） — stem · noun
+- 推薦（すいせん） — recommendation, nomination · verbal noun
+- 荒い（あらい） — wild, reckless · adjective
+- 荒い（あらい） — harsh, rough · adjective
+- 荒す（あらす） — damage, ransack · verb
+- 慌てる（あわてる） — be flurried, hurry · verb
+- 行儀（ぎょうぎ） — manners, behavior · noun
+- 赤ん坊（あかんぼう） — baby · noun
+- お坊さん（おぼうさん） — monk, priest · noun
+- 筋肉（きんにく） — muscle, sinews · noun
+- 筋道（すじみち） — method, logic · noun
+- おだてる — flatter · verb
+- 座布団（ざぶとん） — cushion · noun
+- 抱く（いだく） — embrace, hug · verb
+- 慣用句（かんようく） — idiom, common phrase · noun
+- 下旬（げじゅん） — end of the month · noun
+- 飾り（かざり） — ornament, decoration · noun
+- 姓名（せいめい） — full name · noun
+- 姓（せい） — surname, family name · noun
+- 幼い（おさない） — young, childish · adjective
+- 瞬間（しゅんかん） — instant, moment · noun
+- 心掛ける（こころがける） — bear in mind, try · verb
+- 腰掛ける（こしかける） — sit down · verb
+- 腰掛け（こしかけ） — stool, seat · noun
+- がぶがぶ — (the sound of) guzzling · adverb
+- 指揮（しき） — command, initiative · verbal noun
+- からす — crow, raven · noun
+- 偶然（ぐうぜん） — chance, accident · adjectival noun
+- 城（しろ） — castle, fort · noun
+- がん — cancer · noun
+- 悔しい（くやしい） — vexing, frustrating · adjective
+- 俺（おれ） — I, me · noun
+- 相撲（すもう） — sumo wrestling · noun
+- 惜しむ（おしむ） — grudge, regret · verb
+- 惜しい（おしい） — almost, close · adjective
+- 覚悟（かくご） — readiness, resolution · noun
+- 怪しむ（あやしむ） — suspect · verb
+- 勧める（すすめる） — suggest, recommend · verb
+- ぎょうざ — Chinese dumpling · noun
+- 焦げる（こげる） — scorch, burn · verb
+- 英雄（えいゆう） — hero · noun
+- 収穫（しゅうかく） — harvest, harvesting · verbal noun
+- 稲（いね） — rice plant · noun
+- 稼ぐ（かせぐ） — earn, make money · verb
+- 原稿用紙（げんこうようし） — manuscript paper, writing pad · noun
+- 穏やか（おだやか） — calm, mild · adjective
+- 隠す（かくす） — hide, conceal · verb
+- お陰（おかげ） — help, thanks to · noun
+- 陰（かげ） — shade, behind the scenes · noun
+- 貝（かい） — shellfish, shell · noun
+- 賢い（かしこい） — wise, smart · adjective
+- 頑固（がんこ） — stubborn, obstinate · adjectival noun
+- 頂く（いただく） — receive, eat · verb
+- 刑事（けいじ） — detective · noun
+- ゴールデンウィーク — golden week · noun
+- 駆ける（かける） — gallop, run quickly · verb
+- 駆け足（かけあし） — gallop, run · verbal noun
+- 丘（おか） — hill, slope · noun
+- 汗（あせ） — sweat · noun
+- 敷金（しききん） — deposit, key money · noun
+- 勘違い（かんちがい） — misunderstanding · verbal noun
+- これから — from now on, after this · noun
+- 墨（すみ） — black ink · noun
+- 講堂（こうどう） — lecture hall, auditorium · noun
+- ＪＲ（じぇいあーる） — JR, Japan Railways · noun
+- 猿（さる） — monkey, ape · noun
+- 地獄（じごく） — hell, inferno · noun
+- 祈る（いのる） — pray, wish for · verb
+- 先祖（せんぞ） — forefather, ancestor · noun
+- 邪魔（じゃま） — hindrance, obstruction · verbal noun
+- 改善（かいぜん） — improvement, amelioration · verbal noun
+- 梅（うめ） — plum blossom · noun
+- 梅干（うめぼし） — pickled plum · noun
+- 巣（す） — nest, den · noun
+- 嘘つき（うそつき） — liar · noun
+- 癖（くせ） — habit, mannerism · noun
+- 下痢（げり） — diarrhea · verbal noun
+- 崖（がけ） — cliff · noun
+- 嵐（あらし） — storm · noun
+- 噂（うわさ） — gossip, rumor · verbal noun
+- 田舎（いなか） — country, countryside · noun
+- お嬢さん（おじょうさん） — young lady, someone's daughter · noun
+- 揚げる（あげる） — deep-fry · verb
+- 諦める（あきらめる） — abandon, give up · verb
+- 花瓶（かびん） — flower vase · noun
+- 亀（かめ） — turtle, tortoise · noun
+- 羨ましい（うらやましい） — envious, envy · adjective
+- 歌舞伎（かぶき） — kabuki · noun
+- 咳（せき） — cough · noun
+- データ — data · noun
+- 日日（ひにち） — date, number of days · noun
+- ただ — simply, merely · adverb
+- 年々（ねんねん） — year by year, annually · adverb
+- メーカー — maker, manufacturer · noun
+- 何で（なんで） — why, what for · adverb
+- レベル — level · noun
+- モデル — model · noun
+- やり方（やりかた） — way of doing · noun
+- 出来るだけ（できるだけ） — as much as possible · adverb
+- トップ — top · noun
+- ブーム — boom · noun
+- チーム — team · noun
+- 花火（はなび） — fireworks, firecrackers · noun
+- タイプ — type · noun
+- 男子（だんし） — boy, young man · noun
+- 私（わたくし） — I, myself · noun
+- 友人（ゆうじん） — friend · noun
+- ビジネス — business · noun
+- 元々（もともと） — originally, by nature · adverb
+- ネットワーク — network · noun
+- デモ — demonstration · noun
+- 門（もん） — gate, entrance · noun
+- ワープロ — word processor · noun
+- 低（てい） — low · noun
+- メンバー — member · noun
+- ハードウェア — hardware · noun
+- 人前（ひとまえ） — in front of other people · noun
+- マスコミ — mass communication · noun
+- 七夕（たなばた） — Tanabata Festival, Star Festival · noun
+- パターン — pattern · noun
+- 月見（つきみ） — moon viewing · noun
+- 読み書き（よみかき） — reading and writing · noun
+- デザイン — design · verbal noun
+- 電力（でんりょく） — electric power, electricity · noun
+- 電子（でんし） — electron, electronic · noun
+- ファン — fan, lover · noun
+- ルール — rule · noun
+- ヘリコプター — helicopter · noun
+- 毎度（まいど） — every time, always · noun
+- トンネル — tunnel · noun
+- バランス — balance · noun
+- 鉄（てつ） — iron · noun
+- プロ — pro, professional · noun
+- 理解（りかい） — understanding, comprehension · verbal noun
+- チャンス — chance · noun
+- 無理（むり） — impossibility · noun
+- 無料（むりょう） — no charge, free · noun
+- ハード — hard · adjective
+- マイナス — minus, below zero · verbal noun
+- 段（だん） — step, grade · noun
+- プラス — plus, advantage · verbal noun
+- 昔（むかし） — old times, the old days · noun
+- 天才（てんさい） — genius · noun
+- ムード — mood · noun
+- どく — move out of the way · verb
+- ファッション — fashion · noun
+- ブレーキ — brake · noun
+- 村（むら） — village, hamlet · noun
+- ミス — mistake · verbal noun
+- ヨット — sailboat, yacht · noun
+- ロック — rock (music) · noun
+- 体育（たいいく） — physical training, physical education · noun
+- レンズ — lens · noun
